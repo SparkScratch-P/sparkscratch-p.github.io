@@ -112,7 +112,7 @@ ___
 
 ## App-ocalypse
 
-<img src=" https://github.com/App-ocalypse/App-ocalypse/blob/main/appocalypse%20poster%20icon.png?raw=true" alt="SUCSESicon" width="300"/> 
+<img src="https://github.com/App-ocalypse/App-ocalypse/blob/main/appocalypse%20poster%20icon.png?raw=true" alt="appocalypsepostericon" width="300"/> 
 
 
  An Open Source App Store for users and developers, in every OS

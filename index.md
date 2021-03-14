@@ -8,7 +8,7 @@
 
 [![github](https://raw.githubusercontent.com/SparkScratch-P/Home/gh-pages/github.png) ](https://github.com/SparkScratch-P) [ ![scratch](https://raw.githubusercontent.com/SparkScratch-P/Home/gh-pages/scratch.png) ](https://scratch.mit.edu/users/SparkScratch_P/) [ ![Scratch Wiki](https://raw.githubusercontent.com/SparkScratch-P/Home/gh-pages/scratch%20wiki.png)](https://en.scratch-wiki.info/wiki/User:SparkScratch_P)
 
-Hi Guys !!! I am SparkScratch_P (Prodyumna Pal). Visit my [Scratch profile](https://scratch.mit.edu/users/SparkScratch_P/). 
+ **Hi Guys !!!** I am SparkScratch_P (Prodyumna Pal). Visit my [Scratch profile](https://scratch.mit.edu/users/SparkScratch_P/). 
 * Scratcher 
 * Programming for 6 yrs 
 * Learning IT for 11 yrs 
@@ -16,8 +16,8 @@ Hi Guys !!! I am SparkScratch_P (Prodyumna Pal). Visit my [Scratch profile](http
 * [Scratch Wiki Editor](https://en.scratch-wiki.info/wiki/User:SparkScratch_P) 
 * 32nd [Scratch-Addons](https://scratchaddons.com/) [Contributor](https://scratchaddons.com/contributors)
 
-Date of Birth: 12/12/2006 
-Location: [Kolkata(India)](https://www.google.com/maps/place/Kolkata,+West+Bengal/@22.6750155,87.7677824,138082m/data=!3m2!1e3!4b1!4m5!3m4!1s0x39f882db4908f667:0x43e330e68f6c2cbc!8m2!3d22.572646!4d88.363895) 
+ Date of Birth: 12/12/2006 
+ Location: [Kolkata(India)](https://www.google.com/maps/place/Kolkata,+West+Bengal/@22.6750155,87.7677824,138082m/data=!3m2!1e3!4b1!4m5!3m4!1s0x39f882db4908f667:0x43e330e68f6c2cbc!8m2!3d22.572646!4d88.363895) 
 
 ## As a scratcher...
 
@@ -25,22 +25,36 @@ I am a scratcher since June 21'2020 to Dec 15'2020.
 
 Ranks in india: (scratchstats Dec 15)
 
- Followers - 19
- Viewers   -  14
- Luvs    -    17
- Faves   -    14
- Comments-    11
+ * Followers - 19
+ * Viewers   -  14
+ * Luvs    -    17
+ * Faves   -    14
+ * Comments-    11
 
  Hence, *15th most celebrated scratcher in 179 days on scratch.*
 
 I got 110 follwers in a single day, 5th November.
 I was also 1307th most followed globally.
 
-My most viewed project (unshared) had 39000 viewers in a week and had 3 trending projects!
+My most viewed project (unshared) had **39000+ viewers** in a week and had **3 trending projects**!
 
 ## My EPIC Contents... 
 
 ![SparkScratch_P on Scratch](https://cdn2.scratch.mit.edu/get_image/user/62215667_60x60.png "SparkScratch_P on Scratch") [![btn](https://raw.githubusercontent.com/SparkScratch-P/Home/gh-pages/cooltext374215334440657.png) ](https://scratch.mit.edu/users/SparkScratch_P/projects/) 
+
+### Super-Exciting Web-apps and Developer Toolkits:
+
+[![SUCSESicon](https://raw.githubusercontent.com/SparkScratch-P/SUCSES/main/SUCSES%20ico.png
+) ](https://sparkscratch-p.github.io/SUCSES/) 
+
+**SUCSES** (SPARK Universal Code Series Encoded in Scratch) is an opensource *encode-decode engine kit*, entirely made on scratch made by SparkScratch_P. It has been made in 3 different versions; 16, 32 and 64 respectively, each capable of different activities, namely encyption of text, list and images.
+
+[![Archiebuild icon ](https://github.com/SparkScratch-P/ArchieBuild/blob/main/Archiebuild%20icon.png?raw=true
+) ](https://sparkscratch-p.github.io/ArchieBuild/) 
+
+Archiebuild is a MSW LOGO-like programming software, coded on scratch, published as JS. This software is able to program a pen such that the pen will draw a figure as coded. Here the movements of the pen r coded, and the code is saved in a list named CODE:\_ . On saving, it encodes the list and copied to clipboard. This Save code is actually the SUCSES 64 code. The ArchieBuild ans well as the SUCSES 64 reader is capable of encoding and decoding or program and running it.
+
+### Games Lab
 
 [![boxelninja](https://cdn2.scratch.mit.edu/get_image/project/436088467_144x108.png) ](https://sparkscratch-p.github.io/Boxel-Bluebound/) [ ![jettycat](https://cdn2.scratch.mit.edu/get_image/project/416525168_144x108.png) ](https://sparkscratch-p.github.io/Jetty-Cat/)
 

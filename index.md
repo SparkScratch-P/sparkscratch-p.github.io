@@ -40,15 +40,20 @@ My most viewed project (unshared) had **39000+ viewers** in a week and had **3 t
 
 ## My EPIC Contents... 
 
-### Super-Exciting Web-apps and Developer Toolkits:
+### Super-Exciting Web-apps 
+
+#### SUCSES 64 Reader
 
 <img src="https://raw.githubusercontent.com/SparkScratch-P/SUCSES/main/SUCSES%20ico.png" alt="SUCSESicon" width="100"/> 
 
-<a href="https://sparkscratch-p.github.io/SUCSES/">
+<a href="https://turbowarp.org/497676710/embed">
          <img src="cooltext379003618193795.png" onmouseover="this.src='cooltext379003618193795MouseOver.png';" onmouseout="this.src='cooltext379003618193795.png';" />
       </a>
 
-**SUCSES** (SPARK Universal Code Series Encoded in Scratch) is an opensource *encode-decode engine kit*, entirely made on scratch made by SparkScratch_P. It has been made in 3 different versions; 16, 32 and 64 respectively, each capable of different activities, namely encyption of text, list and images.
+**SUCSES** (SPARK Universal Code Series Encoded in Scratch) is an opensource *encode-decode engine kit*, entirely made on scratch made by SparkScratch_P. It has been made in 3 different versions; 16, 32 and 64 respectively, each capable of different activities, namely encyption of text, list and images. ****SUCSES 64*** is the **Image Encode-Decode** system of SECSES code series.
+It is not available as a snippet engine, rather , it requires 3 scratch sprites, namely [encode.sprite3](https://github.com/SparkScratch-P/SUCSES/blob/main/README.md#encodesprite3) , [decode.sprite3](https://github.com/SparkScratch-P/SUCSES/blob/main/README.md#decodesprite3) and [pen.sprite3](https://github.com/SparkScratch-P/SUCSES/blob/main/README.md#pensprite3)
+
+#### ArchieBuild
 
 <img src="https://github.com/SparkScratch-P/ArchieBuild/blob/main/Archiebuild%20icon.png?raw=true" alt="Archiebuild icon" width="100"/> 
 
@@ -64,6 +69,10 @@ My most viewed project (unshared) had **39000+ viewers** in a week and had **3 t
 [![boxelninja](https://cdn2.scratch.mit.edu/get_image/project/436088467_144x108.png) ](https://sparkscratch-p.github.io/Boxel-Bluebound/) [ ![jettycat](https://cdn2.scratch.mit.edu/get_image/project/416525168_144x108.png) ](https://sparkscratch-p.github.io/Jetty-Cat/)[ ![dvr](https://cdn2.scratch.mit.edu/get_image/project/412551036_144x108.png) ](https://sparkscratch-p.github.io/Dragon-Virtual-Racing/)[ ![counter invase](https://cdn2.scratch.mit.edu/get_image/project/422728150_144x108.png) ](https://sparkscratch-p.github.io/counter-invase-fps/)
 
 *most games will be available in [Appocalypse](https://app-ocalypse.github.io/App-ocalypse/)
+
+### Developer Guides & Toolkits:
+
+
 
 #### On the Scratch Website...
 ![SparkScratch_P on Scratch](https://cdn2.scratch.mit.edu/get_image/user/62215667_60x60.png "SparkScratch_P on Scratch")

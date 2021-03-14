@@ -38,22 +38,38 @@ I was also 1307th most followed globally.
 
 My most viewed project (unshared) had **39000+ viewers** in a week and had **3 trending projects**!
 
-## My EPIC Contents... 
+___
 
-### Super-Exciting Web-apps 
+# My EPIC Contents... 
 
-#### SUCSES 64 Reader
+
+## Super-Exciting Web-apps 
+
+
+
+### SUCSES 64 Reader
 
 <img src="https://raw.githubusercontent.com/SparkScratch-P/SUCSES/main/SUCSES%20ico.png" alt="SUCSESicon" width="100"/> 
 
-<a href="https://turbowarp.org/497676710/embed">
+<a href="https://sparkscratch-p.github.io/SUCSES-64-Reader/">
          <img src="cooltext379003618193795.png" onmouseover="this.src='cooltext379003618193795MouseOver.png';" onmouseout="this.src='cooltext379003618193795.png';" />
       </a>
 
-**SUCSES** (SPARK Universal Code Series Encoded in Scratch) is an opensource *encode-decode engine kit*, entirely made on scratch made by SparkScratch_P. It has been made in 3 different versions; 16, 32 and 64 respectively, each capable of different activities, namely encyption of text, list and images. ****SUCSES 64*** is the **Image Encode-Decode** system of SECSES code series.
-It is not available as a snippet engine, rather , it requires 3 scratch sprites, namely [encode.sprite3](https://github.com/SparkScratch-P/SUCSES/blob/main/README.md#encodesprite3) , [decode.sprite3](https://github.com/SparkScratch-P/SUCSES/blob/main/README.md#decodesprite3) and [pen.sprite3](https://github.com/SparkScratch-P/SUCSES/blob/main/README.md#pensprite3)
+ **SUCSES** (SPARK Universal Code Series Encoded in Scratch) is an opensource *encode-decode engine kit*, entirely made on scratch made by SparkScratch_P. It has been made in 3 different versions; 16, 32 and 64 respectively, each capable of different activities, namely encyption of text, list and images. ****SUCSES 64*** is the **Image Encode-Decode** system of SECSES code series.
+ It is not available as a snippet engine, rather , it requires 3 scratch sprites, namely [encode.sprite3](https://github.com/SparkScratch-P/SUCSES/blob/main/README.md#encodesprite3) , [decode.sprite3](https://github.com/SparkScratch-P/SUCSES/blob/main/README.md#decodesprite3) and [pen.sprite3](https://github.com/SparkScratch-P/SUCSES/blob/main/README.md#pensprite3)
 
-#### ArchieBuild
+### Scratch-3 Embed Generator
+
+<img src="https://uploads.scratch.mit.edu/users/avatars/15883188.png" alt="Scratchcat pfp" width="100"/> 
+
+<a href="https://sparkscratch-p.github.io/sb3-project-embeder/">
+         <img src="cooltext379003618193795.png" onmouseover="this.src='cooltext379003618193795MouseOver.png';" onmouseout="this.src='cooltext379003618193795.png';" />
+      </a>
+
+
+ An embed genrator where u can ***customize Size, border, transperancy and source(Scratch or Turbowrap)***. The outputs r ***HTML embed code, image URL and cloudmonitor URL in Scratch***.
+
+### ArchieBuild
 
 <img src="https://github.com/SparkScratch-P/ArchieBuild/blob/main/Archiebuild%20icon.png?raw=true" alt="Archiebuild icon" width="100"/> 
 
@@ -64,17 +80,23 @@ It is not available as a snippet engine, rather , it requires 3 scratch sprites,
 
 **Archiebuild** is a MSW LOGO-like *programming software, coded on scratch, published as JS*. This software is able to program a pen such that the pen will draw a figure as coded. Here the movements of the pen r coded, and the code is saved in a list named `CODE:\_` . On saving, it encodes the list and copied to clipboard. This Save code is actually the *SUCSES 64 code*. The ArchieBuild ans well as the **SUCSES 64 reader** is capable of encoding and decoding or program and running it.
 
-### Exciting games to Play in ur Browser
+## Exciting games to Play in ur Browser
 
 [![boxelninja](https://cdn2.scratch.mit.edu/get_image/project/436088467_144x108.png) ](https://sparkscratch-p.github.io/Boxel-Bluebound/) [ ![jettycat](https://cdn2.scratch.mit.edu/get_image/project/416525168_144x108.png) ](https://sparkscratch-p.github.io/Jetty-Cat/)[ ![dvr](https://cdn2.scratch.mit.edu/get_image/project/412551036_144x108.png) ](https://sparkscratch-p.github.io/Dragon-Virtual-Racing/)[ ![counter invase](https://cdn2.scratch.mit.edu/get_image/project/422728150_144x108.png) ](https://sparkscratch-p.github.io/counter-invase-fps/)
 
 *most games will be available in [Appocalypse](https://app-ocalypse.github.io/App-ocalypse/)
 
-### Developer Guides & Toolkits:
+## Developer Guides & Toolkits:
 
+The ***SUCSES Encoding and Decoding Series*** for encoding text, lists and even images , fast & easily on Scratch
 
+[Repository](https://github.com/SparkScratch-P/SUCSES) [Documentation](https://sparkscratch-p.github.io/SUCSES/)
 
-#### On the Scratch Website...
+***Sb3 to Exe*** converter, best method
+
+[Repository](https://github.com/SparkScratch-P/Sb3-to-exe) [Documentation](https://sparkscratch-p.github.io/Sb3-to-exe/)
+
+## On the Scratch Website...
 ![SparkScratch_P on Scratch](https://cdn2.scratch.mit.edu/get_image/user/62215667_60x60.png "SparkScratch_P on Scratch")
 
 [![1](https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/1.jpg?raw=true) ](https://scratch.mit.edu/users/SparkScratch_P/projects/) 
@@ -84,9 +106,9 @@ It is not available as a snippet engine, rather , it requires 3 scratch sprites,
 [![btn](https://raw.githubusercontent.com/SparkScratch-P/Home/gh-pages/cooltext374215334440657.png) ](https://scratch.mit.edu/users/SparkScratch_P/projects/) 
 
 
-## My Organisation
+# My Organisation
 
-### App-ocalypse
+## App-ocalypse
 
  An Open Source App Store for users and developers, in every OS
 

@@ -44,8 +44,11 @@ My most viewed project (unshared) had **39000+ viewers** in a week and had **3 t
 
 ### Super-Exciting Web-apps and Developer Toolkits:
 
-[![SUCSESicon](https://raw.githubusercontent.com/SparkScratch-P/SUCSES/main/SUCSES%20ico.png
-) ](https://sparkscratch-p.github.io/SUCSES/) 
+<img src="https://raw.githubusercontent.com/SparkScratch-P/SUCSES/main/SUCSES%20ico.png" alt="SUCSESicon" width="50"/> 
+
+<a href="https://sparkscratch-p.github.io/SUCSES/">
+         <img src="cooltext379003618193795.png" onmouseover="this.src='cooltext379003618193795MouseOver.png';" onmouseout="this.src='cooltext379003618193795.png';" />
+      </a>
 
 **SUCSES** (SPARK Universal Code Series Encoded in Scratch) is an opensource *encode-decode engine kit*, entirely made on scratch made by SparkScratch_P. It has been made in 3 different versions; 16, 32 and 64 respectively, each capable of different activities, namely encyption of text, list and images.
 

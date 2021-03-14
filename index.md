@@ -14,6 +14,7 @@
 * Learning IT for 11 yrs 
 * Coded in: 15+ languages,20+ IDEs 
 * [Scratch Wiki Editor](https://en.scratch-wiki.info/wiki/User:SparkScratch_P) 
+* Github Developer Program Member
 * 32nd [Scratch-Addons](https://scratchaddons.com/) [Contributor](https://scratchaddons.com/contributors)
 
  Date of Birth: 12/12/2006 
@@ -105,12 +106,19 @@ The ***SUCSES Encoding and Decoding Series*** for encoding text, lists and even 
 
 [![btn](https://raw.githubusercontent.com/SparkScratch-P/Home/gh-pages/cooltext374215334440657.png) ](https://scratch.mit.edu/users/SparkScratch_P/projects/) 
 
+___
 
 # My Organisation
 
 ## App-ocalypse
 
+<img src=" https://github.com/App-ocalypse/App-ocalypse/blob/main/appocalypse%20poster%20icon.png?raw=true" alt="SUCSESicon" width="300"/> 
+
+
  An Open Source App Store for users and developers, in every OS
+ 
+ <iframe src="https://app-ocalypse.github.io/App-ocalypse/" allowtransparency="true" width="550" height="402" frameborder="10" scrolling="yes" allowfullscreen></iframe>
+ 
 
 
 # Thank You

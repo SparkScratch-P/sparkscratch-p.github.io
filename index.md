@@ -59,22 +59,17 @@ My most viewed project (unshared) had **39000+ viewers** in a week and had **3 t
       </a>
 
 
-Archiebuild is a MSW LOGO-like programming software, coded on scratch, published as JS. This software is able to program a pen such that the pen will draw a figure as coded. Here the movements of the pen r coded, and the code is saved in a list named CODE:\_ . On saving, it encodes the list and copied to clipboard. This Save code is actually the SUCSES 64 code. The ArchieBuild ans well as the SUCSES 64 reader is capable of encoding and decoding or program and running it.
+**Archiebuild** is a MSW LOGO-like *programming software, coded on scratch, published as JS*. This software is able to program a pen such that the pen will draw a figure as coded. Here the movements of the pen r coded, and the code is saved in a list named `CODE:\_` . On saving, it encodes the list and copied to clipboard. This Save code is actually the *SUCSES 64 code*. The ArchieBuild ans well as the **SUCSES 64 reader** is capable of encoding and decoding or program and running it.
 
 ### Games Lab
 
-[![boxelninja](https://cdn2.scratch.mit.edu/get_image/project/436088467_144x108.png) ](https://sparkscratch-p.github.io/Boxel-Bluebound/) [ ![jettycat](https://cdn2.scratch.mit.edu/get_image/project/416525168_144x108.png) ](https://sparkscratch-p.github.io/Jetty-Cat/)
+[![boxelninja](https://cdn2.scratch.mit.edu/get_image/project/436088467_144x108.png) ](https://sparkscratch-p.github.io/Boxel-Bluebound/) [ ![jettycat](https://cdn2.scratch.mit.edu/get_image/project/416525168_144x108.png) ](https://sparkscratch-p.github.io/Jetty-Cat/)[ ![dvr](https://cdn2.scratch.mit.edu/get_image/project/412551036_144x108.png) ](https://sparkscratch-p.github.io/Dragon-Virtual-Racing/)[ ![counter invase](https://cdn2.scratch.mit.edu/get_image/project/422728150_144x108.png) ](https://sparkscratch-p.github.io/counter-invase-fps/)
 
 ## My Organisation
 
 ### App-ocalypse
 
  An Open Source App Store for users and developers, in every OS
-
-
-
-
-
 
 
 # Thank You

@@ -40,8 +40,6 @@ My most viewed project (unshared) had **39000+ viewers** in a week and had **3 t
 
 ## My EPIC Contents... 
 
-![SparkScratch_P on Scratch](https://cdn2.scratch.mit.edu/get_image/user/62215667_60x60.png "SparkScratch_P on Scratch") [![btn](https://raw.githubusercontent.com/SparkScratch-P/Home/gh-pages/cooltext374215334440657.png) ](https://scratch.mit.edu/users/SparkScratch_P/projects/) 
-
 ### Super-Exciting Web-apps and Developer Toolkits:
 
 <img src="https://raw.githubusercontent.com/SparkScratch-P/SUCSES/main/SUCSES%20ico.png" alt="SUCSESicon" width="100"/> 
@@ -66,6 +64,16 @@ My most viewed project (unshared) had **39000+ viewers** in a week and had **3 t
 [![boxelninja](https://cdn2.scratch.mit.edu/get_image/project/436088467_144x108.png) ](https://sparkscratch-p.github.io/Boxel-Bluebound/) [ ![jettycat](https://cdn2.scratch.mit.edu/get_image/project/416525168_144x108.png) ](https://sparkscratch-p.github.io/Jetty-Cat/)[ ![dvr](https://cdn2.scratch.mit.edu/get_image/project/412551036_144x108.png) ](https://sparkscratch-p.github.io/Dragon-Virtual-Racing/)[ ![counter invase](https://cdn2.scratch.mit.edu/get_image/project/422728150_144x108.png) ](https://sparkscratch-p.github.io/counter-invase-fps/)
 
 *most games will be available in [Appocalypse](https://app-ocalypse.github.io/App-ocalypse/)
+
+#### On the Scratch Website...
+![SparkScratch_P on Scratch](https://cdn2.scratch.mit.edu/get_image/user/62215667_60x60.png "SparkScratch_P on Scratch")
+
+[![1](https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/1.jpg?raw=true) ](https://scratch.mit.edu/users/SparkScratch_P/projects/) 
+[![2](https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/2.jpg?raw=true) ](https://scratch.mit.edu/users/SparkScratch_P/projects/) 
+[![3](https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/3.jpg?raw=true) ](https://scratch.mit.edu/users/SparkScratch_P/projects/) 
+
+[![btn](https://raw.githubusercontent.com/SparkScratch-P/Home/gh-pages/cooltext374215334440657.png) ](https://scratch.mit.edu/users/SparkScratch_P/projects/) 
+
 
 ## My Organisation
 

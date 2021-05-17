@@ -46,8 +46,17 @@ ___
 
 ## Super-Exciting Web-apps 
 
+### EvalJS
 
+<img src="https://raw.githubusercontent.com/SparkScratch-P/EvalJS/d41c4ac5002b4d5bc0190b5656450e12f66ad508/EvalJS%20icon.svg" alt="SUCSESicon" width="100"/> 
 
+<a href="https://sparkscratch-p.github.io/EvalJS/">
+         <img src="cooltext379003618193795.png" onmouseover="this.src='cooltext379003618193795MouseOver.png';" onmouseout="this.src='cooltext379003618193795.png';" />
+      </a>
+   
+**EvalJS** is a superfast complete non-media [Javascript](https://www.javascript.com/) compiler where u can code and run ur favourite JS programs without `import` or `export` functions. It is an easy-to-use cmd-line interfaced web application for both newbies and proffessionals! Most excitingly, it was completely coded on [scratch](https://scratch.mit.edu/) with just 1 asset, no pens and just 2 snippets of code, and packaged with [Sheeptester's HTMLifier](https://sheeptester.github.io/htmlifier/).
+      
+      
 ### SUCSES 64 Reader
 
 <img src="https://raw.githubusercontent.com/SparkScratch-P/SUCSES/main/SUCSES%20ico.png" alt="SUCSESicon" width="100"/> 

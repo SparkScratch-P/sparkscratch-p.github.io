@@ -8,6 +8,11 @@
 
 [![github](https://raw.githubusercontent.com/SparkScratch-P/Home/gh-pages/github.png) ](https://github.com/SparkScratch-P) [ ![scratch](https://raw.githubusercontent.com/SparkScratch-P/Home/gh-pages/scratch.png) ](https://scratch.mit.edu/users/SparkScratch_P/) [ ![Scratch Wiki](https://raw.githubusercontent.com/SparkScratch-P/Home/gh-pages/scratch%20wiki.png)](https://en.scratch-wiki.info/wiki/User:SparkScratch_P)
 
+##### Connect to me:
+
+[![discord](https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/nrjn3pq6vh1vuhpun1jj41sv9j-bb1d9dc3378f1d0824ba70b3800b392c.png?raw=true)  ](https://discord.com/channels/844131858597806090)
+[![github](https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/github-logo-repository-computer-icons-github-4f62259da03e1590b862793c9af5b446.png?raw=true) ](https://github.com/SparkScratch-P/sparkscratch-p.github.io/issues/1)
+
  **Hi Guys !!!** I am SparkScratch_P (Prodyumna Pal). Visit my [Scratch profile](https://scratch.mit.edu/users/SparkScratch_P/). 
 * Scratcher 
 * Programming for 6 yrs 

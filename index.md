@@ -1,10 +1,7 @@
 # Welcome to SparkScratch_P's Web Home
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-<?php
-$message = "Someone Accessed this page";
-mail('prodyumna9d@gmail.com', 'Home Page Access', $message);
-?>
+
 
 ![icon](https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico) 
 

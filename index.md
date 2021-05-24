@@ -12,13 +12,20 @@
 
 ##### Connect to me:
 
+Leave a message here, in web-page chat button, or
+
 <a href="https://discord.com/channels/844131858597806090">
          <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/nrjn3pq6vh1vuhpun1jj41sv9j-bb1d9dc3378f1d0824ba70b3800b392c.png?raw=true" alt="discord" width="50" />
       </a>
  <a href="https://github.com/SparkScratch-P/sparkscratch-p.github.io/issues/1">
          <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/github-logo-repository-computer-icons-github-4f62259da03e1590b862793c9af5b446.png?raw=true" alt="github" width="50" />
       </a>
-
+<a href="https://www.quora.com/profile/SPARKScratch/questions">
+         <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/computer-icons-quora-logo-clip-art-portable-network-graphics-social-media-9a9a77f8f615f10cdb25521f92c599d8.png?raw=true" alt="quora" width="50" />
+      </a>
+      <a href="https://in.pinterest.com/pin/918382548982499047">
+         <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/computer-icons-quora-logo-social-network-pintrest-88eba86d239a9a6c0c042f7edaff0463.png?raw=true" alt="discord" width="50" />
+      </a>
 
  **Hi Guys !!!** I am SparkScratch_P (Prodyumna Pal). Visit my [Scratch profile](https://scratch.mit.edu/users/SparkScratch_P/). 
 * Scratcher 

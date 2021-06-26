@@ -6,9 +6,10 @@
 ![icon](https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico) 
 
 
-#### Follow me Here:
+#### Check me out here:
 
-[![github](https://raw.githubusercontent.com/SparkScratch-P/Home/gh-pages/github.png) ](https://github.com/SparkScratch-P) [ ![scratch](https://raw.githubusercontent.com/SparkScratch-P/Home/gh-pages/scratch.png) ](https://scratch.mit.edu/users/SparkScratch_P/) [ ![Scratch Wiki](https://raw.githubusercontent.com/SparkScratch-P/Home/gh-pages/scratch%20wiki.png)](https://en.scratch-wiki.info/wiki/User:SparkScratch_P)
+<img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/github%20ac.png?raw=true" alt="git ac" width="200"/> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/scratch%20ac.png?raw=true" alt="scratch ac" width="200"/> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/S%20Wiki%20ac.png?raw=true" alt="swiki ac" width="200"/> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/download%20(1).png?raw=true" alt="CAD ac" width="200"/> 
+
 
 ##### Connect to me:
 

@@ -42,7 +42,7 @@ Leave a message here, in web-page chat button, or
 
 ## As a scratcher...
 
-I am a scratcher since June 21'2020 to Dec 15'2020.
+I am a scratcher since June 21'2020 to Dec 15'2020.I was also 1307th most followed globally.
 
 Ranks in india: (scratchstats Dec 15)
 
@@ -86,6 +86,18 @@ ___
       </a>
 
 **Cortego** is a highly efficient browser-based live-streaming chat application that u can use for official as well as familiar matters for connecting to clients and friends all accross the world. All u need to do is that, host u Scratch based site and share IPv4 address to all , and chat with them in our same website, jus puting the IP address and connect to them! o know more, read Cortego [Readme](https://github.com/SparkScratch-P/Cortego#spark-cortego).
+
+
+### Secret Database 
+
+<img src="https://github.com/SparkScratch-P/secret-database/blob/main/slide-lock-screen-android-computer-software-android-fc77b21ba9f26385df47c0485ad6c974.png?raw=true" alt="sdtbs" width="100"/>
+
+ <a href="https://sparkscratch-p.github.io/secret-database/">
+         <img src="cooltext379003618193795.png" onmouseover="this.src='cooltext379003618193795MouseOver.png';" onmouseout="this.src='cooltext379003618193795.png';" />
+      </a>
+
+It works as creating a web page that acts as the sheild between the search-engine and another web page (part of this project) that will lead to a link for the target data. This may be used as a security sheild to protect cloud data of an institution, intelligence, sensitive data or personal data of special interests. One can easily secure files with this toolkit. This simple HTML document helps you protecting static pages or whole websites with no server configuration required: you can now use Dropbox, Amazon S3 or any generic hosting service to host a private, password protected site.
+ Read entire guide at [Repo Readme](https://github.com/SparkScratch-P/secret-database#secret-database).
       
       
 ### SUCSES 64 Reader

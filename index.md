@@ -1,7 +1,11 @@
 # Welcome to SparkScratch_P's Web Home
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-
+<style>       
+    a{
+        cursor: url("https://raw.githubusercontent.com/SparkScratch-P/sparkscratch-p.github.io/8db9f5e697a628690665848c64cdf0f30a84d8ee/cursor.svg");
+    }
+</style>
 
 ![icon](https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico) 
 

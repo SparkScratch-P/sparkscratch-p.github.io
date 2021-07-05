@@ -58,6 +58,9 @@ I got 110 follwers in a single day, 5th November.
 I was also 1307th most followed globally.
 
 My most viewed project (unshared) had **39000+ viewers** in a week and had **3 trending projects**!
+         
+         
+![image](https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png)
 
 ___
 
@@ -185,6 +188,7 @@ ___
 
 
 # Thank You
+         
 
 
 <script type="text/javascript" id="zsiqchat">

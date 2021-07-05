@@ -1,12 +1,6 @@
 # Welcome to SparkScratch_P's Web Home
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-<style>       
-    a{
-        cursor: url("https://raw.githubusercontent.com/SparkScratch-P/sparkscratch-p.github.io/8db9f5e697a628690665848c64cdf0f30a84d8ee/cursor.svg");
-    }
-</style>
-
 ![icon](https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico) 
 
 
@@ -188,11 +182,11 @@ ___
  
  <iframe src="https://app-ocalypse.github.io/App-ocalypse/" allowtransparency="true" width="550" height="402" frameborder="10" scrolling="yes" allowfullscreen></iframe>
  
-
-![bkgrnd](https://github.com/SparkScratch-P/circuit-designs/blob/main/simple-abstract-lines-background-lines-a479cba55dd4a8058cf61fd3fa1cbbbf.png?raw=true)
 # Thank You
          
 
+
+![bkgrnd](https://github.com/SparkScratch-P/circuit-designs/blob/main/simple-abstract-lines-background-lines-a479cba55dd4a8058cf61fd3fa1cbbbf.png?raw=true)
 
 <script type="text/javascript" id="zsiqchat">
          var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode: "9f58ca48bd355f2bf98e970c690a6c2244ea6b827a33c8768de4a6a1f5dfe1b8", values:{},ready:function(){}};var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;s.src="https://salesiq.zoho.in/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);

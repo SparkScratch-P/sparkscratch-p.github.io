@@ -159,7 +159,25 @@ The ***SUCSES Encoding and Decoding Series*** for encoding text, lists and even 
 ***Sb3 to Exe*** converter, best method
 
 [Repository](https://github.com/SparkScratch-P/Sb3-to-exe) [Documentation](https://sparkscratch-p.github.io/Sb3-to-exe/)
+         
+## Hardware & Firmware for You !!
+         
+Follow me on Tinkercad & Check out All the Circuits, Projects, 3D Drawings an more…. !!!I have been working and hands-onn on various circuit-based projects for long. I am now designing circuits in CAD Softwaren named TinkerCAD. I have my Profile there.
 
+
+<a href="https://sparkscratch-p.github.io/circuit-designs/">
+         <img src="https://raw.githubusercontent.com/SparkScratch-P/circuit-designs/b28d1d84b3db9c04819ff8a560a1fc33a76c74ed/circuit%20designs%20logo.svg" alt="cdl" width="100" />
+      </a>
+         
+### [Circuit Designs](https://sparkscratch-p.github.io/circuit-designs/)
+
+Follow me on Tinkercad & Check out All the Circuits, Projects, 3D Drawings an more…. !!! Check Out the Two Categories of This Circuit Collection :
+**Arduino Circuits** & **Simple Circuits**
+
+*The Directories under this Repository may load slowly and requires adequate time and bandwidth.*
+**You can Simulate them and view Code right here, on my site!**
+     
+         
 ## On the Scratch Website...
 ![SparkScratch_P on Scratch](https://cdn2.scratch.mit.edu/get_image/user/62215667_60x60.png "SparkScratch_P on Scratch")
 

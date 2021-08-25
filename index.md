@@ -120,7 +120,18 @@ My most viewed project (unshared) had **39000+ viewers** in a week and had **3 t
 
  An embed genrator where u can ***customize Size, border, transperancy and source(Scratch or Turbowrap)***. The outputs are ***HTML embed code, image URL and cloudmonitor URL in Scratch***.
          
+         
+### Syncpixee
 
+<img src="https://github.com/SparkScratch-P/Syncpixee/blob/main/icon.png?raw=true" alt="sycpixeeicopng" width="100"/> 
+
+<a href="https://sparkscratch-p.github.io/Syncpixee/">
+         <img src="cooltext379003618193795.png" onmouseover="this.src='cooltext379003618193795MouseOver.png';" onmouseout="this.src='cooltext379003618193795.png';" />
+      </a>
+
+
+THis is my Scratch Mod. You are not able to code here, but try amazing mashups and download mashup projects with different sprites, variables and exciting professional features in the project with cloud variables and codes.
+         
 ### CalcArena
 
 <img src="https://raw.githubusercontent.com/SparkScratch-P/CalcArena/8c141b4830117090a962f19903783093f262e9a8/calcarena%20logo.svg" alt="calcarena" width="100"/>
@@ -145,7 +156,7 @@ CalcArena is here with the varied new collection of Awesome **Calculators** , th
 
 ## Exciting games to Play in ur Browser
 
-[![boxelninja](https://cdn2.scratch.mit.edu/get_image/project/436088467_144x108.png) ](https://sparkscratch-p.github.io/Boxel-Bluebound/) [ ![jettycat](https://cdn2.scratch.mit.edu/get_image/project/416525168_144x108.png) ](https://sparkscratch-p.github.io/Jetty-Cat/)[ ![dvr](https://cdn2.scratch.mit.edu/get_image/project/412551036_144x108.png) ](https://sparkscratch-p.github.io/Dragon-Virtual-Racing/)[ ![counter invase](https://cdn2.scratch.mit.edu/get_image/project/422728150_144x108.png) ](https://sparkscratch-p.github.io/counter-invase-fps/)
+[![boxelninja](https://cdn2.scratch.mit.edu/get_image/project/436088467_144x108.png) ](https://sparkscratch-p.github.io/Boxel-Bluebound/) [ ![jettycat](https://cdn2.scratch.mit.edu/get_image/project/416525168_144x108.png) ](https://sparkscratch-p.github.io/Jetty-Cat/)[ ![dvr](https://cdn2.scratch.mit.edu/get_image/project/412551036_144x108.png) ](https://sparkscratch-p.github.io/Dragon-Virtual-Racing/)[ ![counter invase](https://cdn2.scratch.mit.edu/get_image/project/422728150_144x108.png) ](https://sparkscratch-p.github.io/counter-invase-fps/)[ ![pulse tunnel glide](https://cdn2.scratch.mit.edu/get_image/project/524076502_144x108.png) ](https://sparkscratch-p.github.io/Pulse-Tunnel-Glide-3D/)
 
 *most games will be available in [Appocalypse](https://app-ocalypse.github.io/App-ocalypse/)
 

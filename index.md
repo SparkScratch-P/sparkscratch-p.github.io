@@ -43,9 +43,8 @@ Leave a message here, in web-page chat button, or
   
 ## As a scratcher...
 
-I am a scratcher since June 21'2020 to Dec 15'2020.I was also 1307th most followed globally.
-
-Ranks in india: (scratchstats Dec 15)
+I am a scratcher since June 21'2020 to Dec 15'2020.I was also 1307th most followed globally.  
+Ranks in india: (scratchstats Dec 15) 
 
  * Followers - 19
  * Viewers   -  14
@@ -60,6 +59,8 @@ I was also 1307th most followed globally.
 
 My most viewed project (unshared) had **39000+ viewers** in a week and had **3 trending projects**!
          
+         ![image](https://user-images.githubusercontent.com/73777108/140973352-325b88f2-9172-4c3b-bbad-09dc48d3b8d2.png)
+
          
 
 <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/>

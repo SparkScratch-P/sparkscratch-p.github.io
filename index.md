@@ -8,6 +8,10 @@
 <a href="https://github.com/SparkScratch-P"><img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/github%20ac.png?raw=true" alt="git ac" width="100"/></a> <a href="https://scratch.mit.edu/users/SparkScratch_P/"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/scratch%20ac.png?raw=true" alt="scratch ac" width="100"/></a> <a href="https://en.scratch-wiki.info/wiki/User:SparkScratch_P"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/S%20Wiki%20ac.png?raw=true" alt="swiki ac" width="100"/> </a> <a href="https://www.tinkercad.com/users/0TMFbOW7Vt3?category=circuits&sort=likes&view_mode=default"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/download%20(1).png?raw=true" alt="CAD ac" width="100"/> 
 
 
+<img alt="Zivong's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true" height="165">
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparkScratch-P&layout=compact">
+
+
 ##### Connect to me:
 
 Leave a message here, in web-page chat button, or
@@ -36,7 +40,7 @@ Leave a message here, in web-page chat button, or
 
  Date of Birth: 12/12/2006 
  Location: [Kolkata(India)](https://www.google.com/maps/place/Kolkata,+West+Bengal/@22.6750155,87.7677824,138082m/data=!3m2!1e3!4b1!4m5!3m4!1s0x39f882db4908f667:0x43e330e68f6c2cbc!8m2!3d22.572646!4d88.363895) 
-
+  
 ## As a scratcher...
 
 I am a scratcher since June 21'2020 to Dec 15'2020.I was also 1307th most followed globally.

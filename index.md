@@ -6,6 +6,8 @@
 
 # Welcome to SparkScratch_P's Web Home
 
+<div class="powr-popup" id="7945095b_1636729551"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
+
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 

@@ -13,6 +13,7 @@
 
 ![icon](https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico) 
 
+<div class="powr-media-gallery" id="1f21b1b4_1636729795"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 
 #### Check me out here:
 

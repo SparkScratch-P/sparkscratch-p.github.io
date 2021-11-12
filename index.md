@@ -1,4 +1,3 @@
-<div class="powr-multi-slider" id="20e34648_1636734515"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 
 <!-- ShareThis BEGIN --><div class="sharethis-inline-reaction-buttons"></div><!-- ShareThis END -->
 
@@ -7,6 +6,8 @@
 <div class="sharethis-sticky-share-buttons"></div>
 
 # Welcome to SparkScratch_P's Web Home
+
+<div class="powr-multi-slider" id="20e34648_1636734515"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 
 <div class="powr-popup" id="7945095b_1636729551"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 

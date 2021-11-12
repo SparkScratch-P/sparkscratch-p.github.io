@@ -13,8 +13,6 @@
 
 ![icon](https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico) 
 
-<div class="powr-media-gallery" id="1f21b1b4_1636729795"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
-
 #### Check me out here:
 
 <a href="https://github.com/SparkScratch-P"><img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/github%20ac.png?raw=true" alt="git ac" width="100"/></a> <a href="https://scratch.mit.edu/users/SparkScratch_P/"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/scratch%20ac.png?raw=true" alt="scratch ac" width="100"/></a> <a href="https://en.scratch-wiki.info/wiki/User:SparkScratch_P"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/S%20Wiki%20ac.png?raw=true" alt="swiki ac" width="100"/> </a> <a href="https://www.tinkercad.com/users/0TMFbOW7Vt3?category=circuits&sort=likes&view_mode=default"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/download%20(1).png?raw=true" alt="CAD ac" width="100"/> </a>  <a href="https://www.youtube.com/channel/UCRQG8hydUuuMFdOzRf8NIUw"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/youtube.jpg?raw=true" alt="youtube" width="120"/> </a> 
@@ -76,98 +74,12 @@ My most viewed project (unshared) had **39000+ viewers** in a week and had **3 t
          
 # My EPIC Contents... 
 
-
 ## Super-Exciting Web-apps 
          
+<div class="powr-media-gallery" id="1f21b1b4_1636729795"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 
-### EvalJS
+<div class="powr-media-gallery" id="c02ec489_1636731478"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 
-<img src="https://raw.githubusercontent.com/SparkScratch-P/EvalJS/d41c4ac5002b4d5bc0190b5656450e12f66ad508/EvalJS%20icon.svg" alt="SUCSESicon" width="100"/> 
-
-<a href="https://sparkscratch-p.github.io/EvalJS/">
-         <img src="cooltext379003618193795.png" onmouseover="this.src='cooltext379003618193795MouseOver.png';" onmouseout="this.src='cooltext379003618193795.png';" />
-      </a>
-   
-**EvalJS** is a superfast complete non-media [Javascript](https://www.javascript.com/) compiler where u can code and run ur favorite JS programs without `import` or `export` functions. It is an easy-to-use cmd-line interfaced web application for both newbies and professionals! Most excitingly, it was completely coded on [scratch](https://scratch.mit.edu/) with just 1 asset, no pens, and just 2 snippets of code, and packaged with [Sheeptester's HTMLifier](https://sheeptester.github.io/htmlifier/).
-      
-      
-### Cortego   
-
-<img src="https://raw.githubusercontent.com/SparkScratch-P/Cortego/52dc27342ca37bc2b64d14b2e2c61be52ee4bdad/cortego%20icon.svg" alt="cortego icon" width="100"/> 
-
-<a href="https://sparkscratch-p.github.io/Cortego/">
-         <img src="cooltext379003618193795.png" onmouseover="this.src='cooltext379003618193795MouseOver.png';" onmouseout="this.src='cooltext379003618193795.png';" />
-      </a>
-
-**Cortego** is a highly efficient browser-based live-streaming chat application that u can use for official as well as familiar matters for connecting to clients and friends all across the world. All u need to do is that host u Scratch-based site and share the IPv4 address to all, and chat with them on our same website, just putting the IP address and connecting to them! o know more, read Cortego [Readme](https://github.com/SparkScratch-P/Cortego#spark-cortego).
-         
-
-### CAM Secure
-
-<img src="https://raw.githubusercontent.com/SparkScratch-P/CAM-Secure/0dfd99a2af8bdb6d7623b853e3bc5388dec052ef/1dd1d55ecb2b355e4d1cb0cf5ed8b748.svg" alt="cams" width="100"/>
-
- <a href="https://sparkscratch-p.github.io/CAM-Secure/">
-         <img src="cooltext379003618193795.png" onmouseover="this.src='cooltext379003618193795MouseOver.png';" onmouseout="this.src='cooltext379003618193795.png';" />
-      </a>
-
-**CAM-Secure** is a web-based one-stop web page that provides sensitive and active security without installation.
- This Security works on the basis of movement detection with customizable sensitivity. You can just **select a part of the camera's vision to detect movement, while you can keep monitoring the rest of the space**. This had been made, keeping in mind, the security system required is a museum; people will be moving all around, but in a particular place, having valuable items, should not be touched, but the camera can see the full room. Now...the problem is solved. [Check out more exciting features!](https://github.com/SparkScratch-P/CAM-Secure/blob/main/README.md#out-with-some-exciting-features--)
-         
-### SUCSES 64 Reader
-
-<img src="https://raw.githubusercontent.com/SparkScratch-P/SUCSES/main/SUCSES%20ico.png" alt="SUCSESicon" width="100"/> 
-
-<a href="https://sparkscratch-p.github.io/SUCSES-64-Reader/">
-         <img src="cooltext379003618193795.png" onmouseover="this.src='cooltext379003618193795MouseOver.png';" onmouseout="this.src='cooltext379003618193795.png';" />
-      </a>
-
- **SUCSES** (SPARK Universal Code Series Encoded in Scratch) is an open-source *encode-decode engine kit*, entirely made on scratch, made by SparkScratch_P. It has been made in 3 different versions; 16, 32, and 64 respectively, each capable of different activities, namely encryption of text, list, and images. ****SUCSES 64*** is the **Image Encode-Decode** system of SECSES code series.
- It is not available as a snippet engine, rather , it requires 3 scratch sprites, namely [encode.sprite3](https://github.com/SparkScratch-P/SUCSES/blob/main/README.md#encodesprite3) , [decode.sprite3](https://github.com/SparkScratch-P/SUCSES/blob/main/README.md#decodesprite3) and [pen.sprite3](https://github.com/SparkScratch-P/SUCSES/blob/main/README.md#pensprite3)
-
-### Scratch-3 Embed Generator
-
-<img src="https://uploads.scratch.mit.edu/users/avatars/15883188.png" alt="Scratchcat pfp" width="100"/> 
-
-<a href="https://sparkscratch-p.github.io/sb3-project-embeder/">
-         <img src="cooltext379003618193795.png" onmouseover="this.src='cooltext379003618193795MouseOver.png';" onmouseout="this.src='cooltext379003618193795.png';" />
-      </a>
-
-
- An embed generator where u can ***customize Size, border, transparency, and source(Scratch or Turbowrap)***. The outputs are ***HTML embed code, image URL, and cloud monitor URL in Scratch***.
-         
-         
-### Syncpixee
-
-<img src="https://github.com/SparkScratch-P/Syncpixee/blob/main/icon.png?raw=true" alt="sycpixeeicopng" width="100"/> 
-
-<a href="https://sparkscratch-p.github.io/Syncpixee/">
-         <img src="cooltext379003618193795.png" onmouseover="this.src='cooltext379003618193795MouseOver.png';" onmouseout="this.src='cooltext379003618193795.png';" />
-      </a>
-
-
-This is my Scratch Mod. You are not able to code here, but try amazing mashups and download mashup projects with different sprites, variables, and exciting professional features in the project with cloud variables and codes.
-         
-### CalcArena
-
-<img src="https://raw.githubusercontent.com/SparkScratch-P/CalcArena/8c141b4830117090a962f19903783093f262e9a8/calcarena%20logo.svg" alt="calcarena" width="100"/>
-
- <a href="https://sparkscratch-p.github.io/CalcArena/">
-         <img src="cooltext379003618193795.png" onmouseover="this.src='cooltext379003618193795MouseOver.png';" onmouseout="this.src='cooltext379003618193795.png';" />
-      </a>
-         
-**CalcArena** is a fully web-based collection of a set of Calculators.
-CalcArena is here with the varied new collection of Awesome **Calculators** , that was often needed, but not available on the web! Its awesome collection of calculators includes a [Quadratic Polynomial Calculator -](https://sparkscratch-p.github.io/CalcArena/quadratic-polynomials/), an exciting two face calculator for Evaluating sums of the **Quadratic Polynomials**. This has two calculators in it: One that derives the zeros, or *roots of the polynomial* (quadratic only) and the other, can make out *the polynomial* with just the values of zeros given .. and the [Rotation Wheel Speed Calculator-](https://sparkscratch-p.github.io/CalcArena/rotation-wheel-speed/) which is mainly applicable for robots, Arduino, rasp or other electronic cars, and even vehicles. This calculator finds the speed generated by the rotation of wheels in terms of m/s with respect to rotation per minute, and the size of the wheel.
-
-### ArchieBuild
-
-<img src="https://github.com/SparkScratch-P/ArchieBuild/blob/main/Archiebuild%20icon.png?raw=true" alt="Archiebuild icon" width="100"/> 
-
-<a href="https://sparkscratch-p.github.io/ArchieBuild/">
-         <img src="cooltext379003618193795.png" onmouseover="this.src='cooltext379003618193795MouseOver.png';" onmouseout="this.src='cooltext379003618193795.png';" />
-      </a>
-
-
-**Archiebuild** is an MSW LOGO-like *programming software, coded on scratch, published as JS*. This software is able to program a pen such that the pen will draw a figure as coded. Here the movements of the pen r coded, and the code is saved in a list named `CODE:\_`. On saving, it encodes the list and is copied to the clipboard. This Save code is actually the *SUCSES 64 code*. The ArchieBuild as well as the **SUCSES 64 reader** is capable of encoding and decoding or program and running it.
 
 ## Exciting games to Play in ur Browser
 

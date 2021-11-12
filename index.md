@@ -1,8 +1,11 @@
-# Welcome to SparkScratch_P's Web Home
+
 
 <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=618e39bd3ce1a000127bfc67&product=sticky-share-buttons" async="async"></script>
 
 <div class="sharethis-sticky-share-buttons"></div>
+
+# Welcome to SparkScratch_P's Web Home
+
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
@@ -17,6 +20,7 @@
 <img alt="Spark's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true" height="165">
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparkScratch-P&layout=compact">
 
+<!-- ShareThis BEGIN --><div class="sharethis-inline-follow-buttons"></div><!-- ShareThis END -->
 
 ##### Connect to me:
 

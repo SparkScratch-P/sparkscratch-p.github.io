@@ -1,3 +1,5 @@
+<div class="powr-multi-slider" id="20e34648_1636734515"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
+
 <!-- ShareThis BEGIN --><div class="sharethis-inline-reaction-buttons"></div><!-- ShareThis END -->
 
 <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=618e39bd3ce1a000127bfc67&product=sticky-share-buttons" async="async"></script>

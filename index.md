@@ -1,4 +1,6 @@
 # Welcome to SparkScratch_P's Web Home
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=618e39bd3ce1a000127bfc67&product=sticky-share-buttons" async="async"></script>
+<div class="sharethis-sticky-share-buttons"></div>
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 ![icon](https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico) 

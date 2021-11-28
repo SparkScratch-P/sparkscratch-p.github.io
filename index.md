@@ -38,16 +38,21 @@ Leave a message here, in web-page chat button, or
 <a href="https://www.quora.com/profile/SPARKScratch/questions">
          <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" alt="quora"  />
       </a>
-      <a href="https://in.pinterest.com/pin/918382548982499047">
+ <a href="https://in.pinterest.com/pin/918382548982499047">
          <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />
       </a>
+ <a href="https://www.youtube.com/channel/UCRQG8hydUuuMFdOzRf8NIUw/channels">
+         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+      </a>
+      
+  
 
 ---
  
 <details><summary><b>Read about me: Click to EXPAND</b></summary>
          
 <p>  Hi Guys !!! I am <strong>SparkScratch_P (Prodyumna Pal).</strong></p>
-<p>  I am an Indian Bengali High School student, who passionately got hooked on coding from the Ninth standard when the Covid lockdown fixed student to the computer screen! I am a self-taught coder, whose foundation is based on <strong>Scratch</strong> programming language. Here are some of my best achievements with coding these days...</p>
+<p>  I am an Indian Bengali High School student, who passionately got hooked on coding from the Ninth standard when the Covid lockdown fixed student to the computer screen! I am a self-taught coder, whose foundation is based on <strong>Scratch</strong> programming language. I had been trained with technology from the  <img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white" /> era, and still on <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />. I love working online for cross platform projects, and I use <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /> , and sometimes <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" /> for surfing.  Here are some of my best achievements with coding these days...</p>
 <ul>
 <li>Scratcher</li>
 <li>Programming for 6 yrs</li>
@@ -58,7 +63,7 @@ Leave a message here, in web-page chat button, or
 <li>32nd <a href="https://scratchaddons.com/">Scratch-Addons</a> <a href="https://scratchaddons.com/contributors">Contributor</a> </li>
 </ul>
 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />    
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />  
          
 <p>Location: <a href="https://goo.gl/maps/q8Dvr1rWEYdxNYZv8">Kolkata(India)</a></p>
          

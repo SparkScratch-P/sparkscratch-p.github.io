@@ -42,7 +42,7 @@ Leave a message here, in web-page chat button, or
 
 ---
  
-<details><summary><b>Read about me:</b></summary>
+<details><summary><b>Read about me: Click to EXPAND</b></summary>
          
 <p>  Hi Guys !!! I am <strong>SparkScratch_P (Prodyumna Pal).</strong></p>
 <p>  I am an Indian Bengali High School student, who passionately got hooked on coding from the Ninth standard when the Covid lockdown fixed student to the computer screen! I am a self-taught coder, whose foundation is based on <strong>Scratch</strong> programming language. Here are some of my best achievements with coding these days...</p>
@@ -63,12 +63,13 @@ Leave a message here, in web-page chat button, or
 ---
       
  ![git stats](https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true)
- ![git lang](https://github-readme-stats.vercel.app/api/top-langs/?username=SparkScratch-P&layout=compact)
+ ![git lang](https://github-readme-stats.vercel.app/api/top-langs/?username=SparkScratch-P)
+ ![git contrib](https://github-readme-streak-stats.herokuapp.com/?user=SparkScratch-P)
 
 
 ---
 
-<details><summary><b>My Scratch Days!</b></summary>
+<details><summary><b>My Scratch Days! Click to EXPAND</b></summary>
  
 <p>   I am a scratcher from June 21’2020 to Dec 15’2020. I was also <strong>1307th most followed</strong> globally.</p>
 <p>Ranks in India: (scratchstats Dec 15)</p>

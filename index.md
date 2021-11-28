@@ -39,7 +39,11 @@ Leave a message here, in web-page chat button, or
       <a href="https://in.pinterest.com/pin/918382548982499047">
          <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/computer-icons-quora-logo-social-network-pintrest-88eba86d239a9a6c0c042f7edaff0463.png?raw=true" alt="discord" width="50" />
       </a>
-      
+
+---
+ 
+<details><summary><b>Read about me:</b></summary>
+         
   Hi Guys !!! I am **SparkScratch_P (Prodyumna Pal).**
 
   I am an Indian Bengali High School student, who passionately got hooked on coding from the Ninth standard, when the Covid lockdown fixed student to the computer screen! I am a self-taught coder, whose foundation is based on **Scratch** programming language. Here are some of my best achievements with coding these days...
@@ -54,9 +58,19 @@ Leave a message here, in web-page chat button, or
  - 32nd [Scratch-Addons](https://scratchaddons.com/) [Contributor](https://scratchaddons.com/contributors) 
 
 Location: [Kolkata(India)](https://goo.gl/maps/q8Dvr1rWEYdxNYZv8)
+         
+         
+</details>
+
+---
       
  ![git stats](https://github-readme-stats.vercel.app/api?username=SparkScratch-P&show_icons=true)
  ![git lang](https://github-readme-stats.vercel.app/api/top-langs/?username=SparkScratch-P&layout=compact)
+
+
+---
+
+<details><summary><b>My Scratch Days!</b></summary>
  
  I am a scratcher from June 21’2020 to Dec 15’2020. I was also **1307th most followed** globally.
 
@@ -77,8 +91,12 @@ Hence, **15th** most celebrated scratcher in **179 days** on scratch.
 I got **110 followers** in a single day, 5th November.
 
 My most viewed project (unshared) had **39000+ viewers** in a week and I had a total of **3 trending projects!**
+         
+</details>
 
-<img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> 
+---
+
+<img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> <img src="https://cdn2.scratch.mit.edu/get_image/project/522672095_480x360.png" alt="img" width="40"/> 
          
 # My EPIC Contents... 
 

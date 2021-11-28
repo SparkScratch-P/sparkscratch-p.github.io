@@ -30,16 +30,16 @@
 Leave a message here, in web-page chat button, or
 
 <a href="https://discord.com/channels/844131858597806090">
-         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" width="50" />
+         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
       </a>
  <a href="https://github.com/SparkScratch-P/sparkscratch-p.github.io/issues/1">
-         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" width="50" />
+         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"  />
       </a>
 <a href="https://www.quora.com/profile/SPARKScratch/questions">
-         <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" alt="quora" width="50" />
+         <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" alt="quora"  />
       </a>
       <a href="https://in.pinterest.com/pin/918382548982499047">
-         <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" width="50" />
+         <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />
       </a>
 
 ---

@@ -44,20 +44,18 @@ Leave a message here, in web-page chat button, or
  
 <details><summary><b>Read about me:</b></summary>
          
-  Hi Guys !!! I am **SparkScratch_P (Prodyumna Pal).**
-
-  I am an Indian Bengali High School student, who passionately got hooked on coding from the Ninth standard, when the Covid lockdown fixed student to the computer screen! I am a self-taught coder, whose foundation is based on **Scratch** programming language. Here are some of my best achievements with coding these days...
-
-
- - Scratcher
- - Programming for 6 yrs
- - Learning IT for 11 yrs
- - Coded in: 15+ languages,20+ IDEs
- - [Scratch Wiki Editor](https://en.scratch-wiki.info/wiki/User:SparkScratch_P)
- - Github Developer Program Member
- - 32nd [Scratch-Addons](https://scratchaddons.com/) [Contributor](https://scratchaddons.com/contributors) 
-
-Location: [Kolkata(India)](https://goo.gl/maps/q8Dvr1rWEYdxNYZv8)
+<p>  Hi Guys !!! I am <strong>SparkScratch_P (Prodyumna Pal).</strong></p>
+<p>  I am an Indian Bengali High School student, who passionately got hooked on coding from the Ninth standard when the Covid lockdown fixed student to the computer screen! I am a self-taught coder, whose foundation is based on <strong>Scratch</strong> programming language. Here are some of my best achievements with coding these days...</p>
+<ul>
+<li>Scratcher</li>
+<li>Programming for 6 yrs</li>
+<li>Learning IT for 11 yrs</li>
+<li>Coded in: 15+ languages,20+ IDEs</li>
+<li><a href="https://en.scratch-wiki.info/wiki/User:SparkScratch_P">Scratch Wiki Editor</a></li>
+<li>Github Developer Program Member</li>
+<li>32nd <a href="https://scratchaddons.com/">Scratch-Addons</a> <a href="https://scratchaddons.com/contributors">Contributor</a> </li>
+</ul>
+<p>Location: <a href="https://goo.gl/maps/q8Dvr1rWEYdxNYZv8">Kolkata(India)</a></p>
          
          
 </details>
@@ -72,25 +70,16 @@ Location: [Kolkata(India)](https://goo.gl/maps/q8Dvr1rWEYdxNYZv8)
 
 <details><summary><b>My Scratch Days!</b></summary>
  
- I am a scratcher from June 21’2020 to Dec 15’2020. I was also **1307th most followed** globally.
-
-Ranks in India: (scratchstats Dec 15)
-
-Followers - 19th
-
-Viewers - 14th
-
-Luvs - 17th
-
-Faves - 14th
-
-Comments- 11th
-
-Hence, **15th** most celebrated scratcher in **179 days** on scratch.
-
-I got **110 followers** in a single day, 5th November.
-
-My most viewed project (unshared) had **39000+ viewers** in a week and I had a total of **3 trending projects!**
+<p>   I am a scratcher from June 21’2020 to Dec 15’2020. I was also <strong>1307th most followed</strong> globally.</p>
+<p>Ranks in India: (scratchstats Dec 15)</p>
+<p>Followers - 19th</p>
+<p>Viewers - 14th</p>
+<p>Luvs - 17th</p>
+<p>Faves - 14th</p>
+<p>Comments- 11th</p>
+<p>Hence, <strong>15th</strong> most celebrated scratcher in <strong>179 days</strong> on scratch.</p>
+<p>I got <strong>110 followers</strong> in a single day, 5th November.</p>
+<p>My most viewed project (unshared) had <strong>39000+ viewers</strong> in a week and I had a total of <strong>3 trending projects!</strong></p>
          
 </details>
 

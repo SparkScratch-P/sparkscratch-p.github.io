@@ -21,6 +21,8 @@
 <a href="https://github.com/SparkScratch-P"><img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/github%20ac.png?raw=true" alt="git ac" width="100"/></a> <a href="https://scratch.mit.edu/users/SparkScratch_P/"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/scratch%20ac.png?raw=true" alt="scratch ac" width="100"/></a> <a href="https://en.scratch-wiki.info/wiki/User:SparkScratch_P"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/S%20Wiki%20ac.png?raw=true" alt="swiki ac" width="100"/> </a> <a href="https://www.tinkercad.com/users/0TMFbOW7Vt3?category=circuits&sort=likes&view_mode=default"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/download%20(1).png?raw=true" alt="CAD ac" width="100"/> </a>  <a href="https://www.youtube.com/channel/UCRQG8hydUuuMFdOzRf8NIUw"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/youtube.jpg?raw=true" alt="youtube" width="120"/> </a> 
 
 
+
+
 <!-- ShareThis BEGIN --><div class="sharethis-inline-follow-buttons"></div><!-- ShareThis END -->
 
 ##### Connect to me:
@@ -28,16 +30,16 @@
 Leave a message here, in web-page chat button, or
 
 <a href="https://discord.com/channels/844131858597806090">
-         <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/nrjn3pq6vh1vuhpun1jj41sv9j-bb1d9dc3378f1d0824ba70b3800b392c.png?raw=true" alt="discord" width="50" />
+         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" width="50" />
       </a>
  <a href="https://github.com/SparkScratch-P/sparkscratch-p.github.io/issues/1">
-         <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/github-logo-repository-computer-icons-github-4f62259da03e1590b862793c9af5b446.png?raw=true" alt="github" width="50" />
+         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" width="50" />
       </a>
 <a href="https://www.quora.com/profile/SPARKScratch/questions">
-         <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/computer-icons-quora-logo-clip-art-portable-network-graphics-social-media-9a9a77f8f615f10cdb25521f92c599d8.png?raw=true" alt="quora" width="50" />
+         <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" alt="quora" width="50" />
       </a>
       <a href="https://in.pinterest.com/pin/918382548982499047">
-         <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/computer-icons-quora-logo-social-network-pintrest-88eba86d239a9a6c0c042f7edaff0463.png?raw=true" alt="discord" width="50" />
+         <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" width="50" />
       </a>
 
 ---
@@ -55,6 +57,9 @@ Leave a message here, in web-page chat button, or
 <li>Github Developer Program Member</li>
 <li>32nd <a href="https://scratchaddons.com/">Scratch-Addons</a> <a href="https://scratchaddons.com/contributors">Contributor</a> </li>
 </ul>
+
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />    
+         
 <p>Location: <a href="https://goo.gl/maps/q8Dvr1rWEYdxNYZv8">Kolkata(India)</a></p>
          
          

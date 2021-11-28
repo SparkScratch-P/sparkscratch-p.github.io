@@ -80,6 +80,8 @@ Leave a message here, in web-page chat button, or
 ---
 
 <details><summary><b>My Scratch Days! Click to EXPAND</b></summary>
+         
+<img src= "https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" />
  
 <p>   I am a scratcher from June 21’2020 to Dec 15’2020. I was also <strong>1307th most followed</strong> globally.</p>
 <p>Ranks in India: (scratchstats Dec 15)</p>

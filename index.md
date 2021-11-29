@@ -6,6 +6,7 @@
 <div class="sharethis-sticky-share-buttons"></div>
 
 # Welcome to SparkScratch_P's Web Home
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/SparkScratch-P/sparkscratch-p.github.io/main)![GitHub](https://img.shields.io/github/license/SparkScratch-P/sparkscratch-p.github.io)
 
 <div class="powr-multi-slider" id="20e34648_1636734515"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 

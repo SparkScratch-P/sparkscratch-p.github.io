@@ -47,10 +47,10 @@ Leave a message here, in web-page chat button, or
       </a>
       
   
-
+## Read about me: 
 ---
  
-<details><summary><b>Read about me: Click to EXPAND</b></summary>
+<details><summary><b>Click to EXPAND</b></summary>
          
 <p>  Hi Guys !!! I am <strong>SparkScratch_P (Prodyumna Pal).</strong></p>
 <p>  I am an Indian Bengali High School student, who passionately got hooked on coding from the Ninth standard when the Covid lockdown fixed student to the computer screen! I am a self-taught coder, whose foundation is based on <strong>Scratch</strong> programming language. I had been trained with technology from the  <img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white" /> era, and still on <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />. I love working online for cross platform projects, and I use <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /> , and sometimes <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" /> for surfing.  Here are some of my best achievements with coding these days...</p>
@@ -64,7 +64,7 @@ Leave a message here, in web-page chat button, or
 <li>32nd <a href="https://scratchaddons.com/">Scratch-Addons</a> <a href="https://scratchaddons.com/contributors">Contributor</a> </li>
 </ul>
 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />  
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />  
          
 <p>Location: <a href="https://goo.gl/maps/q8Dvr1rWEYdxNYZv8">Kolkata(India)</a></p>
          
@@ -78,9 +78,10 @@ Leave a message here, in web-page chat button, or
  ![git contrib](https://github-readme-streak-stats.herokuapp.com/?user=SparkScratch-P)
 
 
+## My Scratch Days! 
 ---
 
-<details><summary><b>My Scratch Days! Click to EXPAND</b></summary>
+<details><summary><b>Click to EXPAND</b></summary>
          
 <img src= "https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" />
  

@@ -4,6 +4,8 @@
 
 <div class="sharethis-sticky-share-buttons"></div>
 
+<!-- ShareThis BEGIN --><div class="sharethis-inline-reaction-buttons"></div><!-- ShareThis END -->
+
 
 <h1 align="center">
     <em>Hey</em> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/images/Hi.gif?raw=true" width="29px">, <em>I'm SparkScratch-P... Welcome!</em>

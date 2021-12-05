@@ -72,10 +72,12 @@ Leave a message here, in web-page chat button, or
 <p>  Hi Guys !!! I am <strong>SparkScratch_P (Prodyumna Pal).</strong></p>
 <p>  I am an Indian Bengali High School student, who passionately got hooked on coding from the Ninth standard when the Covid lockdown fixed student to the computer screen! I am a self-taught coder, whose foundation is based on <strong>Scratch</strong> programming language. I had been trained with technology from the  <img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white" /> era, and still on <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />. I love working online for cross platform projects, and I use <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /> , and sometimes <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" /> for surfing.  Here are some of my best achievements with coding these days...</p>
          
-         <!--### Pass
+<!--### Pass
 -->
 
-<img align="right" height="250" width="375" alt="" src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/images/comp.gif?raw=true"/>
+<img align="right" src="https://user-images.githubusercontent.com/73777108/144744131-d2867336-140c-4067-9bd6-8914541847b2.png" style="width:200px" >
+   
+
          
 <ul>
 <li>Scratcher</li>
@@ -109,6 +111,12 @@ Leave a message here, in web-page chat button, or
 </a>
 
 <p>   I am a scratcher from June 21’2020 to Dec 15’2020. I was also <strong>1307th most followed</strong> globally.</p>
+       
+ <!--### Pass
+-->
+
+<img align="right" height="250" width="375" alt="" src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/images/comp.gif?raw=true"/>
+         
 <p>Ranks in India: (scratchstats Dec 15)</p>
 <p>Followers - 19th</p>
 <p>Viewers - 14th</p>
@@ -118,6 +126,7 @@ Leave a message here, in web-page chat button, or
 <p>Hence, <strong>15th</strong> most celebrated scratcher in <strong>179 days</strong> on scratch.</p>
 <p>I got <strong>110 followers</strong> in a single day, 5th November.</p>
 <p>My most viewed project (unshared) had <strong>39000+ viewers</strong> in a week and I had a total of <strong>3 trending projects!</strong></p>
+
          
 </details>
 

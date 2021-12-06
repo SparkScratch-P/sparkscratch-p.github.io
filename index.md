@@ -22,7 +22,9 @@
 
 
 <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SparkScratch-P&theme=solarized">
-![icon](https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico)
+<img src="https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico">
+
+
 
 
 ### Check me out here:

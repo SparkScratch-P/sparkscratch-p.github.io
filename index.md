@@ -11,7 +11,8 @@
     <em>Hey</em> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/images/Hi.gif?raw=true" width="29px">, <em>I'm SparkScratch-P... Welcome!</em>
 </h1>
 
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/SparkScratch-P/sparkscratch-p.github.io/main) ![GitHub](https://img.shields.io/github/license/SparkScratch-P/sparkscratch-p.github.io)
+
+ ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/SparkScratch-P/sparkscratch-p.github.io/main)  ![GitHub](https://img.shields.io/github/license/SparkScratch-P/sparkscratch-p.github.io)
 
 <div class="powr-multi-slider" id="20e34648_1636734515"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 
@@ -21,8 +22,7 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SparkScratch-P&theme=solarized">
-<img src="https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico">
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SparkScratch-P&theme=solarized"> <img src="https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico">
 
 
 

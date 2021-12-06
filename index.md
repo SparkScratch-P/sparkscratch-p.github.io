@@ -18,13 +18,13 @@
 
 <div class="powr-popup" id="7945095b_1636729551"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 
-
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SparkScratch-P&theme=solarized"> <img src="https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico">
-
-
+<p float="left">
+  <img src="https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SparkScratch-P&theme=solarized" /> 
+</p>
 
 
 ### Check me out here:

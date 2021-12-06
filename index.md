@@ -11,7 +11,7 @@
     <em>Hey</em> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/images/Hi.gif?raw=true" width="29px">, <em>I'm SparkScratch-P... Welcome!</em>
 </h1>
 
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/SparkScratch-P/sparkscratch-p.github.io/main)    ![GitHub](https://img.shields.io/github/license/SparkScratch-P/sparkscratch-p.github.io)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/SparkScratch-P/sparkscratch-p.github.io/main) ![GitHub](https://img.shields.io/github/license/SparkScratch-P/sparkscratch-p.github.io)
 
 <div class="powr-multi-slider" id="20e34648_1636734515"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 
@@ -20,12 +20,13 @@
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-![icon](https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico) 
+![icon](https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico)![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SparkScratch-P&theme=solarized) 
 
 
 ### Check me out here:
 
 <a href="https://github.com/SparkScratch-P"><img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/github%20ac.png?raw=true" alt="git ac" width="100"/></a> <a href="https://scratch.mit.edu/users/SparkScratch_P/"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/scratch%20ac.png?raw=true" alt="scratch ac" width="100"/></a> <a href="https://en.scratch-wiki.info/wiki/User:SparkScratch_P"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/S%20Wiki%20ac.png?raw=true" alt="swiki ac" width="100"/> </a> <a href="https://www.tinkercad.com/users/0TMFbOW7Vt3?category=circuits&sort=likes&view_mode=default"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/download%20(1).png?raw=true" alt="CAD ac" width="100"/> </a>  <a href="https://www.youtube.com/channel/UCRQG8hydUuuMFdOzRf8NIUw"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/youtube.jpg?raw=true" alt="youtube" width="120"/> </a> 
+
 
 ### Connect to me: <img src="https://raw.githubusercontent.com/SparkScratch-P/sparkscratch-p.github.io/main/images/Handshake.gif" alt="hs" width="100"/>
 
@@ -54,13 +55,14 @@ Leave a message here, in web-page chat button, or
 
 
  ![git stats](https://github-readme-stats.vercel.app/api?username=SparkScratch-P&count_private=true&show_icons=true&theme=blue-green&border_radius=25)
- 
- 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SparkScratch-P&layout=compact&theme=highcontrast&hide_border=true)
-  
-  
  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SparkScratch-P&theme=highcontrast&hide_border=true)
  ![trophies](https://github-profile-trophy.vercel.app/?username=SparkScratch-P&theme=discord)
+ 
+---
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SparkScratch-P&layout=compact&theme=highcontrast&hide_border=true)
+ 
+ 
  ![act](https://activity-graph.herokuapp.com/graph?username=SparkScratch-P&theme=react-dark)
 
 

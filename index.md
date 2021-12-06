@@ -21,8 +21,8 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 
-
-![icon](https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico)<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SparkScratch-P&theme=solarized">
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SparkScratch-P&theme=solarized">
+![icon](https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico)
 
 
 ### Check me out here:

@@ -60,18 +60,27 @@ Leave a message here, in web-page chat button, or
 
  ![git stats](https://github-readme-stats.vercel.app/api?username=SparkScratch-P&count_private=true&show_icons=true&theme=blue-green&border_radius=25)
  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SparkScratch-P&theme=highcontrast&hide_border=true)
- ![trophies](https://github-profile-trophy.vercel.app/?username=SparkScratch-P&theme=discord)
  
 ---
+
+ ![trophies](https://github-profile-trophy.vercel.app/?username=SparkScratch-P&theme=discord)
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SparkScratch-P&layout=compact&theme=highcontrast&hide_border=true)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SparkScratch-P&theme=dark)
+ 
+ 
+---
  
  
  ![act](https://activity-graph.herokuapp.com/graph?username=SparkScratch-P&theme=react-dark)
 
 
-## Read about me: <img src="https://img.shields.io/badge/Prodyumna-Pal-yellow.svg" alt="SPARKSheild-Prodyumna">
 ---
+---
+
+## Read about me:
+
+<img src="https://img.shields.io/badge/Prodyumna-Pal-yellow.svg?style=for-the-badge" alt="SPARKSheild-Prodyumna">
+
  
 <details><summary><b>Click to EXPAND</b></summary>
          
@@ -106,7 +115,9 @@ Leave a message here, in web-page chat button, or
 
 ---
 
-## My Scratch Days! <img src="https://img.shields.io/badge/SparkScratch-P-4D97FF.svg" alt="SPARKSheild-SparkScratch">
+## My Scratch Days! 
+
+<img src="https://img.shields.io/badge/SparkScratch-P-4D97FF.svg" alt="SPARKSheild-SparkScratch">
 ---
 
 <details><summary><b>Click to EXPAND</b></summary>

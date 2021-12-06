@@ -117,7 +117,7 @@ Leave a message here, in web-page chat button, or
 
 ## My Scratch Days! 
 
-<img src="https://img.shields.io/badge/SparkScratch-P-4D97FF.svg" alt="SPARKSheild-SparkScratch">
+<img src="https://img.shields.io/badge/SparkScratch-P-4D97FF.svg?style=for-the-badge" alt="SPARKSheild-SparkScratch">
 ---
 
 <details><summary><b>Click to EXPAND</b></summary>

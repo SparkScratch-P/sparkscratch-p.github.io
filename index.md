@@ -162,106 +162,7 @@ Leave a message here, in web-page chat button, or
 
 ## Exciting games to Play in ur Browser
 
-<!-- Boxel Bluebound --><style>
-.container {
-  position: relative;
-  width: 50%;
-}
-
-.image {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
-.overlay {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background-color: #008CBA;
-  overflow: hidden;
-  width: 100%;
-  height: 0;
-  transition: .5s ease;
-}
-
-.container:hover .overlay {
-  height: 100%;
-}
-
-.text {
-  white-space: nowrap; 
-  color: white;
-  font-size: 20px;
-  position: absolute;
-  overflow: hidden;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-}
-</style>
-
-<a href="https://sparkscratch-p.github.io/Boxel-Bluebound/"><div class="container">
-  <img src="https://cdn2.scratch.mit.edu/get_image/project/436088467_480x360.png" alt="Avatar" class="image">
-  <div class="overlay">
-    <div class="text">Boxel Blubound || Ninja Edition</div>
-  </div>
-</div></a>
-
-<!-- Jetty cat -->
-
-<style>
-.container {
-  position: relative;
-  width: 50%;
-}
-
-.image {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
-.overlay {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background-color: #008CBA;
-  overflow: hidden;
-  width: 100%;
-  height: 0;
-  transition: .5s ease;
-}
-
-.container:hover .overlay {
-  height: 100%;
-}
-
-.text {
-  white-space: nowrap; 
-  color: white;
-  font-size: 20px;
-  position: absolute;
-  overflow: hidden;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-}
-</style>
-
-<a href="https://sparkscratch-p.github.io/Jetty-Cat/"><div class="container">
-  <img src="https://cdn2.scratch.mit.edu/get_image/project/416525168_480x360.png" alt="Avatar" class="image">
-  <div class="overlay">
-    <div class="text">Jetty Cat</div>
-  </div>
-</div></a>
-
-
-[ ![dvr](https://cdn2.scratch.mit.edu/get_image/project/412551036_144x108.png) ](https://sparkscratch-p.github.io/Dragon-Virtual-Racing/)[ ![counter invase](https://cdn2.scratch.mit.edu/get_image/project/422728150_144x108.png) ](https://sparkscratch-p.github.io/counter-invase-fps/)[ ![pulse tunnel glide](https://cdn2.scratch.mit.edu/get_image/project/524076502_144x108.png) ](https://sparkscratch-p.github.io/Pulse-Tunnel-Glide-3D/)[ ![red platformer](https://cdn2.scratch.mit.edu/get_image/project/560044534_144x108.png) ](https://sparkscratch-p.github.io/Red-A-Platformer/)[ ![neon table](https://cdn2.scratch.mit.edu/get_image/project/552110158_144x108.png) ](https://sparkscratch-p.github.io/neon-table/)[ ![hcrreh](https://cdn2.scratch.mit.edu/get_image/project/607712945_144x108.png) ](https://sparkscratch-p.github.io/hill-climb-racing-re-himlayan/)[![bc](https://cdn2.scratch.mit.edu/get_image/project/614661503_144x108.png)](https://sparkscratch-p.github.io/the-adventures-of-black-cat/)
+[ ![jetcat](https://cdn2.scratch.mit.edu/get_image/project/416525168_144x108.png) ](https://sparkscratch-p.github.io/Jetty-Cat/)[ ![bobnje](https://cdn2.scratch.mit.edu/get_image/project/436088467_480x360.png) ](https://sparkscratch-p.github.io/Boxel-Bluebound/)[ ![dvr](https://cdn2.scratch.mit.edu/get_image/project/412551036_144x108.png) ](https://sparkscratch-p.github.io/Dragon-Virtual-Racing/)[ ![counter invase](https://cdn2.scratch.mit.edu/get_image/project/422728150_144x108.png) ](https://sparkscratch-p.github.io/counter-invase-fps/)[ ![pulse tunnel glide](https://cdn2.scratch.mit.edu/get_image/project/524076502_144x108.png) ](https://sparkscratch-p.github.io/Pulse-Tunnel-Glide-3D/)[ ![red platformer](https://cdn2.scratch.mit.edu/get_image/project/560044534_144x108.png) ](https://sparkscratch-p.github.io/Red-A-Platformer/)[ ![neon table](https://cdn2.scratch.mit.edu/get_image/project/552110158_144x108.png) ](https://sparkscratch-p.github.io/neon-table/)[ ![hcrreh](https://cdn2.scratch.mit.edu/get_image/project/607712945_144x108.png) ](https://sparkscratch-p.github.io/hill-climb-racing-re-himlayan/)[![bc](https://cdn2.scratch.mit.edu/get_image/project/614661503_144x108.png)](https://sparkscratch-p.github.io/the-adventures-of-black-cat/)
 
 *most games will be available in [Appocalypse](https://app-ocalypse.github.io/App-ocalypse/)
 
@@ -319,7 +220,7 @@ ___
 
 ### Contributions and PRs are Welcome!
  
-<div class="powr-reviews" id="604b3819_1636729276"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
+<div class="powr-reviews" id="604b3819_1636729276"> </div> <script src="https://www.powr.io/powr.js?platform=html"> </script>
  
 
 <h2 align="center">

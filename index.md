@@ -82,6 +82,8 @@ Leave a message here, in web-page chat button, or
 <img src="https://img.shields.io/badge/Prodyumna-Pal-yellow.svg?style=for-the-badge" alt="SPARKSheild-Prodyumna">
 
  
+---
+ 
 <details><summary><b>Click to EXPAND</b></summary>
          
 <p>  Hi Guys !!! I am <strong>SparkScratch_P (Prodyumna Pal).</strong></p>
@@ -118,7 +120,9 @@ Leave a message here, in web-page chat button, or
 ## My Scratch Days! 
 
 <img src="https://img.shields.io/badge/SparkScratch-P-4D97FF.svg?style=for-the-badge" alt="SPARKSheild-SparkScratch">
+
 ---
+
 
 <details><summary><b>Click to EXPAND</b></summary>
          
@@ -143,7 +147,8 @@ Leave a message here, in web-page chat button, or
 <p>Hence, <strong>15th</strong> most celebrated scratcher in <strong>179 days</strong> on scratch.</p>
 <p>I got <strong>110 followers</strong> in a single day, 5th November.</p>
 <p>My most viewed project (unshared) had <strong>39000+ viewers</strong> in a week and I had a total of <strong>3 trending projects!</strong></p>
-
+    
+<b>16 December 2021</b> : Its 365 Days I have left scratch, double the day I had been there! Inactivity has led to loss of almost 50 followers, still, I am in the <b>Top 100 Followed Scratchers in India</b>; 75th!
          
 </details>
 

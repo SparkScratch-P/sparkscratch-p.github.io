@@ -169,15 +169,12 @@ Leave a message here, in web-page chat button, or
 
 *most games will be available in [Appocalypse](https://app-ocalypse.github.io/App-ocalypse/)
 
-## Developer Guides & Toolkits:
-
-The ***SUCSES Encoding and Decoding Series*** for encoding text, lists, and even images, fast & easily on Scratch
-
-[Repository](https://github.com/SparkScratch-P/SUCSES) [Documentation](https://sparkscratch-p.github.io/SUCSES/)
+## Developer Guides:
 
 ***Sb3 to Exe*** converter, the best method
 
-[Repository](https://github.com/SparkScratch-P/Sb3-to-exe) [Documentation](https://sparkscratch-p.github.io/Sb3-to-exe/)
+--|--
+[Repository](https://github.com/SparkScratch-P/Sb3-to-exe) | [Documentation](https://sparkscratch-p.github.io/Sb3-to-exe/)
          
 ## Hardware & Firmware for You !!
          

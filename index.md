@@ -173,7 +173,6 @@ Leave a message here, in web-page chat button, or
 
 ***Sb3 to Exe*** converter, the best method
 
-| ----------- | ----------- |
 
 | [Repository](https://github.com/SparkScratch-P/Sb3-to-exe) | [Documentation](https://sparkscratch-p.github.io/Sb3-to-exe/)|
 

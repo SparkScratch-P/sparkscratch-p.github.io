@@ -6,6 +6,7 @@
 
 <!-- ShareThis BEGIN --><div class="sharethis-inline-reaction-buttons"></div><!-- ShareThis END -->
 
+<div class="powr-popup" id="929ca87f_1640357945"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 
 <h1 align="center">
     <em>Hey</em> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/images/Hi.gif?raw=true" width="29px">, <em>I'm SparkScratch-P... Welcome! </em>👨‍💻 

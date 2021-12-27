@@ -150,6 +150,13 @@ Leave a message here, in web-page chat button, or
 <p>My most viewed project (unshared) had <strong>39000+ viewers</strong> in a week and I had a total of <strong>3 trending projects!</strong></p>
     
 <b>16 December 2021</b> : Its 365 Days I have left scratch, double the day I had been there! Inactivity has led to loss of almost 50 followers, still, I am in the <b>Top 100 Followed Scratchers in India</b>; 75th!
+    
+<h2 id="on-the-scratch-website-">On the Scratch Website...</h2>
+<p><img src="https://cdn2.scratch.mit.edu/get_image/user/62215667_60x60.png" alt="SparkScratch_P on Scratch" title="SparkScratch_P on Scratch"></p>
+<p><a href="https://scratch.mit.edu/users/SparkScratch_P/projects/"><img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/1.jpg?raw=true" alt="1"> </a> 
+<a href="https://scratch.mit.edu/users/SparkScratch_P/projects/"><img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/2.jpg?raw=true" alt="2"> </a> 
+<a href="https://scratch.mit.edu/users/SparkScratch_P/projects/"><img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/3.jpg?raw=true" alt="3"> </a> </p>
+<p><a href="https://scratch.mit.edu/users/SparkScratch_P/projects/"><img src="https://raw.githubusercontent.com/SparkScratch-P/Home/gh-pages/cooltext374215334440657.png" alt="btn"> </a> </p>
          
 </details>
 
@@ -196,14 +203,6 @@ Follow me on Tinkercad & Check out All the Circuits, Projects, 3D Drawings and m
 **You can Simulate them and view Code right here, on my site!**
      
          
-## On the Scratch Website...
-![SparkScratch_P on Scratch](https://cdn2.scratch.mit.edu/get_image/user/62215667_60x60.png "SparkScratch_P on Scratch")
-
-[![1](https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/1.jpg?raw=true) ](https://scratch.mit.edu/users/SparkScratch_P/projects/) 
-[![2](https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/2.jpg?raw=true) ](https://scratch.mit.edu/users/SparkScratch_P/projects/) 
-[![3](https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/3.jpg?raw=true) ](https://scratch.mit.edu/users/SparkScratch_P/projects/) 
-
-[![btn](https://raw.githubusercontent.com/SparkScratch-P/Home/gh-pages/cooltext374215334440657.png) ](https://scratch.mit.edu/users/SparkScratch_P/projects/) 
 
 ___
 

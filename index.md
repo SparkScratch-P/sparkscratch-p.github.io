@@ -223,9 +223,6 @@ ___
  
 <div class="powr-reviews" id="604b3819_1636729276"> </div> <script src="https://www.powr.io/powr.js?platform=html"> </script>
  
-
-
-
 <h1 align="center">
     <code><em>👾 Thank You for Scrolling With Peace!!!👾</em></code>
 </h1>

@@ -152,11 +152,15 @@ Leave a message here, in web-page chat button, or
 <b>16 December 2021</b> : Its 365 Days I have left scratch, double the day I had been there! Inactivity has led to loss of almost 50 followers, still, I am in the <b>Top 100 Followed Scratchers in India</b>; 75th!
     
 <h2 id="on-the-scratch-website-">On the Scratch Website...</h2>
+    
+    <p>Well, the Scratch Website doesn&#39;t contain my account anymore. But here is a list of projects:
+Navigate Down, the List has the links to each one of them. Enjoy in Turbowarp!</p>
+    
 <p><img src="https://cdn2.scratch.mit.edu/get_image/user/62215667_60x60.png" alt="SparkScratch_P on Scratch" title="SparkScratch_P on Scratch"></p>
-<p><a href="https://scratch.mit.edu/users/SparkScratch_P/projects/"><img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/1.jpg?raw=true" alt="1"> </a> 
-<a href="https://scratch.mit.edu/users/SparkScratch_P/projects/"><img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/2.jpg?raw=true" alt="2"> </a> 
-<a href="https://scratch.mit.edu/users/SparkScratch_P/projects/"><img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/3.jpg?raw=true" alt="3"> </a> </p>
-<p><a href="https://scratch.mit.edu/users/SparkScratch_P/projects/"><img src="https://raw.githubusercontent.com/SparkScratch-P/Home/gh-pages/cooltext374215334440657.png" alt="btn"> </a> </p>
+    
+<p><img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/1.jpg?raw=true" alt="1">
+<img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/2.jpg?raw=true" alt="2"><img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/3.jpg?raw=true" alt="3"></p>
+
          
 </details>
 

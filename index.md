@@ -23,7 +23,7 @@
 
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico"  width="200px"/>
+  <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/20220119_174221.gif?raw=true"  width="200px"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SparkScratch-P&theme=solarized" width="60%"/> 
 </p>
 

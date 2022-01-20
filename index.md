@@ -232,6 +232,12 @@ Navigate Down, the List has the links to each one of them. Enjoy in Turbowarp!</
 
 | [Repository](https://github.com/SparkScratch-P/Sb3-to-exe) | [Documentation](https://sparkscratch-p.github.io/Sb3-to-exe/)|
 
+
+***Batch Viruses :*** An awesome collection of different kinds of Harmful, minor, and even helpful Computer Viruses written in Windows Batch File.
+
+
+| [Repository](https://github.com/SparkScratch-P/batch-virus) | [Documentation](https://sparkscratch-p.github.io/batch-virus/)|
+
          
 ## Hardware & Firmware for You !!
          

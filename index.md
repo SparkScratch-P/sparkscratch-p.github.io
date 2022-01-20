@@ -30,7 +30,7 @@
 
 ### Check me out here:
 
-<a href="https://github.com/SparkScratch-P"><img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/github%20ac.png?raw=true" alt="git ac" width="100"/></a> <a href="https://scratch.mit.edu/users/SparkScratch_P/"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/scratch%20ac.png?raw=true" alt="scratch ac" width="100"/></a> <a href="https://en.scratch-wiki.info/wiki/User:SparkScratch_P"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/S%20Wiki%20ac.png?raw=true" alt="swiki ac" width="100"/> </a> <a href="https://www.tinkercad.com/users/0TMFbOW7Vt3?category=circuits&sort=likes&view_mode=default"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/download%20(1).png?raw=true" alt="CAD ac" width="100"/> </a>  <a href="https://www.youtube.com/channel/UCRQG8hydUuuMFdOzRf8NIUw"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/youtube.jpg?raw=true" alt="youtube" width="120"/> </a> 
+<a href="https://github.com/SparkScratch-P"><img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/github%20ac.png?raw=true" alt="git ac" width="100"/></a> <a href="https://scratch.mit.edu/users/SparkScratch_P/"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/scratch%20ac.png?raw=true" alt="scratch ac" width="100"/></a> <a href="https://en.scratch-wiki.info/wiki/User:SparkScratch_P"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/S%20Wiki%20ac.png?raw=true" alt="swiki ac" width="100"/> </a> <a href="https://www.tinkercad.com/users/0TMFbOW7Vt3?category=circuits&sort=likes&view_mode=default"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/download%20(1).png?raw=true" alt="CAD ac" width="100"/> </a>  <a href="https://www.youtube.com/channel/UCRQG8hydUuuMFdOzRf8NIUw"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/youtube.jpg?raw=true" alt="youtube" width="120"/> </a>  <a href="https://matching.turing.com/developer-resume-preview/ce6adb2afa01369f1fe6c643ed75909ee06c05d1278253"><img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/images/837355_logo_turing-com.png?raw=true" alt="turing" width="120"/> </a>  <a href="https://www.linkedin.com/in/prodyumna-pal-456a1622b/"><img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/images/linkedin.png?raw=true" alt="linkedin" width="100"/> </a>  
 
 
 ### Connect to me: <img src="https://raw.githubusercontent.com/SparkScratch-P/sparkscratch-p.github.io/main/images/Handshake.gif" alt="hs" width="100"/>
@@ -52,6 +52,10 @@ Leave a message here, in web-page chat button, or
  <a href="https://www.youtube.com/channel/UCRQG8hydUuuMFdOzRf8NIUw/channels">
          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
       </a>
+ <a href="https://www.linkedin.com/in/prodyumna-pal-456a1622b/">
+      <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="SPARKSheild-Linkedin">
+      </a>
+
 
 
 <!-- ShareThis BEGIN --><div class="sharethis-inline-follow-buttons"></div><!-- ShareThis END --> 

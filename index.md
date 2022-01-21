@@ -117,6 +117,10 @@ Leave a message here, in web-page chat button, or
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <img src= "https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" />
          
 <p>Location: <a href="https://goo.gl/maps/q8Dvr1rWEYdxNYZv8">Kolkata(India)</a></p>
+    
+    <a href="https://open.spotify.com/user/jkervt13gcy1zh2dezzzdx0vo?si=b77e8892a3244bbb">
+         <img src="https://spotify-github-profile.vercel.app/api/view?uid=jkervt13gcy1zh2dezzzdx0vo&cover_image=true&theme=default" alt="spotify"  />
+      </a>
          
          
 </details>

@@ -118,9 +118,9 @@ Leave a message here, in web-page chat button, or
          
 <p>Location: <a href="https://goo.gl/maps/q8Dvr1rWEYdxNYZv8">Kolkata(India)</a></p>
     
-    <a href="https://open.spotify.com/user/jkervt13gcy1zh2dezzzdx0vo?si=b77e8892a3244bbb">
-         <img src="https://spotify-github-profile.vercel.app/api/view?uid=jkervt13gcy1zh2dezzzdx0vo&cover_image=true&theme=default" alt="spotify"  />
-      </a>
+<a href="https://open.spotify.com/user/jkervt13gcy1zh2dezzzdx0vo?si=b77e8892a3244bbb">
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=jkervt13gcy1zh2dezzzdx0vo&cover_image=true&theme=default" alt="spotify"  />
+</a>
          
          
 </details>

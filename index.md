@@ -13,6 +13,9 @@
     <em>Hey</em> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/images/Hi.gif?raw=true" width="29px">, <em>I'm SparkScratch-P... Welcome! </em>👨‍💻 
 </h1>
 
+![image](https://user-images.githubusercontent.com/73777108/184686640-33d18cf0-207d-4b1f-b607-3735d9a513d6.png)<img align="right" src="https://user-images.githubusercontent.com/73777108/184686430-0a88ce8c-fc09-44e7-ac51-7b4e7ec13a2c.gif" style="width:200px" >
+   
+
 
  ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/SparkScratch-P/sparkscratch-p.github.io/main)  ![GitHub](https://img.shields.io/github/license/SparkScratch-P/sparkscratch-p.github.io)
 

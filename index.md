@@ -285,7 +285,7 @@ window.onclick = function(event) {
 
 ---
 
-    <br>
+<br>
 <div class="box">
 
 <!-- Trigger/Open The Modal -->
@@ -302,9 +302,8 @@ window.onclick = function(event) {
 
       
     </div>
+  </div>
 </div>
-
-  
 
 <br>  
     

@@ -164,7 +164,7 @@ background: linear-gradient(0deg, rgba(0,172,238,1) 0%, rgba(2,126,251,1) 100%);
 
 
 <!-- Trigger/Open The Modal -->
- <button class="custom-btn btn-12"><span>EXPLORE</span><span>CONNECT</span></button>
+ <button id="myBtn" class="custom-btn btn-12"><span>CONNECT</span><span>EXPLORE</span></button>
 
 <!-- The Modal -->
 <div id="myModal" class="modal">

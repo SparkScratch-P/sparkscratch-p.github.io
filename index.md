@@ -449,7 +449,7 @@ background: linear-gradient(0deg, rgba(0,172,238,1) 0%, rgba(2,126,251,1) 100%);
   <!-- Modal content -->
   <div class="modal-content">
     <span class="close">&times;</span>
-      
+      ...
    <iframe src="https://sparkscratch-p.github.io/about/" allowtransparency="true" width="100%" height="100%" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
       

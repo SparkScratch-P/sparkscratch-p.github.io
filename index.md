@@ -258,8 +258,7 @@ window.onclick = function(event) {
 
 
 
-
-  <!-- ShareThis BEGIN --><div class="sharethis-inline-follow-buttons"></div><!-- ShareThis END --> 
+<div class="sharethis-inline-follow-buttons"></div>
 
 ---
 

@@ -285,12 +285,9 @@ window.onclick = function(event) {
 
 ---
 
-#[Read More About Me...](https://sparkscratch-p.github.io/about/)
-    
+# [Read More About Me Here](https://sparkscratch-p.github.io/about/)
 ---
-
-
-
+    
 # My EPIC Contents... 
 
 ## Super-Exciting Web-apps, Developer Tools, and More...

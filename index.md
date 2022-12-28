@@ -59,13 +59,13 @@
   cursor: pointer;
 }
 </style>
-</head>
-<div class="box">>
 
-<h2>Modal Example</h2>
+<div class="box">
+
+
 
 <!-- Trigger/Open The Modal -->
-<button id="myBtn" align="center" style="font-family: 'Trebuchet MS', sans-serif;">CONNECT</button>
+<button id="myBtn" width="100%" align="center" style="font-family: 'Trebuchet MS', sans-serif;">CONNECT</button>
 
 <!-- The Modal -->
 <div id="myModal" class="modal">

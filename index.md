@@ -13,6 +13,11 @@
     <em>Hey</em> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/images/Hi.gif?raw=true" width="29px">, <em>I'm SparkScratch-P... Welcome! </em>👨‍💻 
 </h1>
 
+<p float="left">
+  <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/20220119_174221.gif?raw=true"  width="200px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SparkScratch-P&theme=solarized" width="60%"/> 
+</p>
+
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -201,7 +206,7 @@ background: linear-gradient(0deg, rgba(0,172,238,1) 0%, rgba(2,126,251,1) 100%);
       <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="SPARKSheild-Linkedin">
       </a></p>
 
-      <!-- ShareThis BEGIN --><div class="sharethis-inline-follow-buttons"></div><!-- ShareThis END --> 
+    
       
       
   </div>
@@ -247,13 +252,10 @@ window.onclick = function(event) {
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 
-<p float="left">
-  <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/20220119_174221.gif?raw=true"  width="200px"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SparkScratch-P&theme=solarized" width="60%"/> 
-</p>
 
 
 
+  <!-- ShareThis BEGIN --><div class="sharethis-inline-follow-buttons"></div><!-- ShareThis END --> 
 
 ---
 

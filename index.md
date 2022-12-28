@@ -14,7 +14,6 @@
 </h1>
 
 
-
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 
@@ -29,7 +28,7 @@
   left: 0;
   top: 0;
   width: 100%; /* Full width */
-  height: 100%; /* Full height */
+  height: auto; /* Full height */
   overflow: auto; /* Enable scroll if needed */
   background-color: rgb(0,0,0); /* Fallback color */
   background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
@@ -37,6 +36,7 @@
 
 /* Modal Content */
 .modal-content {
+  align: center;
   background-color: #fefefe;
   margin: auto;
   padding: 20px;
@@ -59,9 +59,10 @@
   cursor: pointer;
 }
 </style>
+</head>
+<div class="box">>
 
-<div class="box">
-
+<h2>Modal Example</h2>
 
 <!-- Trigger/Open The Modal -->
 <button id="myBtn">Open Modal</button>
@@ -72,7 +73,29 @@
   <!-- Modal content -->
   <div class="modal-content">
     <span class="close">&times;</span>
-    <p>Some text in the Modal..</p>
+   <h1  align="center" style="font-family: 'Trebuchet MS', sans-serif;"> Explore. Connect. Colab.<img src="https://raw.githubusercontent.com/SparkScratch-P/sparkscratch-p.github.io/main/images/Handshake.gif" alt="hs" width="100"/></h1>
+
+<p><a href="https://github.com/SparkScratch-P"><img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/github%20ac.png?raw=true" alt="git ac" width="100"/></a> <a href="https://scratch.mit.edu/users/SparkScratch_P/"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/scratch%20ac.png?raw=true" alt="scratch ac" width="100"/></a> <a href="https://en.scratch-wiki.info/wiki/User:SparkScratch_P"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/S%20Wiki%20ac.png?raw=true" alt="swiki ac" width="100"/> </a> <a href="https://www.tinkercad.com/users/0TMFbOW7Vt3?category=circuits&sort=likes&view_mode=default"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/download%20(1).png?raw=true" alt="CAD ac" width="100"/> </a>  <a href="https://www.youtube.com/channel/UCRQG8hydUuuMFdOzRf8NIUw"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/youtube.jpg?raw=true" alt="youtube" width="120"/> </a>  <a href="https://matching.turing.com/developer-resume-preview/ce6adb2afa01369f1fe6c643ed75909ee06c05d1278253"><img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/images/837355_logo_turing-com.png?raw=true" alt="turing" width="120"/> </a>  <a href="https://www.linkedin.com/in/prodyumna-pal-456a1622b/"><img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/images/linkedin.png?raw=true" alt="linkedin" width="100"/> </a>  </p>
+<p>Leave a message here, in web-page chat button, or</p>
+<p><a href="https://discord.com/channels/844131858597806090">
+         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
+      </a>
+ <a href="https://github.com/SparkScratch-P/sparkscratch-p.github.io/issues/1">
+         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"  />
+      </a>
+<a href="https://www.quora.com/profile/SPARKScratch/questions">
+         <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" alt="quora"  />
+      </a>
+ <a href="https://in.pinterest.com/pin/918382548982499047">
+         <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />
+      </a>
+ <a href="https://www.youtube.com/channel/UCRQG8hydUuuMFdOzRf8NIUw/channels">
+         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+      </a>
+ <a href="https://www.linkedin.com/in/prodyumna-pal-456a1622b/">
+      <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="SPARKSheild-Linkedin">
+      </a></p>
+
   </div>
 
 </div>
@@ -106,7 +129,6 @@ window.onclick = function(event) {
 </script>
 
 </div>
-
 
  ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/SparkScratch-P/sparkscratch-p.github.io/main)  ![GitHub](https://img.shields.io/github/license/SparkScratch-P/sparkscratch-p.github.io)
 

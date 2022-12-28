@@ -59,10 +59,9 @@
   cursor: pointer;
 }
 </style>
-</head>
-<div class="box">>
 
-<h2>Modal Example</h2>
+<div class="box">
+
 
 <!-- Trigger/Open The Modal -->
 <button id="myBtn">Open Modal</button>

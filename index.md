@@ -13,9 +13,96 @@
     <em>Hey</em> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/images/Hi.gif?raw=true" width="29px">, <em>I'm SparkScratch-P... Welcome! </em>👨‍💻 
 </h1>
 
-![image](https://user-images.githubusercontent.com/73777108/184686640-33d18cf0-207d-4b1f-b607-3735d9a513d6.png)<img align="right" src="https://user-images.githubusercontent.com/73777108/184686430-0a88ce8c-fc09-44e7-ac51-7b4e7ec13a2c.gif" style="width:200px" >
-   
 
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Easy Inline Modal Window Examples</title>
+    <link rel="stylesheet" href="simple-popup.css" />
+    <style>
+        *,
+        *:before,
+        *:after {
+            -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+
+        html,
+        body {
+            font-family: 'Open Sans', Helvetica, sans-serif;
+        }
+
+        .sp-wrapper .content {
+            padding: 1em
+        }
+        .container { margin: 100px auto; max-width: 960px; }
+    </style>
+    <link href="https://www.cssscript.com/wp-includes/css/sticky.css" rel="stylesheet" type="text/css">
+
+<div class="container">
+   
+<div style="margin:50px auto"><div id="carbon-block"></div>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- CSSScript Demo Page -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-2783044520727903"
+     data-ad-slot="3025259193"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+    <a href="#" class="sp-trigger" data-target="source1">Popup - Source 1</a>
+    <br />
+
+
+    <div class="sp-source" id="source1">
+        <h2>LOREM IMPSUM </h2>
+        <img src="https://source.unsplash.com/DxdhQGl-cnc/500x200" width="100%" />
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, explicabo eaque ipsa repellendus tenetur ex quisquam perspiciatis! Repellendus, iste magni facere dolor earum ad eum, id a ullam alias ab!</p>
+    </div>
+
+    <div class="sp-source" id="source2">
+
+
+    <script src="simple-popup.js"></script>
+    <script>
+        SimplePopup.init({
+            maxWidth: '500px',
+            duration: '200',
+            closeButton: true,
+            animation: true
+        });
+        /*
+            maxWidth: '500px',
+            duration: '500',
+            position: 'center',
+            closeButton: true,
+            animation: true
+        */
+    </script>
+<script>
+try {
+  fetch(new Request("https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js", { method: 'HEAD', mode: 'no-cors' })).then(function(response) {
+    return true;
+  }).catch(function(e) {
+    var carbonScript = document.createElement("script");
+    carbonScript.src = "//cdn.carbonads.com/carbon.js?serve=CE7DC2JW&placement=wwwcssscriptcom";
+    carbonScript.id = "_carbonads_js";
+    document.getElementById("carbon-block").appendChild(carbonScript);
+  });
+} catch (error) {
+  console.log(error);
+}
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46156385-1', 'cssscript.com');
+  ga('send', 'pageview');
+
+</script>
 
  ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/SparkScratch-P/sparkscratch-p.github.io/main)  ![GitHub](https://img.shields.io/github/license/SparkScratch-P/sparkscratch-p.github.io)
 

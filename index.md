@@ -58,6 +58,105 @@
   text-decoration: none;
   cursor: pointer;
 }
+    
+button {
+  margin: 20px;
+}
+    
+.custom-btn {
+  width: 130px;
+  height: 40px;
+  color: #fff;
+  border-radius: 5px;
+  padding: 10px 25px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  background: transparent;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+   box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+   7px 7px 20px 0px rgba(0,0,0,.1),
+   4px 4px 5px 0px rgba(0,0,0,.1);
+  outline: none;
+}
+
+
+
+/* 12 */
+.btn-12{
+  position: relative;
+  right: 20px;
+  bottom: 20px;
+  border:none;
+  box-shadow: none;
+  width: 130px;
+  height: 40px;
+  line-height: 42px;
+  -webkit-perspective: 230px;
+  perspective: 230px;
+}
+.btn-12 span {
+  background: rgb(0,172,238);
+background: linear-gradient(0deg, rgba(0,172,238,1) 0%, rgba(2,126,251,1) 100%);
+  display: block;
+  position: absolute;
+  width: 130px;
+  height: 40px;
+  box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+   7px 7px 20px 0px rgba(0,0,0,.1),
+   4px 4px 5px 0px rgba(0,0,0,.1);
+  border-radius: 5px;
+  margin:0;
+  text-align: center;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+}
+.btn-12 span:nth-child(1) {
+  box-shadow:
+   -7px -7px 20px 0px #fff9,
+   -4px -4px 5px 0px #fff9,
+   7px 7px 20px 0px #0002,
+   4px 4px 5px 0px #0001;
+  -webkit-transform: rotateX(90deg);
+  -moz-transform: rotateX(90deg);
+  transform: rotateX(90deg);
+  -webkit-transform-origin: 50% 50% -20px;
+  -moz-transform-origin: 50% 50% -20px;
+  transform-origin: 50% 50% -20px;
+}
+.btn-12 span:nth-child(2) {
+  -webkit-transform: rotateX(0deg);
+  -moz-transform: rotateX(0deg);
+  transform: rotateX(0deg);
+  -webkit-transform-origin: 50% 50% -20px;
+  -moz-transform-origin: 50% 50% -20px;
+  transform-origin: 50% 50% -20px;
+}
+.btn-12:hover span:nth-child(1) {
+  box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+   7px 7px 20px 0px rgba(0,0,0,.1),
+   4px 4px 5px 0px rgba(0,0,0,.1);
+  -webkit-transform: rotateX(0deg);
+  -moz-transform: rotateX(0deg);
+  transform: rotateX(0deg);
+}
+.btn-12:hover span:nth-child(2) {
+  box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+   7px 7px 20px 0px rgba(0,0,0,.1),
+   4px 4px 5px 0px rgba(0,0,0,.1);
+ color: transparent;
+  -webkit-transform: rotateX(-90deg);
+  -moz-transform: rotateX(-90deg);
+  transform: rotateX(-90deg);
+}
+
+
+    
 </style>
 
 <div class="box">
@@ -65,7 +164,7 @@
 
 
 <!-- Trigger/Open The Modal -->
-<button id="myBtn" width="100%" align="center" style="font-family: 'Trebuchet MS', sans-serif;">CONNECT</button>
+ <button class="custom-btn btn-12"><span>EXPLORE</span><span>CONNECT</span></button>
 
 <!-- The Modal -->
 <div id="myModal" class="modal">
@@ -96,6 +195,9 @@
       <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="SPARKSheild-Linkedin">
       </a></p>
 
+      <!-- ShareThis BEGIN --><div class="sharethis-inline-follow-buttons"></div><!-- ShareThis END --> 
+      
+      
   </div>
 
 </div>
@@ -145,37 +247,7 @@ window.onclick = function(event) {
 </p>
 
 
-### Check me out here:
 
-<a href="https://github.com/SparkScratch-P"><img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/github%20ac.png?raw=true" alt="git ac" width="100"/></a> <a href="https://scratch.mit.edu/users/SparkScratch_P/"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/scratch%20ac.png?raw=true" alt="scratch ac" width="100"/></a> <a href="https://en.scratch-wiki.info/wiki/User:SparkScratch_P"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/S%20Wiki%20ac.png?raw=true" alt="swiki ac" width="100"/> </a> <a href="https://www.tinkercad.com/users/0TMFbOW7Vt3?category=circuits&sort=likes&view_mode=default"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/download%20(1).png?raw=true" alt="CAD ac" width="100"/> </a>  <a href="https://www.youtube.com/channel/UCRQG8hydUuuMFdOzRf8NIUw"> <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/youtube.jpg?raw=true" alt="youtube" width="120"/> </a>  <a href="https://matching.turing.com/developer-resume-preview/ce6adb2afa01369f1fe6c643ed75909ee06c05d1278253"><img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/images/837355_logo_turing-com.png?raw=true" alt="turing" width="120"/> </a>  <a href="https://www.linkedin.com/in/prodyumna-pal-456a1622b/"><img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/images/linkedin.png?raw=true" alt="linkedin" width="100"/> </a>  
-
-
-### Connect to me: <img src="https://raw.githubusercontent.com/SparkScratch-P/sparkscratch-p.github.io/main/images/Handshake.gif" alt="hs" width="100"/>
-
-Leave a message here, in web-page chat button, or
-
-<a href="https://discord.com/channels/844131858597806090">
-         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
-      </a>
- <a href="https://github.com/SparkScratch-P/sparkscratch-p.github.io/issues/1">
-         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"  />
-      </a>
-<a href="https://www.quora.com/profile/SPARKScratch/questions">
-         <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" alt="quora"  />
-      </a>
- <a href="https://in.pinterest.com/pin/918382548982499047">
-         <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />
-      </a>
- <a href="https://www.youtube.com/channel/UCRQG8hydUuuMFdOzRf8NIUw/channels">
-         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-      </a>
- <a href="https://www.linkedin.com/in/prodyumna-pal-456a1622b/">
-      <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="SPARKSheild-Linkedin">
-      </a>
-
-
-
-<!-- ShareThis BEGIN --><div class="sharethis-inline-follow-buttons"></div><!-- ShareThis END --> 
 
 ---
 

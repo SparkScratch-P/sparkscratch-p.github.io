@@ -66,6 +66,12 @@ button {
 .custom-btn {
   width: 130px;
   height: 40px;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
   color: #fff;
   border-radius: 5px;
   padding: 10px 25px;

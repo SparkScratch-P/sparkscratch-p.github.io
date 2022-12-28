@@ -18,6 +18,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SparkScratch-P&theme=solarized" width="60%"/> 
 </p>
 
+<br> 
+<br> 
+
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -242,6 +245,10 @@ window.onclick = function(event) {
 </script>
 
 </div>
+    
+    <br> 
+    <br> 
+    <br> 
 
  ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/SparkScratch-P/sparkscratch-p.github.io/main)  ![GitHub](https://img.shields.io/github/license/SparkScratch-P/sparkscratch-p.github.io)
 

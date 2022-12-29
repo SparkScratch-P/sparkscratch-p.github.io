@@ -271,9 +271,8 @@ window.onclick = function(event) {
 <p> <img src="https://github-profile-trophy.vercel.app/?username=SparkScratch-P&amp;theme=discord" alt="trophies"></p>
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparkScratch-P&amp;theme=dark" alt="Top Langs"></p>
 <p> <img src="https://activity-graph.herokuapp.com/graph?username=SparkScratch-P&amp;theme=react-dark" alt="act"></p>
-
-
-    </div>
+</div>
+    
 ---
 
 ## [Read More About Me Here](https://sparkscratch-p.github.io/about/)

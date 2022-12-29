@@ -265,30 +265,21 @@ window.onclick = function(event) {
 <div class="sharethis-inline-follow-buttons"></div>
 
 ---
+<div align="center">
+<p> <img src="https://github-readme-stats.vercel.app/api?username=SparkScratch-P&amp;count_private=true&amp;show_icons=true&amp;theme=blue-green&amp;border_radius=25" alt="git stats">
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=SparkScratch-P&amp;theme=highcontrast&amp;hide_border=true" alt="GitHub Streak"></p>
+<p> <img src="https://github-profile-trophy.vercel.app/?username=SparkScratch-P&amp;theme=discord" alt="trophies"></p>
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparkScratch-P&amp;theme=dark" alt="Top Langs"></p>
+<p> <img src="https://activity-graph.herokuapp.com/graph?username=SparkScratch-P&amp;theme=react-dark" alt="act"></p>
 
 
- ![git stats](https://github-readme-stats.vercel.app/api?username=SparkScratch-P&count_private=true&show_icons=true&theme=blue-green&border_radius=25)
- ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SparkScratch-P&theme=highcontrast&hide_border=true)
- 
+    </div>
 ---
 
- ![trophies](https://github-profile-trophy.vercel.app/?username=SparkScratch-P&theme=discord)
- 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SparkScratch-P&theme=dark)
- 
- 
----
- 
- 
- ![act](https://activity-graph.herokuapp.com/graph?username=SparkScratch-P&theme=react-dark)
-
-
----
-
-# [Read More About Me Here](https://sparkscratch-p.github.io/about/)
+## [Read More About Me Here](https://sparkscratch-p.github.io/about/)
 ---
     
-# My EPIC Contents... 
+# Run Through My EPIC Contents... 
 
 ## Super-Exciting Web-apps, Developer Tools, and More...
 

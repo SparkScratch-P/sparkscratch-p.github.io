@@ -14,8 +14,8 @@
 </h1>
 
 <p float="left">
-  <img src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/20220119_174221.gif?raw=true"  width="200px"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SparkScratch-P&theme=solarized" width="60%"/> 
+  
+   <a href="https://github.com/SparkScratch-P/zia"><img style="width: 200px; border-radius: 50%;" src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/20220119_174221.gif?raw=true" onmouseover="this.src='https://media.licdn.com/dms/image/D4D03AQECVEbnaOdyBw/profile-displayphoto-shrink_200_200/0/1664188763820?e=1677715200&v=beta&t=Fwi0VWoR4t7xL50GrS1eUvQHsjlf3pFdGy7aLLeMrCg';" onmouseout="this.src='https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/20220119_174221.gif?raw=true';"/><img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SparkScratch-P&theme=solarized" width="60%"/> 
 </p>
 
 <br>

@@ -14,7 +14,7 @@
 </h1>
 
 <p float="left">
-    <a href="https://github.com/SparkScratch-P/"><img style="width: 200px; border-radius: 50%;" src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/20220119_174221.gif?raw=true" onmouseover="this.src='https://media.licdn.com/dms/image/D4D03AQECVEbnaOdyBw/profile-displayphoto-shrink_200_200/0/1664188763820?e=1677715200&v=beta&t=Fwi0VWoR4t7xL50GrS1eUvQHsjlf3pFdGy7aLLeMrCg';" onmouseout="this.src='https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/20220119_174221.gif?raw=true';"/><img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SparkScratch-P&theme=solarized" width="60%"/></a>
+   <img style="width: 200px; border-radius: 50%;" src="https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/20220119_174221.gif?raw=true" onmouseover="this.src='https://media.licdn.com/dms/image/D4D03AQECVEbnaOdyBw/profile-displayphoto-shrink_200_200/0/1664188763820?e=1677715200&v=beta&t=Fwi0VWoR4t7xL50GrS1eUvQHsjlf3pFdGy7aLLeMrCg';" onmouseout="this.src='https://github.com/SparkScratch-P/sparkscratch-p.github.io/blob/main/20220119_174221.gif?raw=true';"/><img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SparkScratch-P&theme=solarized" width="60%"/>
         </p>
 
     
@@ -265,7 +265,7 @@ window.onclick = function(event) {
 <div class="sharethis-inline-follow-buttons"></div>
 
 ---
-<div align="center"><a href="https://github.com/SparkScratch-P"><img  src="https://github-readme-stats.vercel.app/api?username=SparkScratch-P&count_private=true&show_icons=true&theme=blue-green&border_radius=25" onmouseover="this.src='http://github-readme-streak-stats.herokuapp.com/?user=SparkScratch-P&theme=theme=highcontrast&hide_border=true&border_radius=25';" onmouseout="this.src='https://github-readme-stats.vercel.app/api?username=SparkScratch-P&count_private=true&show_icons=true&theme=blue-green&border_radius=25';"/></a>
+<div align="center"><img  src="https://github-readme-stats.vercel.app/api?username=SparkScratch-P&count_private=true&show_icons=true&theme=blue-green&border_radius=25" onmouseover="this.src='http://github-readme-streak-stats.herokuapp.com/?user=SparkScratch-P&theme=theme=highcontrast&hide_border=true&border_radius=25';" onmouseout="this.src='https://github-readme-stats.vercel.app/api?username=SparkScratch-P&count_private=true&show_icons=true&theme=blue-green&border_radius=25';"/>
 <p> <img src="https://github-profile-trophy.vercel.app/?username=SparkScratch-P&amp;theme=discord" alt="trophies"></p>
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparkScratch-P&amp;theme=dark" alt="Top Langs"></p>
 <p> <img src="https://activity-graph.herokuapp.com/graph?username=SparkScratch-P&amp;theme=react-dark" alt="act"></p>

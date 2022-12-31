@@ -273,7 +273,50 @@ window.onclick = function(event) {
     
 ---
 
-## [Read More About Me Here](https://sparkscratch-p.github.io/about/)
+<style>
+.rbutton {
+  border-radius: 4px;
+  align: center;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 400px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.rbutton span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.rbutton span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -40px;
+  transition: 0.5s;
+}
+
+.rbutton:hover span {
+  padding-right: 35px;
+}
+
+.rbutton:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+</style>
+<a href="https://sparkscratch-p.github.io/about/">
+<button class="rbutton"><span>Read More About Me  </span></button></a>
+
 ---
     
 # Run Through My EPIC Contents... 

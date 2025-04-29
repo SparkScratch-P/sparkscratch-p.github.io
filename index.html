@@ -8,26 +8,35 @@
     body {
       margin: 0;
       background-color: #1a001a;
-      display: flex;
-      justify-content: center;
-      align-items: center;
       height: 100vh;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0 5vw; /* Add some padding on the sides */
     }
     model-viewer {
-      width: 80vw;
+      width: 45vw;
       height: 80vh;
     }
   </style>
 </head>
 <body>
-  <!-- Your GLB file must be in the same folder and named exactly -->
-  <model-viewer src="./rover1.glb"
-    alt="3D model"
+  <model-viewer src="rover1.glb"
+    alt="3D rover model"
     auto-rotate
     camera-controls
-    background-color="#1a001a"
     shadow-intensity="1"
-    exposure="1.2">
+    exposure="1.2"
+    background-color="#1a001a">
+  </model-viewer>
+
+  <model-viewer src="bicopter_orange.glb"
+    alt="3D bicopter model"
+    auto-rotate
+    camera-controls
+    shadow-intensity="1"
+    exposure="1.2"
+    background-color="#1a001a">
   </model-viewer>
 </body>
 </html>

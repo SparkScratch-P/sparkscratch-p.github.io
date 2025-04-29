@@ -5,30 +5,32 @@
   <title>3D Model Viewer</title>
   <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
   <style>
-    body {
+    html, body {
       margin: 0;
-      background-color: #1a001a;
-      height: 100vh;
+      padding: 0;
+      height: 100%;
+      background: transparent;
+    }
+    body {
       display: flex;
-      justify-content: space-between;
-      align-items: right;
-      padding: 0 5vw; /* Add some padding on the sides */
+      justify-content: flex-start; /* Align to left */
+      align-items: center; /* Center vertically */
     }
     model-viewer {
       width: 45vw;
       height: 80vh;
+      background: transparent; /* Ensure no background */
     }
   </style>
 </head>
 <body>
-
   <model-viewer src="rover1.glb"
     alt="3D bicopter model"
     auto-rotate
     camera-controls
     shadow-intensity="1"
     exposure="1.2"
-    background-color="#1a001a">
+    style="background: transparent;">
   </model-viewer>
 </body>
 </html>

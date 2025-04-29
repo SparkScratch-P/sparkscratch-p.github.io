@@ -15,7 +15,7 @@
 
     body {
       display: flex;
-      justify-content: flex-start; /* Align to left */
+      justify-content: flex-end; /* Align to left */
       align-items: center; /* Vertically center */
     }
 
@@ -27,13 +27,18 @@
   </style>
 </head>
 <body>
-  <model-viewer src="rover1.glb"
-    alt="3D bicopter model"
-    auto-rotate
-    camera-controls
-    shadow-intensity="1"
-    exposure="1.2"
-    style="background: transparent;">
-  </model-viewer>
+<model-viewer
+  src="rover1.glb"
+  alt="3D bicopter model"
+  auto-rotate
+  camera-controls
+  exposure="1.2"
+  shadow-intensity="1"
+  environment-image="neutral"
+  style="background: transparent;"
+  min-camera-orbit="auto auto 1.0m"
+  max-camera-orbit="auto auto 1.5m">
+</model-viewer>
+
 </body>
 </html>

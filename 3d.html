@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>3D Model Viewer</title>
+  <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      background-color: #1a001a;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    model-viewer {
+      width: 80vw;
+      height: 80vh;
+    }
+  </style>
+</head>
+<body>
+  <!-- Your GLB file must be in the same folder and named exactly -->
+  <model-viewer src="https://github.com/SparkScratch-P/deep-research-ai/raw/refs/heads/main/drone.glb"
+    alt="3D model"
+    auto-rotate
+    camera-controls
+    background-color="#1a001a"
+    shadow-intensity="1"
+    exposure="1.2">
+  </model-viewer>
+</body>
+</html>

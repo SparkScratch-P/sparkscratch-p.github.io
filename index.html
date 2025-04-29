@@ -2,43 +2,101 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>3D Model Viewer</title>
+  <title>Huzaif | Devxora</title>
   <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
   <style>
-    html, body {
+    * {
       margin: 0;
       padding: 0;
-      height: 100%;
-      background: url('https://ext.same-assets.com/24220934/2054034595.png') no-repeat center center fixed;
-      background-size: cover;
+      box-sizing: border-box;
     }
 
     body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #0d0b1f;
+      color: white;
+      height: 100vh;
+      overflow: hidden;
+    }
+
+    .hero {
       display: flex;
-      justify-content: flex-end; /* Align to left */
-      align-items: center; /* Vertically center */
+      justify-content: space-between;
+      align-items: center;
+      padding: 5vh 5vw;
+      height: 100%;
+      background: url('https://ext.same-assets.com/24220934/2054034595.png') no-repeat center center;
+      background-size: cover;
+    }
+
+    .text-content {
+      flex: 1;
+      z-index: 2;
+    }
+
+    .text-content h1 {
+      font-size: 4rem;
+      font-weight: 800;
+    }
+
+    .text-content h1 span {
+      color: #a259ff;
+    }
+
+    .text-content p {
+      margin-top: 1rem;
+      font-size: 1.25rem;
+      color: #d0d0d0;
+    }
+
+    .model-container {
+      flex: 1;
+      display: flex;
+      justify-content: center;
+      align-items: center;
     }
 
     model-viewer {
-      width: 45vw;
+      width: 100%;
+      max-width: 500px;
       height: 80vh;
-      background: transparent;
+      background: transparent !important;
+      --poster-color: transparent;
+    }
+
+    @media screen and (max-width: 768px) {
+      .hero {
+        flex-direction: column;
+        text-align: center;
+      }
+      .model-container {
+        margin-top: 2rem;
+      }
     }
   </style>
 </head>
 <body>
-<model-viewer
-  src="rover1.glb"
-  alt="3D bicopter model"
-  auto-rotate
-  camera-controls
-  exposure="1.2"
-  shadow-intensity="1"
-  environment-image="neutral"
-  style="background: transparent;"
-  min-camera-orbit="auto auto 0.3m"
-  max-camera-orbit="auto auto 0.5m">
-</model-viewer>
+
+  <div class="hero">
+    <div class="text-content">
+      <h1>Hi, I'm <span>Huzaif</span></h1>
+      <p>I develop modern, user interfaces and web applications</p>
+    </div>
+    <div class="model-container">
+      <model-viewer
+        src="rover1.glb"
+        alt="3D bicopter model"
+        auto-rotate
+        camera-controls
+        shadow-intensity="1"
+        exposure="1.2"
+        environment-image="neutral"
+        style="background: transparent;"
+        min-camera-orbit="auto auto 10.0m"
+        max-camera-orbit="auto auto 15.0m">
+      </model-viewer>
+    </div>
+  </div>
 
 </body>
 </html>

@@ -77,6 +77,26 @@
     }
 
     /* ===== HERO SECTION ===== */
+    .purple-line {
+  position: absolute;
+  left: 40px;
+  top: 15vh;
+  height: 70vh;
+  width: 2px;
+  background: linear-gradient(to bottom, #a259ff 0%, transparent 100%);
+  z-index: 2;
+}
+
+.purple-line .dot {
+  position: absolute;
+  top: 0;
+  left: -6px;
+  width: 14px;
+  height: 14px;
+  background-color: #a259ff;
+  border-radius: 50%;
+}
+
     .hero {
       display: flex;
       justify-content: space-between;
@@ -184,8 +204,14 @@
   </nav>
 
   <!-- Hero Section -->
+  <div class="purple-line">
+  <div class="dot"></div>
+</div>
+
   <div class="hero">
+    
     <div class="text-content">
+      
       <h1>Hi, I'm <span>Prodyumna</span></h1>
       <p>I develop electronics, embedded software, and futuristic web applications with impact.</p>
       <button onclick="alert('Coming Soon')">Explore My Work</button>

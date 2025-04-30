@@ -6,6 +6,8 @@
   <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
   <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Inter:wght@300;600&display=swap" rel="stylesheet">
   <style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap');
+
     * {
       margin: 0;
       padding: 0;
@@ -30,9 +32,10 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      background: transparent;
+      background: rgba(0, 0, 0, 0.01);
+      backdrop-filter: blur(3px);
       z-index: 999;
-      border-bottom: transparent;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
     }
 
     .navbar .logo {
@@ -74,47 +77,51 @@
     .nav-links a:hover::after {
       width: 100%;
     }
-
     /* ===== HERO SECTION ===== */
     .purple-line {
-  position: absolute;
-  left: 40px;
-  top: 15vh;
-  height: 70vh;
-  width: 2px;
-  background: linear-gradient(to bottom, #a259ff 0%, transparent 100%);
-  z-index: 2;
-}
+      position: absolute;
+      left: 10vw;
+      top: 15vh;
+      height: 65vh;
+      width: 2px;
+      background: linear-gradient(to bottom, #a259ff 0%, transparent 100%);
+      z-index: 2;
+    }
 
-.purple-line .dot {
-  position: absolute;
-  top: 0;
-  left: -6px;
-  width: 14px;
-  height: 14px;
-  background-color: #a259ff;
-  border-radius: 50%;
-}
+    .purple-line .dot {
+      position: absolute;
+      top: -8px;
+      left: -6px;
+      width: 14px;
+      height: 14px;
+      background-color: #a259ff;
+      border-radius: 50%;
+    }
 
     .hero {
       display: flex;
       justify-content: space-between;
-      align-items: center;
-      padding: 12vh 5vw 5vh;
+      align-items: flex-start;
+      padding: 8vh 12vw 5vh;
       height: 100vh;
       background: url('https://ext.same-assets.com/24220934/2054034595.png') no-repeat center center;
       background-size: cover;
     }
 
     .text-content {
-      flex: 1;
+      flex: 0 0 35%; /* Adjusted to take 35% of the width */
       z-index: 2;
       animation: fadeIn 1.5s ease-out;
+      overflow: visible;
+      margin-top: 2rem;
     }
 
     .text-content h1 {
-      font-size: 4rem;
+
+      font-family: 'Poppins', sans-serif;
       font-weight: 800;
+      font-size: 4.5rem;
+      margin-bottom: 1rem;
       line-height: 1.2;
     }
 
@@ -124,9 +131,9 @@
 
     .text-content p {
       margin-top: 1rem;
-      font-size: 1.25rem;
+      font-size: 1.35rem;
       color: #d0d0d0;
-      max-width: 600px;
+      max-width: none;
     }
 
     .text-content button {
@@ -148,7 +155,7 @@
     }
 
     .model-container {
-      flex: 1;
+      flex: 0 0 65%; /* Adjusted to take 65% of the width */
       display: flex;
       justify-content: center;
       align-items: center;
@@ -158,7 +165,7 @@
     model-viewer {
       width: 100%;
       max-width: 550px;
-      height: 80vh;
+      height: 60vh;
       background: transparent !important;
       --poster-color: transparent;
     }
@@ -204,15 +211,17 @@
 
   <!-- Hero Section -->
   <div class="purple-line">
-  <div class="dot"></div>
-</div>
+    <div class="dot"></div>
+  </div>
 
   <div class="hero">
-    
+    <div class="text-content">
     <div class="text-content">
       
-      <h1>Hi, I'm <span>Prodyumna</span></h1>
-      <p>I develop electronics, embedded software, and futuristic web applications with impact.</p>
+      <h1 style="white-space: nowrap;">Hi, I'm <span style="color: #a259ff;">Prodyumna</span></h1>
+      <p style="font-family: 'Poppins', sans-serif; font-weight: 300; font-size: 1.5rem; line-height: 1.6;"></p>
+        I develop electronics, embedded software, and futuristic web applications with impact.
+      </p>
       <button onclick="alert('Coming Soon')">Explore My Work</button>
     </div>
     <div class="model-container">

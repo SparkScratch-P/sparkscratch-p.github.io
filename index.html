@@ -154,33 +154,29 @@
       background: #a259ff;
       color: #0d0b1f;
       box-shadow: 0 0 20px #a259ff90;
-    }
+        }
 
-    .model-container {
-      flex: 0 0 65%; /* Adjusted to take 65% of the width */
+        .model-container {
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 35%; /* Adjusted to take 35% of the screen width */
+      height: 100vh;
       display: flex;
-      justify-content: center;
+      justify-content: flex-end; /* Align content to the right */
       align-items: center;
       animation: fadeIn 2.2s ease-out;
-    }
+        }
 
-    .model-container model-viewer {
+        .model-container model-viewer {
       width: 100%;
       max-width: 550px;
       height: 80vh;
       background: transparent !important;
       --poster-color: transparent;
-    }
+        }
 
-    .model-container {
-      flex: 0 0 65%;
-      display: flex;
-      justify-content: flex-end; /* Aligns the model to the right */
-      align-items: center;
-      animation: fadeIn 2.2s ease-out;
-    }
-
-    @media screen and (max-width: 768px) {
+        @media screen and (max-width: 768px) {
       .hero {
         flex-direction: column;
         text-align: center;
@@ -188,12 +184,13 @@
 
       .model-container {
         margin-top: 2rem;
+        justify-content: center; /* Center content on smaller screens */
       }
 
       .nav-links {
         display: none;
       }
-    }
+        }
 
     @keyframes fadeIn {
       0% {

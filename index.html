@@ -174,10 +174,11 @@
 
         .model-container model-viewer {
       width: 100%;
-      max-width: 550px;
+      max-width: none;
       height: 80vh;
       background: transparent !important;
       --poster-color: transparent;
+      transform: translateX(50px); /* Shift the object slightly towards the left */
         }
 
         @media screen and (max-width: 768px) {
@@ -188,7 +189,7 @@
 
       .model-container {
         margin-top: 2rem;
-        justify-content: center; /* Center content on smaller screens */
+        justify-content: flex-end; /* Center content on smaller screens */
       }
 
       .nav-links {

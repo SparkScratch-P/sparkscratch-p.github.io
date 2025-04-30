@@ -218,7 +218,8 @@
     </div>
     <div class="model-container">
       <model-viewer
-        src="./assets/rover1.glb"
+        src=""
+        id="model-viewer"
         alt="3D bicopter model"
         auto-rotate
         camera-controls
@@ -229,8 +230,13 @@
         min-camera-orbit="auto auto auto"
         max-camera-orbit="auto auto auto"
         disable-zoom>
-      </model-viewer>
     </div>
+  </div>
+
+  <script>
+    const modelViewer = document.getElementById('model-viewer');
+    modelViewer.src = "./assets/" + (Math.random() < 0.5 ? "rover.glb" : "drone.glb");
+  </script>
   </div>
 
 </body>

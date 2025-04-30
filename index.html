@@ -82,18 +82,19 @@
       position: absolute;
       left: 10vw;
       top: 20vh; /* Shifted downwards */
-      height: 50vh; /* Shortened line length */
-      width: 2px;
+      height: 60vh; /* Shortened line length */
+      width: 3px;
       background: linear-gradient(to bottom, #a259ff 0%, transparent 100%);
       z-index: 2;
     }
 
     .purple-line .dot {
       position: absolute;
-      top: -10px;
-      left: -6px;
-      width: 14px;
-      height: 14px;
+      top: -15px;
+      left: 50%; /* Center horizontally relative to the line */
+      transform: translateX(-50%); /* Adjust for centering */
+      width: 20px;
+      height: 20px;
       background-color: #a259ff;
       border-radius: 100%;
     }
@@ -133,9 +134,12 @@
 
     .text-content p {
       margin-top: 1rem;
-      font-size: 1.35rem;
+      font-size: 2rem;
       color: #d0d0d0;
       max-width: none;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 800;
+      line-height: 1.6;
     }
 
     .text-content button {
@@ -226,8 +230,8 @@
     <div class="text-content">
       
       <h1 style="white-space: nowrap;">Hi, I'm <span style="color: #a259ff;">Prodyumna</span></h1>
-      <p style="font-family: 'Poppins', sans-serif; font-weight: 300; font-size: 1.5rem; line-height: 1.6;"></p>
-        I develop electronics, embedded software, and futuristic web applications with impact.
+      <p style="margin-top: 1rem; font-size: 1.5rem; color: #d0d0d0; max-width: none; font-family: 'Poppins', sans-serif; font-weight: 300; line-height: 1.4;">
+        I develop electronics, embedded software, and futuristic web applications.
       </p>
       <button onclick="alert('Coming Soon')">Explore My Work</button>
     </div>

@@ -162,12 +162,20 @@
       animation: fadeIn 2.2s ease-out;
     }
 
-    model-viewer {
+    .model-container model-viewer {
       width: 100%;
       max-width: 550px;
       height: 80vh;
       background: transparent !important;
       --poster-color: transparent;
+    }
+
+    .model-container {
+      flex: 0 0 65%;
+      display: flex;
+      justify-content: flex-end; /* Aligns the model to the right */
+      align-items: center;
+      animation: fadeIn 2.2s ease-out;
     }
 
     @media screen and (max-width: 768px) {

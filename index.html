@@ -261,13 +261,26 @@
   </div>
 
   <script>
-    const modelViewer = document.getElementById('model-viewer');
-modelViewer.src = "./assets/3D/" + (Math.random() < 0.5 ? "rover.glb" : "drone.glb");
+const modelViewer = document.getElementById('model-viewer');
 
-// Wait for model to load before showing
-modelViewer.addEventListener('load', () => {
-  document.querySelector('.model-container').classList.add('model-visible');
-});
+// Function to load the model and trigger the fade-in transition
+function loadModel() {
+  // Randomly choose between rover.glb and drone.glb
+  const modelSrc = Math.random() < 0.5 ? "rover.glb" : "drone.glb";
+  modelViewer.src = "./assets/3D/" + modelSrc;
+
+  // Remove previous visibility class before re-adding it
+  document.querySelector('.model-container').classList.remove('model-visible');
+
+  // Wait for the model to load before showing
+  modelViewer.addEventListener('load', () => {
+    // Apply visibility class to trigger fade-in transition
+    document.querySelector('.model-container').classList.add('model-visible');
+  }, { once: true }); // Ensures the event is triggered only once per model load
+}
+
+// Load the initial model and set the fade-in transition
+loadModel();
 
   </script>
   </div>

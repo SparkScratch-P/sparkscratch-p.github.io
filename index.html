@@ -919,12 +919,28 @@ modelViewer.addEventListener('load', () => {
         <h2 class="section-title">Professional <span>Journey</span></h2>
         <br></br>
         <p>Explore my professional experience and technical expertise through an interactive timeline and comprehensive skill set.</p>
-        
+        <div class="model-container">
+          <model-viewer
+            src="./assets/3D/drone1.glb"
+            id="model-viewer"
+            alt="3D bicopter model"
+            auto-rotate
+            camera-controls
+            shadow-intensity="1"
+            exposure="1.2"
+            environment-image="neutral"
+            style="background: transparent;"
+            min-camera-orbit="auto auto auto"
+            max-camera-orbit="auto auto auto"
+            disable-zoom>
+          </model-viewer>
+        </div>
         <div class="tabs-buttons">
           <button class="tab-button active" onclick="showTab('experience')">Experience</button>
           <button class="tab-button" onclick="showTab('skills')">Skills</button>
         </div>
       </div>
+
 
       <!-- Experience Tab -->
       <div id="experience" class="tab-content active">

@@ -16,7 +16,7 @@
 
     body {
       font-family: 'Inter', sans-serif;
-      background: #0d0b1f;
+      background: #070015;
       color: white;
       height: 100vh;
       overflow-x: hidden;
@@ -164,7 +164,7 @@
       position: absolute;
       top: 0;
       right: 0;
-      width: 70%; /* Adjusted to take x% of the screen width */
+      width: 55%; /* Adjusted to take 35% of the screen width */
       height: 100vh;
       display: flex;
       justify-content: flex-end; /* Align content to the right */
@@ -178,7 +178,7 @@
       height: 80vh;
       background: transparent !important;
       --poster-color: transparent;
-      transform: translateX(50px); /* Shift the object slightly towards the right */
+      transform: translateX(-50px); /* Shift the object slightly towards the left */
         }
 
         @media screen and (max-width: 768px) {
@@ -235,6 +235,7 @@
         I develop electronics, embedded software, and futuristic web applications.
       </p>
       <button onclick="alert('Coming Soon')">Explore My Work</button>
+   
     </div>
     <div class="model-container">
       <model-viewer
@@ -259,6 +260,216 @@
     modelViewer.src = "./assets/3D/" + (Math.random() < 0.5 ? "rover.glb" : "drone.glb");
   </script>
   </div>
+<!-- Overview Section -->
+<!-- Overview Section -->
+<section id="about" style="padding: 6vh 15vw; background: #070015; color: #fff;">
+  <style>
+    .fade-in-left {
+      opacity: 0;
+      transform: translateX(-30px);
+      animation: fadeInLeft 1s ease-in forwards;
+    }
 
+    .fade-in-bottom {
+      opacity: 0;
+      transform: translateY(30px);
+      animation: fadeInBottom 1.1s ease-in forwards;
+    }
+
+    .fade-in-paragraph {
+      opacity: 0;
+      transform: translateX(-40px);
+      animation: fadeInLeft 1.3s ease-in forwards;
+    }
+
+    @keyframes fadeInLeft {
+      to {
+        opacity: 1;
+        transform: translateX(0);
+      }
+    }
+
+    @keyframes fadeInBottom {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .about-content {
+      max-width: 75%;
+    }
+
+    .intro {
+      font-family: 'Inter', 'Segoe UI', 'Helvetica Neue', sans-serif;
+      font-size: 1.125rem;
+      font-weight: 500;
+      color: hsla(0, 3%, 72%, 0.619);
+      line-height: 1.6;
+      letter-spacing: 0.2px;
+      text-align: left;
+      margin-bottom: 0.5rem;
+    }
+
+    .main-heading {
+      font-size: 4rem;
+      color: #d0d0d0;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 800;
+      line-height: 1;
+      white-space: nowrap;
+      margin: 0;
+    }
+
+    .main-paragraph {
+      font-family: 'Inter', 'Segoe UI', 'Helvetica Neue', sans-serif;
+      font-size: 1.125rem;
+      font-weight: 500;
+      color: #a7aaad;
+      line-height: 1.6;
+      letter-spacing: 0.2px;
+      text-align: left;
+      margin-top: 1.5rem;
+    }
+
+    @media (max-width: 768px) {
+      .about-content {
+        max-width: 100%;
+      }
+    }
+  </style>
+
+  <div class="about-content">
+    <p class="intro fade-in-left">INTRODUCTION</p>
+
+    <h1 class="fade-in-bottom">
+      <span class="main-heading">Overview.</span>
+    </h1>
+
+    <p class="main-paragraph fade-in-paragraph">
+      Prodyumna Pal is a FOSS developer and electronic systems engineer specializing in web applications and IoT systems through his brand, SPARK Technosapiens. By age 18, he had led school leadership, published two research papers, and developed innovative tech projects. He builds full-stack apps using ScratchJS, C++, and modern web stacks, and is currently focused on real-time embedded systems and interfaces for autonomous vehicles. </p>
+  </div>
+</section>
+
+<style>
+  .cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    padding: 40px 20px;
+    max-width: 100%;
+  }
+
+  .card-wrapper {
+    perspective: 1200px;
+    animation: fadeUp 0.8s ease-out forwards;
+    transform: translateY(40px);
+    opacity: 0;
+  }
+
+  @keyframes fadeUp {
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+
+  .card {
+    width: 220px;
+    height: 260px;
+    border-radius: 10px;
+    background: linear-gradient(#141129, #141129) padding-box,
+                linear-gradient(135deg, #00f0ff, #c084fc) border-box;
+    border: 2px solid transparent;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.3);
+    transform-style: preserve-3d;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    will-change: transform;
+    padding: 10px;
+  }
+
+  .card img {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 12px;
+    border-radius: 50%;
+  }
+
+  .card h3 {
+    color: white;
+    font-size: 1.1rem;
+    text-align: center;
+  }
+
+  .card p {
+    color: #aaa;
+    text-align: center;
+    font-size: 0.9rem;
+    margin-top: 6px;
+  }
+</style>
+</head>
+<body>
+
+<div class="cards-container">
+  <div class="card-wrapper">
+    <div class="card">
+      <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/072de92d87f79c8bbef2361063ea59d17911e3c5/assets/gems/Electronics.svg" alt="Frontend Icon">
+      <h3>Embedded Systems</h3>
+    </div>
+  </div>
+
+  <div class="card-wrapper">
+    <div class="card">
+      <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/072de92d87f79c8bbef2361063ea59d17911e3c5/assets/gems/Software.svg" alt="Backend Icon">
+      <h3>Software/Web Dev</h3>
+    </div>
+  </div>
+
+  <div class="card-wrapper">
+    <div class="card">
+      <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/072de92d87f79c8bbef2361063ea59d17911e3c5/assets/gems/AI.svg" alt="Fullstack Icon">
+      <h3>AI & Automation</h3>
+    </div>
+  </div>
+
+  <div class="card-wrapper">
+    <div class="card">
+      <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/072de92d87f79c8bbef2361063ea59d17911e3c5/assets/gems/AI.svg" alt="Fullstack Icon">
+      <h3>PCB/UI/3D Design</h3>
+    </div>
+  </div>
+</div>
+
+<script>
+  // Apply 3D hover effect to every card individually with 10% zoom
+  document.querySelectorAll(".card").forEach((card) => {
+    card.addEventListener("mousemove", (e) => {
+      const rect = card.getBoundingClientRect();
+      const x = e.clientX - rect.left;
+      const y = e.clientY - rect.top;
+      const centerX = rect.width / 2;
+      const centerY = rect.height / 2;
+
+      const rotateX = ((y - centerY) / centerY) * -20;
+      const rotateY = ((x - centerX) / centerX) * 20;
+
+      card.style.transform = `perspective(1000px) scale(1.1) rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
+      card.style.boxShadow = `${-rotateY}px ${rotateX}px 30px rgba(0, 255, 255, 0.2), 
+                               ${rotateY}px ${-rotateX}px 30px rgba(192, 132, 252, 0.2)`;
+    });
+
+    card.addEventListener("mouseleave", () => {
+      card.style.transform = "perspective(1000px) scale(1) rotateX(0deg) rotateY(0deg)";
+      card.style.boxShadow = "0 15px 25px rgba(0, 0, 0, 0.3)";
+    });
+  });
+</script>
 </body>
 </html>

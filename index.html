@@ -159,27 +159,32 @@
       color: #0d0b1f;
       box-shadow: 0 0 20px #a259ff90;
         }
-
         .model-container {
-      position: absolute;
-      top: 0;
-      right: 0;
-      width: 55%; /* Adjusted to take 35% of the screen width */
-      height: 100vh;
-      display: flex;
-      justify-content: flex-end; /* Align content to the right */
-      align-items: center;
-      animation: fadeIn 2.2s ease-out;
-        }
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 55%;
+  height: 100vh;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  opacity: 0;
+  transition: opacity 1s ease-in;
+}
 
-        .model-container model-viewer {
-      width: 100%;
-      max-width: none;
-      height: 80vh;
-      background: transparent !important;
-      --poster-color: transparent;
-      transform: translateX(-50px); /* Shift the object slightly towards the left */
-        }
+.model-container.model-visible {
+  opacity: 1;
+}
+
+.model-container model-viewer {
+  width: 100%;
+  height: 80vh;
+  background: transparent !important;
+  --poster-color: transparent;
+  transform: translateX(-50px);
+  transition: transform 1s ease;
+}
+
 
         @media screen and (max-width: 768px) {
       .hero {
@@ -257,7 +262,13 @@
 
   <script>
     const modelViewer = document.getElementById('model-viewer');
-    modelViewer.src = "./assets/3D/" + (Math.random() < 0.5 ? "rover.glb" : "drone.glb");
+modelViewer.src = "./assets/3D/" + (Math.random() < 0.5 ? "rover.glb" : "drone.glb");
+
+// Wait for model to load before showing
+modelViewer.addEventListener('load', () => {
+  document.querySelector('.model-container').classList.add('model-visible');
+});
+
   </script>
   </div>
 <!-- Overview Section -->
@@ -379,11 +390,11 @@
   .card {
     width: 220px;
     height: 260px;
-    border-radius: 10px;
+    border-radius: 20px;
     background: linear-gradient(#141129, #141129) padding-box,
                 linear-gradient(135deg, #00f0ff, #c084fc) border-box;
     border: 2px solid transparent;
-    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 25px 35px rgba(0, 0, 0, 0.3);
     transform-style: preserve-3d;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
     display: flex;

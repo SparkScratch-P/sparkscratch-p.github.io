@@ -138,7 +138,7 @@
       color: #d0d0d0;
       max-width: none;
       font-family: 'Poppins', sans-serif;
-      font-weight: 800;
+      font-weight: 100;
       line-height: 1.6;
     }
 
@@ -236,7 +236,7 @@
     <div class="text-content">
       
       <h1 style="white-space: nowrap;">Hi, I'm <span style="color: #a259ff;">Prodyumna</span></h1>
-      <p style="margin-top: 1rem; font-size: 1.5rem; color: #d0d0d0; max-width: none; font-family: 'Poppins', sans-serif; font-weight: 300; line-height: 1.4;">
+      <p style="margin-top: 1rem; font-size: 1.5rem; color: #d0d0d0; max-width: none; font-family: 'Poppins', sans-serif; font-weight: 100; line-height: 1.4;">
         I develop electronics, embedded software, and futuristic web applications.
       </p>
       <button onclick="alert('Coming Soon')">Explore My Work</button>
@@ -261,32 +261,19 @@
   </div>
 
   <script>
-const modelViewer = document.getElementById('model-viewer');
+    const modelViewer = document.getElementById('model-viewer');
+modelViewer.src = "./assets/3D/" + (Math.random() < 0.5 ? "rover.glb" : "drone.glb");
 
-// Function to load the model and trigger the fade-in transition
-function loadModel() {
-  // Randomly choose between rover.glb and drone.glb
-  const modelSrc = Math.random() < 0.5 ? "rover.glb" : "drone.glb";
-  modelViewer.src = "./assets/3D/" + modelSrc;
-
-  // Remove previous visibility class before re-adding it
-  document.querySelector('.model-container').classList.remove('model-visible');
-
-  // Wait for the model to load before showing
-  modelViewer.addEventListener('load', () => {
-    // Apply visibility class to trigger fade-in transition
-    document.querySelector('.model-container').classList.add('model-visible');
-  }, { once: true }); // Ensures the event is triggered only once per model load
-}
-
-// Load the initial model and set the fade-in transition
-loadModel();
+// Wait for model to load before showing
+modelViewer.addEventListener('load', () => {
+  document.querySelector('.model-container').classList.add('model-visible');
+});
 
   </script>
   </div>
 <!-- Overview Section -->
 <!-- Overview Section -->
-<section id="about" style="padding: 6vh 15vw; background: #070015; color: #fff;">
+<section id="about" style="padding: 2vh 15vw; background: #070015; color: #fff;">
   <style>
     .fade-in-left {
       opacity: 0;
@@ -495,5 +482,847 @@ loadModel();
     });
   });
 </script>
+
+<!--skills&experince-->
+
+<style>
+
+  .container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+  }
+  
+  /* Work Experience Section */
+  .work-experience {
+    padding: 4rem 0;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .tabs-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    z-index: 10;
+  }
+  
+  .tabs-header {
+    text-align: center;
+    margin-bottom: 2rem;
+    position: relative;
+    z-index: 20;
+  }
+  
+  .tabs-header h2 {
+    font-size: 4rem;
+      color: #d0d0d0;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      line-height: 1;
+      white-space: nowrap;
+      margin: 0;
+  }
+  
+  .tabs-header p {
+    max-width: 600px;
+    margin: 0 auto 2rem auto;
+    color: #d1d5db;
+  }
+  
+  .tabs-buttons {
+    display: flex;
+    background-color: #252A37;
+    padding: 0.375rem;
+    border-radius: 9999px;
+    margin-bottom: 2rem;
+    position: relative;
+    z-index: 30;
+    justify-content: center;
+  }
+  
+  .tab-button {
+    padding: 0.625rem 1.5rem;
+    border-radius: 9999px;
+    background: transparent;
+    color: #9CA3AF;
+    border: none;
+    cursor: pointer;
+    font-weight: 500;
+    transition: all 0.3s ease;
+  }
+  
+  .tab-button.active {
+    background-color: #a259ff;
+    color: white;
+    box-shadow: 0 4px 14px rgba(129, 4, 178, 0.4);
+  }
+  
+  .tab-button:hover:not(.active) {
+    color: white;
+  }
+  
+  .tab-content {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(20px);
+    transition: all 0.4s ease;
+    z-index: 5;
+  }
+  
+  .tab-content.active {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+    position: relative;
+  }
+  
+  /* Timeline Styles */
+  .timeline {
+    position: relative;
+    padding: 1rem 0;
+    padding-top: 3rem;
+  }
+  
+  .timeline::before {
+    content: '';
+    position: absolute;
+    left: 50%;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: linear-gradient(to bottom, #eb7813, #3a11df, #6E59A5);
+    opacity: 0.7;
+    transform: translateX(-50%);
+  }
+  
+  .timeline-item {
+    display: flex;
+    margin-bottom: 3rem;
+    position: relative;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+  }
+  
+  .timeline-item:nth-child(odd) {
+    justify-content: flex-start;
+  }
+  
+  .timeline-item:nth-child(even) {
+    justify-content: flex-end;
+  }
+  
+  .timeline-item.show {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+  .timeline-dot {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 1.5rem;
+    width: 1.25rem;
+    height: 1.25rem;
+    background-color: #8c09e9;
+    border-radius: 50%;
+    box-shadow: 0 0 15px rgba(188, 19, 254, 0.5);
+    z-index: 10;
+  }
+  
+  .timeline-content {
+    width: 45%;
+    margin: 0;
+    position: relative;
+  }
+  
+  .timeline-item:nth-child(odd) .timeline-content {
+    margin-right: 5%;
+  }
+  
+  .timeline-item:nth-child(even) .timeline-content {
+    margin-left: 5%;
+  }
+  
+  .timeline-card {
+    background-color: #252A37;
+    border: 1px solid #374151;
+    border-radius: 0.75rem;
+    padding: 1.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+  }
+  
+  .timeline-card:hover {
+    box-shadow: 0 8px 15px rgba(188, 19, 254, 0.2);
+    transform: translateY(-5px);
+  }
+  
+  .timeline-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.5rem;
+  }
+  
+  .timeline-role {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  
+  .timeline-period {
+    font-size: 0.875rem;
+    color: #bc13fe;
+    font-weight: 600;
+  }
+  
+  .timeline-company {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: #d1d5db;
+    margin-bottom: 0.75rem;
+  }
+  
+  .timeline-description {
+    color: #9CA3AF;
+    margin-bottom: 1rem;
+  }
+  
+  .timeline-skills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  
+  .skill-tag {
+    font-size: 0.75rem;
+    padding: 0.25rem 0.75rem;
+    background-color: rgba(188, 19, 254, 0.2);
+    color: #bc13fe;
+    border-radius: 9999px;
+  }
+  
+  /* Skills Grid */
+  .starry-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #070015;
+    overflow: hidden;
+    z-index: 1;
+  }
+  
+  .star {
+    position: absolute;
+    width: 2px;
+    height: 2px;
+    background-color: white;
+    border-radius: 50%;
+    opacity: 0;
+    animation: twinkle 5s infinite;
+  }
+  
+  @keyframes twinkle {
+    0% { opacity: 0; }
+    50% { opacity: 1; }
+    100% { opacity: 0; }
+  }
+  
+  .star-glow {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 300px;
+    height: 300px;
+    background: radial-gradient(circle, rgba(188, 19, 254, 0.2) 0%, rgba(25, 31, 44, 0) 70%);
+    border-radius: 50%;
+    z-index: 1;
+  }
+  
+  .skills-grid {
+    width: 100%;
+    position: relative;
+    z-index: 10;
+    padding-top: 0;
+  }
+  
+  .skill-category {
+    margin-bottom: 3rem;
+    position: relative;
+    z-index: 10;
+  }
+  
+  .category-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+    border-left: 4px solid #bc13fe;
+    padding-left: 1rem;
+    position: relative;
+    z-index: 5;
+    opacity: 0;
+    transform: translateX(-20px);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+  }
+  
+  .category-title.show {
+    opacity: 1;
+    transform: translateX(0);
+  }
+  
+  .skills-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1rem;
+    position: relative;
+    z-index: 5;
+  }
+  
+  .skill-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(37, 42, 55, 0.8);
+    backdrop-filter: blur(5px);
+    border: 1px solid rgba(188, 19, 254, 0.2);
+    border-radius: 0.5rem;
+    padding: 1rem;
+    transition: all 0.3s ease;
+    opacity: 0;
+    transform: scale(0.8);
+    animation-fill-mode: forwards;
+  }
+  
+  .skill-card.show {
+    animation: skillCardShow 0.5s ease forwards;
+  }
+  
+  @keyframes skillCardShow {
+    0% {
+      opacity: 0;
+      transform: scale(0.8);
+    }
+    100% {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+  
+  .skill-card:hover {
+    border-color: rgba(188, 19, 254, 0.5);
+    transform: translateY(-2px) scale(1.03);
+    box-shadow: 0 5px 15px rgba(188, 19, 254, 0.25);
+  }
+  
+  .skill-icon {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .skill-icon img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  
+  .skill-name {
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+  }
+  
+  .skill-bar {
+    width: 100%;
+    height: 8px;
+    background-color: #4B5563;
+    border-radius: 4px;
+    margin-top: 0.25rem;
+    overflow: hidden;
+  }
+  
+  .skill-progress {
+    height: 100%;
+    background: linear-gradient(to right, #a259ff, #9933ff);
+    border-radius: 4px;
+    width: 0;
+    transition: width 1.2s ease-out;
+  }
+  
+  .skill-percentage {
+    font-size: 0.75rem;
+    color: #9CA3AF;
+    margin-top: 0.25rem;
+  }
+  
+  /* Contact Section */
+  .contact {
+    padding: 4rem 0;
+  }
+  
+  /* Responsive styles */
+  @media (max-width: 768px) {
+    .hero h1 {
+      font-size: 2.5rem;
+    }
+    
+    .timeline::before {
+      left: 2rem;
+    }
+    
+    .timeline-item {
+      flex-direction: column !important;
+      margin-left: 3rem;
+      justify-content: flex-start !important;
+    }
+    
+    .timeline-dot {
+      left: 2rem;
+    }
+    
+    .timeline-content {
+      width: 100%;
+      margin: 0 !important;
+      margin-bottom: 1.5rem;
+    }
+    
+    .skills-list {
+      grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    }
+  }
+</style>
+</head>
+<body>
+
+
+<!-- Work Experience Section -->
+<section class="work-experience">
+  <br></br>  <br></br>
+
+
+  <div class="container">
+    <div class="tabs-container">
+      <div class="tabs-header">
+        <h2 class="section-title">Professional <span>Journey</span></h2>
+        <br></br>
+        <p>Explore my professional experience and technical expertise through an interactive timeline and comprehensive skill set.</p>
+        
+        <div class="tabs-buttons">
+          <button class="tab-button active" onclick="showTab('experience')">Experience</button>
+          <button class="tab-button" onclick="showTab('skills')">Skills</button>
+        </div>
+      </div>
+
+      <!-- Experience Tab -->
+      <div id="experience" class="tab-content active">
+        <div class="timeline">
+          <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <div class="timeline-content">
+              <div class="timeline-card">
+                <div class="timeline-header">
+                  <h3 class="timeline-role">Software and Electronics Developer</h3>
+                  <span class="timeline-period">2021 - Present</span>
+                </div>
+                <h4 class="timeline-company">SPARK</h4>
+                <p class="timeline-description">My personal collaborative environment focused on innovative product development.
+                  Ideated new product concepts with R&D, leveraging emerging technologies of IoT and Web development.
+                  </p>
+                <div class="timeline-skills">
+                  <span class="skill-tag">HTML/CSS/JS/PY</span>
+                  <span class="skill-tag">TurboWarp/JSON</span>
+                  <span class="skill-tag">Arduino IDE/C</span>
+                  <span class="skill-tag">AI/ML, GPT & LLM</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <div class="timeline-content">
+              <div class="timeline-card">
+                <div class="timeline-header">
+                  <h3 class="timeline-role">Associate Member: Mechatronics</h3>
+                  <span class="timeline-period">2025 - Present</span>
+                </div>
+                <h4 class="timeline-company">SAE India</h4>
+                <p class="timeline-description">Developer in Mechatronics Domain of SAE India Collegiate Club of GSV.
+                  Designed UAVs, RC Cars and intelligent automotive projects.</p>
+                <div class="timeline-skills">
+                  <span class="skill-tag">SolidWorks</span>
+                  <span class="skill-tag">Embedded C</span>
+                  <span class="skill-tag">Raspberry Pi</span>
+                  <span class="skill-tag">Firebase</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <div class="timeline-content">
+              <div class="timeline-card">
+                <div class="timeline-header">
+                  <h3 class="timeline-role">Editor-in-Charge </h3>
+                  <span class="timeline-period">2022 - 2023</span>
+                </div>
+                <h4 class="timeline-company">Team Graphics: DPS Joka</h4>
+                <p class="timeline-description">Led a creative team focused on graphics and video production for events.
+                  Organised and Mentored a graphics and video-editing team for programs including Chrysalis 2022 for an audience of 5000, a 12
+                  hr video project, for professional-quality outputs, increasing positive feedback by 70%</p>
+                <div class="timeline-skills">
+                  <span class="skill-tag">Adobe Premiere Pro</span>
+                  <span class="skill-tag">Filmora</span>
+                  <span class="skill-tag">Video Editing</span>
+                  <span class="skill-tag">Invideo AI</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Skills Tab -->
+      <div id="skills" class="tab-content">
+        <div class="starry-background">
+          <div class="star-glow"></div>
+          <!-- Stars will be generated by JavaScript -->
+        </div>
+        
+        <div class="skills-grid">
+          <!-- language Skills -->
+          <div class="skill-category">
+            <h3 class="category-title">Languages</h3>
+            <div class="skills-list">
+              <div class="skill-card">
+                <div class="skill-icon">
+                  <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/e3dd768fff094af7a6f3694fc11b07f9ba1e91c1/assets/skill_icons/HTML.svg"alt="HTML" >
+                </div>
+                <h4 class="skill-name">HTML/CSS</h4>
+                <div class="skill-bar">
+                  <div class="skill-progress" data-progress="90"></div>
+                </div>
+                <span class="skill-percentage">90%</span>
+              </div>
+
+              <div class="skill-card">
+                <div class="skill-icon">
+                  <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/e3dd768fff094af7a6f3694fc11b07f9ba1e91c1/assets/skill_icons/JS.svg" alt="js" >
+                </div>
+                <h4 class="skill-name">JavaScript/JSON</h4>
+                <div class="skill-bar">
+                  <div class="skill-progress" data-progress="70"></div>
+                </div>
+                <span class="skill-percentage">70%</span>
+              </div>
+
+              <div class="skill-card">
+                <div class="skill-icon">
+                  <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/e3dd768fff094af7a6f3694fc11b07f9ba1e91c1/assets/skill_icons/c-original.svg" alt="C" >
+                </div>
+                <h4 class="skill-name">C (Embedded)</h4>
+                <div class="skill-bar">
+                  <div class="skill-progress" data-progress="95"></div>
+                </div>
+                <span class="skill-percentage">95%</span>
+              </div>
+
+              <div class="skill-card">
+                <div class="skill-icon">
+                  <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/e3dd768fff094af7a6f3694fc11b07f9ba1e91c1/assets/skill_icons/PY.svg" alt="Python" >
+                </div>
+                <h4 class="skill-name">Python</h4>
+                <div class="skill-bar">
+                  <div class="skill-progress" data-progress="55"></div>
+                </div>
+                <span class="skill-percentage">55%</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Electronic Skills -->
+          <div class="skill-category">
+            <h3 class="category-title">Electronics & IoT</h3>
+            <div class="skills-list">
+              <div class="skill-card">
+                <div class="skill-icon">
+                  <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/0e26ff078b0b712941446ab09053f5db6895dc70/assets/skill_icons/arduino.svg" alt="Arduino" >
+                </div>
+                <h4 class="skill-name">Arduino</h4>
+                <div class="skill-bar">
+                  <div class="skill-progress" data-progress="95"></div>
+                </div>
+                <span class="skill-percentage">95%</span>
+              </div>
+
+              <div class="skill-card">
+                <div class="skill-icon">
+                  <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/9e2eb5d0fc3787a6b9f0ed9323ffcb3d6e55d63a/assets/skill_icons/ESp.svg" alt="ESP">
+                </div>
+                <h4 class="skill-name">Espressif Systems</h4>
+                <div class="skill-bar">
+                  <div class="skill-progress" data-progress="95"></div>
+                </div>
+                <span class="skill-percentage">95%</span>
+              </div>
+
+              <div class="skill-card">
+                <div class="skill-icon">
+                  <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/9e2eb5d0fc3787a6b9f0ed9323ffcb3d6e55d63a/assets/skill_icons/Rasp.svg" alt="Rasp">
+                </div>
+                <h4 class="skill-name">Raspberry Pi</h4>
+                <div class="skill-bar">
+                  <div class="skill-progress" data-progress="65"></div>
+                </div>
+                <span class="skill-percentage">65%</span>
+              </div>
+
+              <div class="skill-card">
+                <div class="skill-icon">
+                  <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/39ab99770ad1fc656daa79766e40530b63546fb6/assets/skill_icons/ltspice.svg" alt="LTspice">
+                </div>
+                <h4 class="skill-name">LTSpice</h4>
+                <div class="skill-bar">
+                  <div class="skill-progress" data-progress="45"></div>
+                </div>
+                <span class="skill-percentage">45%</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Core Skills -->
+          <div class="skill-category">
+            <h3 class="category-title">Mechatronics</h3>
+            <div class="skills-list">
+              <div class="skill-card">
+                <div class="skill-icon">
+                  <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/5db3cce2bc4dab1d8535823ce807a73d30fc2f2f/assets/skill_icons/Drone.svg" alt="drone">
+                </div>
+                <h4 class="skill-name">Drones/UAV</h4>
+                <div class="skill-bar">
+                  <div class="skill-progress" data-progress="90"></div>
+                </div>
+                <span class="skill-percentage">90%</span>
+              </div>
+
+              <div class="skill-card">
+                <div class="skill-icon">
+                  <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/4fe531a115edad8a9308a24d224441a16518c9f2/assets/skill_icons/3D.svg" alt="SolidWorks">
+                </div>
+                <h4 class="skill-name">3D Designing</h4>
+                <div class="skill-bar">
+                  <div class="skill-progress" data-progress="70"></div>
+                </div>
+                <span class="skill-percentage">70%</span>
+              </div>
+
+              <div class="skill-card">
+                <div class="skill-icon">
+                  <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/5db3cce2bc4dab1d8535823ce807a73d30fc2f2f/assets/skill_icons/Comm.svg" alt="comm">
+                </div>
+                <h4 class="skill-name">Communication</h4>
+                <div class="skill-bar">
+                  <div class="skill-progress" data-progress="65"></div>
+                </div>
+                <span class="skill-percentage">65%</span>
+              </div>
+
+              <div class="skill-card">
+                <div class="skill-icon">
+                  <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/4fe531a115edad8a9308a24d224441a16518c9f2/assets/skill_icons/Auto.svg" alt="Auto">
+                </div>
+                <h4 class="skill-name">Mission Automation</h4>
+                <div class="skill-bar">
+                  <div class="skill-progress" data-progress="80"></div>
+                </div>
+                <span class="skill-percentage">80%</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Script for tab switching functionality and animations -->
+<script>
+  // Create starry background
+  function createStars() {
+    const starryBg = document.querySelector('.starry-background');
+    if (!starryBg) return;
+    
+    // Clear existing stars
+    const existingStars = starryBg.querySelectorAll('.star:not(.star-glow)');
+    existingStars.forEach(star => star.remove());
+    
+    // Create new stars
+    const maxStars = 100; 
+    for (let i = 0; i < maxStars; i++) {
+      const star = document.createElement('div');
+      star.classList.add('star');
+      
+      // Random positioning
+      const x = Math.random() * 100;
+      const y = Math.random() * 100;
+      const size = Math.random() * 2 + 1;
+      const delay = Math.random() * 5;
+      const duration = Math.random() * 3 + 2;
+      
+      star.style.left = `${x}%`;
+      star.style.top = `${y}%`;
+      star.style.width = `${size}px`;
+      star.style.height = `${size}px`;
+      star.style.animationDelay = `${delay}s`;
+      star.style.animationDuration = `${duration}s`;
+      
+      // More stars concentrated in the center
+      const distance = Math.sqrt(Math.pow(x - 50, 2) + Math.pow(y - 50, 2));
+      if (distance < 50 || Math.random() > 0.7) {
+        starryBg.appendChild(star);
+      }
+    }
+  }
+  
+  // Function to show tab content
+  function showTab(tabName) {
+    // Hide all tab contents
+    const tabContents = document.querySelectorAll('.tab-content');
+    tabContents.forEach(content => {
+      content.classList.remove('active');
+    });
+    
+    // Deactivate all tab buttons
+    const tabButtons = document.querySelectorAll('.tab-button');
+    tabButtons.forEach(button => {
+      button.classList.remove('active');
+    });
+    
+    // Activate selected tab
+    document.getElementById(tabName).classList.add('active');
+    
+    // Add active class to clicked button
+    const activeButton = Array.from(tabButtons).find(button => 
+      button.textContent.toLowerCase().includes(tabName)
+    );
+    
+    if (activeButton) {
+      activeButton.classList.add('active');
+    }
+
+    // Handle specific tab animations
+    if (tabName === 'skills') {
+      createStars();
+      animateSkillsSection();
+    } else if (tabName === 'experience') {
+      animateExperienceSection();
+    }
+  }
+  
+  // Function to animate skill cards and categories
+  function animateSkillsSection() {
+    // Animate category titles
+    const categoryTitles = document.querySelectorAll('.category-title');
+    categoryTitles.forEach((title, index) => {
+      setTimeout(() => {
+        title.classList.add('show');
+      }, index * 200);
+    });
+    
+    // Animate skill cards
+    const skillCards = document.querySelectorAll('.skill-card');
+    skillCards.forEach((card, index) => {
+      setTimeout(() => {
+        card.classList.add('show');
+      }, 300 + index * 100);
+      
+      // Animate progress bars
+      setTimeout(() => {
+        const progressBar = card.querySelector('.skill-progress');
+        if (progressBar) {
+          const progressValue = progressBar.getAttribute('data-progress');
+          progressBar.style.width = `${progressValue}%`;
+        }
+      }, 800 + index * 100);
+    });
+  }
+  
+  // Function to animate experience items
+  function animateExperienceSection() {
+    const timelineItems = document.querySelectorAll('.timeline-item');
+    timelineItems.forEach((item, index) => {
+      setTimeout(() => {
+        item.classList.add('show');
+      }, index * 200);
+    });
+  }
+  
+  // Function to update skill icons
+  function updateSkillIcons() {
+    const skillIcons = document.querySelectorAll('.skill-icon img');
+    skillIcons.forEach(icon => {
+      const iconUrl = icon.getAttribute('data-icon-url');
+      if (iconUrl) {
+        icon.src = iconUrl;
+      }
+    });
+  }
+  
+  // Initialize
+  document.addEventListener('DOMContentLoaded', () => {
+    // Create starry background initially (hidden)
+    createStars();
+    
+    // Initialize appropriate animations based on active tab
+    const activeTab = document.querySelector('.tab-content.active').id;
+    if (activeTab === 'skills') {
+      animateSkillsSection();
+    } else {
+      animateExperienceSection();
+    }
+    
+    // Allow icon URLs to be updated
+    updateSkillIcons();
+    
+    // Ensure skill progress bars have correct initial state
+    const progressBars = document.querySelectorAll('.skill-progress');
+    progressBars.forEach(bar => {
+      bar.style.width = '0';
+    });
+  });
+  
+  // Function to easily change skill icon URLs
+  function changeSkillIcon(skillName, newIconUrl) {
+    const skillCards = document.querySelectorAll('.skill-card');
+    skillCards.forEach(card => {
+      const nameElement = card.querySelector('.skill-name');
+      if (nameElement && nameElement.textContent === skillName) {
+        const iconImg = card.querySelector('.skill-icon img');
+        if (iconImg) {
+          iconImg.src = newIconUrl;
+          iconImg.setAttribute('data-icon-url', newIconUrl);
+        }
+      }
+    });
+  }
+  
+  // Example: You can call this function to update icons
+  // changeSkillIcon('React', 'https://example.com/new-react-icon.svg');
+</script>
+
 </body>
 </html>

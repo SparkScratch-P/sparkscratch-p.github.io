@@ -1,11 +1,12 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Prodyumna Pal | SparkScratch-P</title>
-  <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
-  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Inter:wght@300;600&display=swap" rel="stylesheet">
-  <style>
+<meta charset="utf-8"/>
+<title>Prodyumna Pal | SparkScratch-P</title>
+<script src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js" type="module"></script>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&amp;family=Inter:wght@300;600&amp;display=swap" rel="stylesheet"/>
+<style>
     @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap');
 
     * {
@@ -16,7 +17,7 @@
 
     body {
       font-family: 'Inter', sans-serif;
-      background: #070015;
+      background: transparent;
       color: white;
       height: 100vh;
       overflow-x: hidden;
@@ -212,55 +213,58 @@
         transform: translateY(0);
       }
     }
-  </style>
+  
+body {
+  background: transparent !important;
+  position: relative;
+  z-index: 0;
+}
+.hero, section, .work-experience, .cards-container {
+  background: transparent !important;
+  position: relative;
+  z-index: 1;
+}
+</style>
 </head>
-<body>
-
-  <!-- Navbar -->
-  <nav class="navbar">
-    <div class="logo">SparkScratch.P</div>
-    <div class="nav-links">
-      <a href="#about">About</a>
-      <a href="#projects">Projects</a>
-      <a href="#contact">Contact</a>
-    </div>
-  </nav>
-
-  <!-- Hero Section -->
-  <div class="purple-line">
-    <div class="dot"></div>
-  </div>
-
-  <div class="hero">
-    <div class="text-content">
-    <div class="text-content">
-      
-      <h1 style="white-space: nowrap;">Hi, I'm <span style="color: #a259ff;">Prodyumna</span></h1>
-      <p style="margin-top: 1rem; font-size: 1.5rem; color: #d0d0d0; max-width: none; font-family: 'Poppins', sans-serif; font-weight: 100; line-height: 1.4;">
+<body><div id="dynamic-bg" style="
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: url('https://ext.same-assets.com/24220934/2054034595.png') no-repeat center center;
+        background-size: cover;
+        z-index: -9999;
+        pointer-events: none;
+    transition: transform 0.2s ease-out;"></div>
+<!-- Navbar -->
+<nav class="navbar">
+<div class="logo">SparkScratch.P</div>
+<div class="nav-links">
+<a href="#about">About</a>
+<a href="#projects">Projects</a>
+<a href="#contact">Contact</a>
+</div>
+</nav>
+<!-- Hero Section -->
+<div class="purple-line">
+<div class="dot"></div>
+</div>
+<div class="hero">
+<div class="text-content">
+<div class="text-content">
+<h1 style="white-space: nowrap;">Hi, I'm <span style="color: #a259ff;">Prodyumna</span></h1>
+<p style="margin-top: 1rem; font-size: 1.5rem; color: #d0d0d0; max-width: none; font-family: 'Poppins', sans-serif; font-weight: 100; line-height: 1.4;">
         I develop electronics, embedded software, and futuristic web applications.
       </p>
-      <button onclick="alert('Coming Soon')">Explore My Work</button>
-   
-    </div>
-    <div class="model-container">
-      <model-viewer
-        src=""
-        id="model-viewer"
-        alt="3D bicopter model"
-        auto-rotate
-        camera-controls
-        shadow-intensity="1"
-        exposure="1.2"
-        environment-image="neutral"
-        style="background: transparent;"
-        min-camera-orbit="auto auto auto"
-        max-camera-orbit="auto auto auto"
-        disable-zoom>
-      </model-viewer>
-    </div>
-  </div>
-
-  <script>
+<button onclick="alert('Coming Soon')">Explore My Work</button>
+</div>
+<div class="model-container">
+<model-viewer alt="3D bicopter model" auto-rotate="" camera-controls="" disable-zoom="" environment-image="neutral" exposure="1.2" id="model-viewer" max-camera-orbit="auto auto auto" min-camera-orbit="auto auto auto" shadow-intensity="1" src="" style="background: transparent;">
+</model-viewer>
+</div>
+</div>
+<script>
     const modelViewer = document.getElementById('model-viewer');
 modelViewer.src = "./assets/3D/" + (Math.random() < 0.5 ? "rover.glb" : "drone.glb");
 
@@ -270,11 +274,11 @@ modelViewer.addEventListener('load', () => {
 });
 
   </script>
-  </div>
+</div>
 <!-- Overview Section -->
 <!-- Overview Section -->
 <section id="about" style="padding: 2vh 15vw; background: #070015; color: #fff;">
-  <style>
+<style>
     .fade-in-left {
       opacity: 0;
       transform: translateX(-30px);
@@ -348,20 +352,27 @@ modelViewer.addEventListener('load', () => {
         max-width: 100%;
       }
     }
-  </style>
-
-  <div class="about-content">
-    <p class="intro fade-in-left">INTRODUCTION</p>
-
-    <h1 class="fade-in-bottom">
-      <span class="main-heading">Overview.</span>
-    </h1>
-
-    <p class="main-paragraph fade-in-paragraph">
+  
+body {
+  background: transparent !important;
+  position: relative;
+  z-index: 0;
+}
+.hero, section, .work-experience, .cards-container {
+  background: transparent !important;
+  position: relative;
+  z-index: 1;
+}
+</style>
+<div class="about-content">
+<p class="intro fade-in-left">INTRODUCTION</p>
+<h1 class="fade-in-bottom">
+<span class="main-heading">Overview.</span>
+</h1>
+<p class="main-paragraph fade-in-paragraph">
       Prodyumna Pal is a FOSS developer and electronic systems engineer specializing in web applications and IoT systems through his brand, SPARK Technosapiens. By age 18, he had led school leadership, published two research papers, and developed innovative tech projects. He builds full-stack apps using ScratchJS, C++, and modern web stacks, and is currently focused on real-time embedded systems and interfaces for autonomous vehicles. </p>
-  </div>
+</div>
 </section>
-
 <style>
   .cards-container {
     display: flex;
@@ -424,40 +435,45 @@ modelViewer.addEventListener('load', () => {
     font-size: 0.9rem;
     margin-top: 6px;
   }
+
+body {
+  background: transparent !important;
+  position: relative;
+  z-index: 0;
+}
+.hero, section, .work-experience, .cards-container {
+  background: transparent !important;
+  position: relative;
+  z-index: 1;
+}
 </style>
-</head>
 <body>
-
 <div class="cards-container">
-  <div class="card-wrapper">
-    <div class="card">
-      <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/072de92d87f79c8bbef2361063ea59d17911e3c5/assets/gems/Electronics.svg" alt="Frontend Icon">
-      <h3>Embedded Systems</h3>
-    </div>
-  </div>
-
-  <div class="card-wrapper">
-    <div class="card">
-      <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/072de92d87f79c8bbef2361063ea59d17911e3c5/assets/gems/Software.svg" alt="Backend Icon">
-      <h3>Software/Web Dev</h3>
-    </div>
-  </div>
-
-  <div class="card-wrapper">
-    <div class="card">
-      <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/072de92d87f79c8bbef2361063ea59d17911e3c5/assets/gems/AI.svg" alt="Fullstack Icon">
-      <h3>AI & Automation</h3>
-    </div>
-  </div>
-
-  <div class="card-wrapper">
-    <div class="card">
-      <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/072de92d87f79c8bbef2361063ea59d17911e3c5/assets/gems/AI.svg" alt="Fullstack Icon">
-      <h3>PCB/UI/3D Design</h3>
-    </div>
-  </div>
+<div class="card-wrapper">
+<div class="card">
+<img alt="Frontend Icon" src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/072de92d87f79c8bbef2361063ea59d17911e3c5/assets/gems/Electronics.svg"/>
+<h3>Embedded Systems</h3>
 </div>
-
+</div>
+<div class="card-wrapper">
+<div class="card">
+<img alt="Backend Icon" src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/072de92d87f79c8bbef2361063ea59d17911e3c5/assets/gems/Software.svg"/>
+<h3>Software/Web Dev</h3>
+</div>
+</div>
+<div class="card-wrapper">
+<div class="card">
+<img alt="Fullstack Icon" src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/072de92d87f79c8bbef2361063ea59d17911e3c5/assets/gems/AI.svg"/>
+<h3>AI &amp; Automation</h3>
+</div>
+</div>
+<div class="card-wrapper">
+<div class="card">
+<img alt="Fullstack Icon" src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/072de92d87f79c8bbef2361063ea59d17911e3c5/assets/gems/AI.svg"/>
+<h3>PCB/UI/3D Design</h3>
+</div>
+</div>
+</div>
 <script>
   // Apply 3D hover effect to every card individually with 10% zoom
   document.querySelectorAll(".card").forEach((card) => {
@@ -482,9 +498,7 @@ modelViewer.addEventListener('load', () => {
     });
   });
 </script>
-
 <!--skills&experince-->
-
 <style>
 
   .container {
@@ -710,32 +724,32 @@ modelViewer.addEventListener('load', () => {
     border-radius: 9999px;
   }
   
-  /* Skills Grid */
   .starry-background {
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #070015;
+    background-color: transparent; /* Changed to transparent */
     overflow: hidden;
     z-index: 1;
   }
-  
-  .star {
-    position: absolute;
-    width: 2px;
-    height: 2px;
-    background-color: white;
-    border-radius: 50%;
-    opacity: 0;
-    animation: twinkle 5s infinite;
-  }
-  
+
+
   @keyframes twinkle {
     0% { opacity: 0; }
     50% { opacity: 1; }
     100% { opacity: 0; }
+  }
+
+  .star {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    background-color: white;
+    border-radius: 50%;
+    opacity: 0;
+    animation: twinkle 3s infinite;
   }
   
   .star-glow {
@@ -745,7 +759,7 @@ modelViewer.addEventListener('load', () => {
     transform: translate(-50%, -50%);
     width: 300px;
     height: 300px;
-    background: radial-gradient(circle, rgba(188, 19, 254, 0.2) 0%, rgba(25, 31, 44, 0) 70%);
+    background: radial-gradient(circle, rgba(188, 19, 254, 0.2) 0%, transparent 70%);
     border-radius: 50%;
     z-index: 1;
   }
@@ -903,278 +917,251 @@ modelViewer.addEventListener('load', () => {
       grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
     }
   }
+
+body {
+  background: transparent !important;
+  position: relative;
+  z-index: 0;
+}
+.hero, section, .work-experience, .cards-container {
+  background: transparent !important;
+  position: relative;
+  z-index: 1;
+}
 </style>
-</head>
 <body>
-
-
 <!-- Work Experience Section -->
 <section class="work-experience">
-  <br></br>  <br></br>
-
-
-  <div class="container">
-    <div class="tabs-container">
-      <div class="tabs-header">
-        <h2 class="section-title">Professional <span>Journey</span></h2>
-        <br></br>
-        <p>Explore my professional experience and technical expertise through an interactive timeline and comprehensive skill set.</p>
-        <div class="model-container">
-          <model-viewer
-            src="./assets/3D/rasp.glb"
-            id="model-viewer"
-            alt="3D bicopter model"
-            auto-rotate
-            camera-controls
-            shadow-intensity="1"
-            exposure="1.2"
-            environment-image="neutral"
-            style="background: transparent;"
-            min-camera-orbit="auto auto auto"
-            max-camera-orbit="auto auto auto"
-            disable-zoom>
-          </model-viewer>
-        </div>
-        <div class="tabs-buttons">
-          <button class="tab-button active" onclick="showTab('experience')">Experience</button>
-          <button class="tab-button" onclick="showTab('skills')">Skills</button>
-        </div>
-      </div>
-
-
-      <!-- Experience Tab -->
-      <div id="experience" class="tab-content active">
-        <div class="timeline">
-          <div class="timeline-item">
-            <div class="timeline-dot"></div>
-            <div class="timeline-content">
-              <div class="timeline-card">
-                <div class="timeline-header">
-                  <h3 class="timeline-role">Software and Electronics Developer</h3>
-                  <span class="timeline-period">2021 - Present</span>
-                </div>
-                <h4 class="timeline-company">SPARK</h4>
-                <p class="timeline-description">My personal collaborative environment focused on innovative product development.
-                  Ideated new product concepts with R&D, leveraging emerging technologies of IoT and Web development.
+<br/> <br/>
+<div class="container">
+<div class="tabs-container">
+<div class="tabs-header">
+<h2 class="section-title">Professional <span>Journey</span></h2>
+<br/>
+<p>Explore my professional experience and technical expertise through an interactive timeline and comprehensive skill set.</p>
+<!--img-->
+<div class="tabs-buttons">
+<button class="tab-button active" onclick="showTab('experience')">Experience</button>
+<button class="tab-button" onclick="showTab('skills')">Skills</button>
+</div>
+</div>
+<!-- Experience Tab -->
+<div class="tab-content active" id="experience">
+<div class="timeline">
+<div class="timeline-item">
+<div class="timeline-dot"></div>
+<div class="timeline-content">
+<div class="timeline-card">
+<div class="timeline-header">
+<h3 class="timeline-role">Software and Electronics Developer</h3>
+<span class="timeline-period">2021 - Present</span>
+</div>
+<h4 class="timeline-company">SPARK</h4>
+<p class="timeline-description">My personal collaborative environment focused on innovative product development.
+                  Ideated new product concepts with R&amp;D, leveraging emerging technologies of IoT and Web development.
                   </p>
-                <div class="timeline-skills">
-                  <span class="skill-tag">HTML/CSS/JS/PY</span>
-                  <span class="skill-tag">TurboWarp/JSON</span>
-                  <span class="skill-tag">Arduino IDE/C</span>
-                  <span class="skill-tag">AI/ML, GPT & LLM</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-dot"></div>
-            <div class="timeline-content">
-              <div class="timeline-card">
-                <div class="timeline-header">
-                  <h3 class="timeline-role">Associate Member: Mechatronics</h3>
-                  <span class="timeline-period">2025 - Present</span>
-                </div>
-                <h4 class="timeline-company">SAE India</h4>
-                <p class="timeline-description">Developer in Mechatronics Domain of SAE India Collegiate Club of GSV.
+<div class="timeline-skills">
+<span class="skill-tag">HTML/CSS/JS/PY</span>
+<span class="skill-tag">TurboWarp/JSON</span>
+<span class="skill-tag">Arduino IDE/C</span>
+<span class="skill-tag">AI/ML, GPT &amp; LLM</span>
+</div>
+</div>
+</div>
+</div>
+<div class="timeline-item">
+<div class="timeline-dot"></div>
+<div class="timeline-content">
+<div class="timeline-card">
+<div class="timeline-header">
+<h3 class="timeline-role">Associate Member: Mechatronics</h3>
+<span class="timeline-period">2025 - Present</span>
+</div>
+<h4 class="timeline-company">SAE India</h4>
+<p class="timeline-description">Developer in Mechatronics Domain of SAE India Collegiate Club of GSV.
                   Designed UAVs, RC Cars and intelligent automotive projects.</p>
-                <div class="timeline-skills">
-                  <span class="skill-tag">SolidWorks</span>
-                  <span class="skill-tag">Embedded C</span>
-                  <span class="skill-tag">Raspberry Pi</span>
-                  <span class="skill-tag">Firebase</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-dot"></div>
-            <div class="timeline-content">
-              <div class="timeline-card">
-                <div class="timeline-header">
-                  <h3 class="timeline-role">Editor-in-Charge </h3>
-                  <span class="timeline-period">2022 - 2023</span>
-                </div>
-                <h4 class="timeline-company">Team Graphics: DPS Joka</h4>
-                <p class="timeline-description">Led a creative team focused on graphics and video production for events.
+<div class="timeline-skills">
+<span class="skill-tag">SolidWorks</span>
+<span class="skill-tag">Embedded C</span>
+<span class="skill-tag">Raspberry Pi</span>
+<span class="skill-tag">Firebase</span>
+</div>
+</div>
+</div>
+</div>
+<div class="timeline-item">
+<div class="timeline-dot"></div>
+<div class="timeline-content">
+<div class="timeline-card">
+<div class="timeline-header">
+<h3 class="timeline-role">Editor-in-Charge </h3>
+<span class="timeline-period">2022 - 2023</span>
+</div>
+<h4 class="timeline-company">Team Graphics: DPS Joka</h4>
+<p class="timeline-description">Led a creative team focused on graphics and video production for events.
                   Organised and Mentored a graphics and video-editing team for programs including Chrysalis 2022 for an audience of 5000, a 12
                   hr video project, for professional-quality outputs, increasing positive feedback by 70%</p>
-                <div class="timeline-skills">
-                  <span class="skill-tag">Adobe Premiere Pro</span>
-                  <span class="skill-tag">Filmora</span>
-                  <span class="skill-tag">Video Editing</span>
-                  <span class="skill-tag">Invideo AI</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- Skills Tab -->
-      <div id="skills" class="tab-content">
-        <div class="starry-background">
-          <div class="star-glow"></div>
-          <!-- Stars will be generated by JavaScript -->
-        </div>
-        
-        <div class="skills-grid">
-          <!-- language Skills -->
-          <div class="skill-category">
-            <h3 class="category-title">Languages</h3>
-            <div class="skills-list">
-              <div class="skill-card">
-                <div class="skill-icon">
-                  <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/e3dd768fff094af7a6f3694fc11b07f9ba1e91c1/assets/skill_icons/HTML.svg"alt="HTML" >
-                </div>
-                <h4 class="skill-name">HTML/CSS</h4>
-                <div class="skill-bar">
-                  <div class="skill-progress" data-progress="90"></div>
-                </div>
-                <span class="skill-percentage">90%</span>
-              </div>
-
-              <div class="skill-card">
-                <div class="skill-icon">
-                  <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/e3dd768fff094af7a6f3694fc11b07f9ba1e91c1/assets/skill_icons/JS.svg" alt="js" >
-                </div>
-                <h4 class="skill-name">JavaScript/JSON</h4>
-                <div class="skill-bar">
-                  <div class="skill-progress" data-progress="70"></div>
-                </div>
-                <span class="skill-percentage">70%</span>
-              </div>
-
-              <div class="skill-card">
-                <div class="skill-icon">
-                  <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/e3dd768fff094af7a6f3694fc11b07f9ba1e91c1/assets/skill_icons/c-original.svg" alt="C" >
-                </div>
-                <h4 class="skill-name">C (Embedded)</h4>
-                <div class="skill-bar">
-                  <div class="skill-progress" data-progress="95"></div>
-                </div>
-                <span class="skill-percentage">95%</span>
-              </div>
-
-              <div class="skill-card">
-                <div class="skill-icon">
-                  <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/e3dd768fff094af7a6f3694fc11b07f9ba1e91c1/assets/skill_icons/PY.svg" alt="Python" >
-                </div>
-                <h4 class="skill-name">Python</h4>
-                <div class="skill-bar">
-                  <div class="skill-progress" data-progress="55"></div>
-                </div>
-                <span class="skill-percentage">55%</span>
-              </div>
-            </div>
-          </div>
-
-          <!-- Electronic Skills -->
-          <div class="skill-category">
-            <h3 class="category-title">Electronics & IoT</h3>
-            <div class="skills-list">
-              <div class="skill-card">
-                <div class="skill-icon">
-                  <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/0e26ff078b0b712941446ab09053f5db6895dc70/assets/skill_icons/arduino.svg" alt="Arduino" >
-                </div>
-                <h4 class="skill-name">Arduino</h4>
-                <div class="skill-bar">
-                  <div class="skill-progress" data-progress="95"></div>
-                </div>
-                <span class="skill-percentage">95%</span>
-              </div>
-
-              <div class="skill-card">
-                <div class="skill-icon">
-                  <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/9e2eb5d0fc3787a6b9f0ed9323ffcb3d6e55d63a/assets/skill_icons/ESp.svg" alt="ESP">
-                </div>
-                <h4 class="skill-name">Espressif Systems</h4>
-                <div class="skill-bar">
-                  <div class="skill-progress" data-progress="95"></div>
-                </div>
-                <span class="skill-percentage">95%</span>
-              </div>
-
-              <div class="skill-card">
-                <div class="skill-icon">
-                  <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/9e2eb5d0fc3787a6b9f0ed9323ffcb3d6e55d63a/assets/skill_icons/Rasp.svg" alt="Rasp">
-                </div>
-                <h4 class="skill-name">Raspberry Pi</h4>
-                <div class="skill-bar">
-                  <div class="skill-progress" data-progress="65"></div>
-                </div>
-                <span class="skill-percentage">65%</span>
-              </div>
-
-              <div class="skill-card">
-                <div class="skill-icon">
-                  <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/39ab99770ad1fc656daa79766e40530b63546fb6/assets/skill_icons/ltspice.svg" alt="LTspice">
-                </div>
-                <h4 class="skill-name">LTSpice</h4>
-                <div class="skill-bar">
-                  <div class="skill-progress" data-progress="45"></div>
-                </div>
-                <span class="skill-percentage">45%</span>
-              </div>
-            </div>
-          </div>
-
-          <!-- Core Skills -->
-          <div class="skill-category">
-            <h3 class="category-title">Mechatronics</h3>
-            <div class="skills-list">
-              <div class="skill-card">
-                <div class="skill-icon">
-                  <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/5db3cce2bc4dab1d8535823ce807a73d30fc2f2f/assets/skill_icons/Drone.svg" alt="drone">
-                </div>
-                <h4 class="skill-name">Drones/UAV</h4>
-                <div class="skill-bar">
-                  <div class="skill-progress" data-progress="90"></div>
-                </div>
-                <span class="skill-percentage">90%</span>
-              </div>
-
-              <div class="skill-card">
-                <div class="skill-icon">
-                  <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/4fe531a115edad8a9308a24d224441a16518c9f2/assets/skill_icons/3D.svg" alt="SolidWorks">
-                </div>
-                <h4 class="skill-name">3D Designing</h4>
-                <div class="skill-bar">
-                  <div class="skill-progress" data-progress="70"></div>
-                </div>
-                <span class="skill-percentage">70%</span>
-              </div>
-
-              <div class="skill-card">
-                <div class="skill-icon">
-                  <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/5db3cce2bc4dab1d8535823ce807a73d30fc2f2f/assets/skill_icons/Comm.svg" alt="comm">
-                </div>
-                <h4 class="skill-name">Communication</h4>
-                <div class="skill-bar">
-                  <div class="skill-progress" data-progress="65"></div>
-                </div>
-                <span class="skill-percentage">65%</span>
-              </div>
-
-              <div class="skill-card">
-                <div class="skill-icon">
-                  <img src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/4fe531a115edad8a9308a24d224441a16518c9f2/assets/skill_icons/Auto.svg" alt="Auto">
-                </div>
-                <h4 class="skill-name">Mission Automation</h4>
-                <div class="skill-bar">
-                  <div class="skill-progress" data-progress="80"></div>
-                </div>
-                <span class="skill-percentage">80%</span>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+<div class="timeline-skills">
+<span class="skill-tag">Adobe Premiere Pro</span>
+<span class="skill-tag">Filmora</span>
+<span class="skill-tag">Video Editing</span>
+<span class="skill-tag">Invideo AI</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Skills Tab -->
+<div class="tab-content" id="skills">
+<div class="starry-background">
+<div class="star-glow"></div>
+<!-- Stars will be generated by JavaScript -->
+</div>
+<div class="skills-grid">
+<!-- language Skills -->
+<div class="skill-category">
+<h3 class="category-title">Languages</h3>
+<div class="skills-list">
+<div class="skill-card">
+<div class="skill-icon">
+<img alt="HTML" src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/e3dd768fff094af7a6f3694fc11b07f9ba1e91c1/assets/skill_icons/HTML.svg"/>
+</div>
+<h4 class="skill-name">HTML/CSS</h4>
+<div class="skill-bar">
+<div class="skill-progress" data-progress="90"></div>
+</div>
+<span class="skill-percentage">90%</span>
+</div>
+<div class="skill-card">
+<div class="skill-icon">
+<img alt="js" src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/e3dd768fff094af7a6f3694fc11b07f9ba1e91c1/assets/skill_icons/JS.svg"/>
+</div>
+<h4 class="skill-name">JavaScript/JSON</h4>
+<div class="skill-bar">
+<div class="skill-progress" data-progress="70"></div>
+</div>
+<span class="skill-percentage">70%</span>
+</div>
+<div class="skill-card">
+<div class="skill-icon">
+<img alt="C" src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/e3dd768fff094af7a6f3694fc11b07f9ba1e91c1/assets/skill_icons/c-original.svg"/>
+</div>
+<h4 class="skill-name">C (Embedded)</h4>
+<div class="skill-bar">
+<div class="skill-progress" data-progress="95"></div>
+</div>
+<span class="skill-percentage">95%</span>
+</div>
+<div class="skill-card">
+<div class="skill-icon">
+<img alt="Python" src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/e3dd768fff094af7a6f3694fc11b07f9ba1e91c1/assets/skill_icons/PY.svg"/>
+</div>
+<h4 class="skill-name">Python</h4>
+<div class="skill-bar">
+<div class="skill-progress" data-progress="55"></div>
+</div>
+<span class="skill-percentage">55%</span>
+</div>
+</div>
+</div>
+<!-- Electronic Skills -->
+<div class="skill-category">
+<h3 class="category-title">Electronics &amp; IoT</h3>
+<div class="skills-list">
+<div class="skill-card">
+<div class="skill-icon">
+<img alt="Arduino" src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/0e26ff078b0b712941446ab09053f5db6895dc70/assets/skill_icons/arduino.svg"/>
+</div>
+<h4 class="skill-name">Arduino</h4>
+<div class="skill-bar">
+<div class="skill-progress" data-progress="95"></div>
+</div>
+<span class="skill-percentage">95%</span>
+</div>
+<div class="skill-card">
+<div class="skill-icon">
+<img alt="ESP" src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/9e2eb5d0fc3787a6b9f0ed9323ffcb3d6e55d63a/assets/skill_icons/ESp.svg"/>
+</div>
+<h4 class="skill-name">Espressif Systems</h4>
+<div class="skill-bar">
+<div class="skill-progress" data-progress="95"></div>
+</div>
+<span class="skill-percentage">95%</span>
+</div>
+<div class="skill-card">
+<div class="skill-icon">
+<img alt="Rasp" src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/9e2eb5d0fc3787a6b9f0ed9323ffcb3d6e55d63a/assets/skill_icons/Rasp.svg"/>
+</div>
+<h4 class="skill-name">Raspberry Pi</h4>
+<div class="skill-bar">
+<div class="skill-progress" data-progress="65"></div>
+</div>
+<span class="skill-percentage">65%</span>
+</div>
+<div class="skill-card">
+<div class="skill-icon">
+<img alt="LTspice" src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/39ab99770ad1fc656daa79766e40530b63546fb6/assets/skill_icons/ltspice.svg"/>
+</div>
+<h4 class="skill-name">LTSpice</h4>
+<div class="skill-bar">
+<div class="skill-progress" data-progress="45"></div>
+</div>
+<span class="skill-percentage">45%</span>
+</div>
+</div>
+</div>
+<!-- Core Skills -->
+<div class="skill-category">
+<h3 class="category-title">Mechatronics</h3>
+<div class="skills-list">
+<div class="skill-card">
+<div class="skill-icon">
+<img alt="drone" src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/5db3cce2bc4dab1d8535823ce807a73d30fc2f2f/assets/skill_icons/Drone.svg"/>
+</div>
+<h4 class="skill-name">Drones/UAV</h4>
+<div class="skill-bar">
+<div class="skill-progress" data-progress="90"></div>
+</div>
+<span class="skill-percentage">90%</span>
+</div>
+<div class="skill-card">
+<div class="skill-icon">
+<img alt="SolidWorks" src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/4fe531a115edad8a9308a24d224441a16518c9f2/assets/skill_icons/3D.svg"/>
+</div>
+<h4 class="skill-name">3D Designing</h4>
+<div class="skill-bar">
+<div class="skill-progress" data-progress="70"></div>
+</div>
+<span class="skill-percentage">70%</span>
+</div>
+<div class="skill-card">
+<div class="skill-icon">
+<img alt="comm" src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/5db3cce2bc4dab1d8535823ce807a73d30fc2f2f/assets/skill_icons/Comm.svg"/>
+</div>
+<h4 class="skill-name">Communication</h4>
+<div class="skill-bar">
+<div class="skill-progress" data-progress="65"></div>
+</div>
+<span class="skill-percentage">65%</span>
+</div>
+<div class="skill-card">
+<div class="skill-icon">
+<img alt="Auto" src="https://raw.githubusercontent.com/SparkScratch-P/3D-view/4fe531a115edad8a9308a24d224441a16518c9f2/assets/skill_icons/Auto.svg"/>
+</div>
+<h4 class="skill-name">Mission Automation</h4>
+<div class="skill-bar">
+<div class="skill-progress" data-progress="80"></div>
+</div>
+<span class="skill-percentage">80%</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 </section>
-
 <!-- Script for tab switching functionality and animations -->
 <script>
   // Create starry background
@@ -1339,6 +1326,23 @@ modelViewer.addEventListener('load', () => {
   // Example: You can call this function to update icons
   // changeSkillIcon('React', 'https://example.com/new-react-icon.svg');
 </script>
+</body>
+</body><script>
+document.addEventListener('mousemove', (e) => {
+  const bg = document.getElementById('dynamic-bg');
+  const x = (e.clientX / window.innerWidth - 1) * 2;  // Range: -1 to 1
+  const y = (e.clientY / window.innerHeight - 1) * 2;
+  const scale = 1.15;
+  const rotateX = y * 10;
+  const rotateY = x * -10;
 
+  bg.style.transform = `scale(${scale}) rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
+});
+
+document.addEventListener('mouseleave', () => {
+  const bg = document.getElementById('dynamic-bg');
+  bg.style.transform = 'scale(1.15) rotateX(0deg) rotateY(0deg)';
+});
+</script>
 </body>
 </html>

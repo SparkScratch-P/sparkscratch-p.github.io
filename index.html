@@ -1333,8 +1333,8 @@ document.addEventListener('mousemove', (e) => {
   const x = (e.clientX / window.innerWidth - 1) * 2;  // Range: -1 to 1
   const y = (e.clientY / window.innerHeight - 1) * 2;
   const scale = 1.15;
-  const rotateX = y * 10;
-  const rotateY = x * -10;
+  const rotateX = y * 6;
+  const rotateY = x * -6;
 
   bg.style.transform = `scale(${scale}) rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
 });

@@ -224,6 +224,51 @@ body {
   position: relative;
   z-index: 1;
 }
+
+.project-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.project-card {
+  width: 280px;
+  background: linear-gradient(135deg, #1b1b2f, #151528);
+  border: 2px solid #a259ff;
+  border-radius: 20px;
+  padding: 1rem;
+  color: white;
+  transition: transform 0.3s, box-shadow 0.3s;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(162, 89, 255, 0.2);
+  transform-style: preserve-3d;
+}
+
+.project-card:hover {
+  transform: scale(1.05) rotateX(3deg) rotateY(3deg);
+  box-shadow: 0 20px 40px rgba(162, 89, 255, 0.4);
+}
+
+.project-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  margin-bottom: 1rem;
+}
+
+.project-card h3 {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 1.3rem;
+  color: #a259ff;
+}
+
+.project-card p {
+  font-size: 0.95rem;
+  color: #ccc;
+  margin-top: 0.5rem;
+}
+
 </style>
 </head>
 <body><div id="dynamic-bg" style="
@@ -363,6 +408,51 @@ body {
   position: relative;
   z-index: 1;
 }
+
+.project-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.project-card {
+  width: 280px;
+  background: linear-gradient(135deg, #1b1b2f, #151528);
+  border: 2px solid #a259ff;
+  border-radius: 20px;
+  padding: 1rem;
+  color: white;
+  transition: transform 0.3s, box-shadow 0.3s;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(162, 89, 255, 0.2);
+  transform-style: preserve-3d;
+}
+
+.project-card:hover {
+  transform: scale(1.05) rotateX(3deg) rotateY(3deg);
+  box-shadow: 0 20px 40px rgba(162, 89, 255, 0.4);
+}
+
+.project-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  margin-bottom: 1rem;
+}
+
+.project-card h3 {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 1.3rem;
+  color: #a259ff;
+}
+
+.project-card p {
+  font-size: 0.95rem;
+  color: #ccc;
+  margin-top: 0.5rem;
+}
+
 </style>
 <div class="about-content">
 <p class="intro fade-in-left">INTRODUCTION</p>
@@ -446,6 +536,51 @@ body {
   position: relative;
   z-index: 1;
 }
+
+.project-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.project-card {
+  width: 280px;
+  background: linear-gradient(135deg, #1b1b2f, #151528);
+  border: 2px solid #a259ff;
+  border-radius: 20px;
+  padding: 1rem;
+  color: white;
+  transition: transform 0.3s, box-shadow 0.3s;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(162, 89, 255, 0.2);
+  transform-style: preserve-3d;
+}
+
+.project-card:hover {
+  transform: scale(1.05) rotateX(3deg) rotateY(3deg);
+  box-shadow: 0 20px 40px rgba(162, 89, 255, 0.4);
+}
+
+.project-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  margin-bottom: 1rem;
+}
+
+.project-card h3 {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 1.3rem;
+  color: #a259ff;
+}
+
+.project-card p {
+  font-size: 0.95rem;
+  color: #ccc;
+  margin-top: 0.5rem;
+}
+
 </style>
 <body>
 <div class="cards-container">
@@ -928,6 +1063,51 @@ body {
   position: relative;
   z-index: 1;
 }
+
+.project-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.project-card {
+  width: 280px;
+  background: linear-gradient(135deg, #1b1b2f, #151528);
+  border: 2px solid #a259ff;
+  border-radius: 20px;
+  padding: 1rem;
+  color: white;
+  transition: transform 0.3s, box-shadow 0.3s;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(162, 89, 255, 0.2);
+  transform-style: preserve-3d;
+}
+
+.project-card:hover {
+  transform: scale(1.05) rotateX(3deg) rotateY(3deg);
+  box-shadow: 0 20px 40px rgba(162, 89, 255, 0.4);
+}
+
+.project-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  margin-bottom: 1rem;
+}
+
+.project-card h3 {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 1.3rem;
+  color: #a259ff;
+}
+
+.project-card p {
+  font-size: 0.95rem;
+  color: #ccc;
+  margin-top: 0.5rem;
+}
+
 </style>
 <body>
 <!-- Work Experience Section -->
@@ -1326,8 +1506,44 @@ body {
   // Example: You can call this function to update icons
   // changeSkillIcon('React', 'https://example.com/new-react-icon.svg');
 </script>
-</body>
-</body><script>
+
+<!-- Projects Section -->
+<section id="projects" style="position: relative; padding: 5vh 10vw; z-index: 2;">
+  <!-- Drone Image at Top Right -->
+
+<!-- Interactive Drone 3D Model -->
+<model-viewer src="https://github.com/SparkScratch-P/3D-view/raw/refs/heads/main/assets/3D/drone.glb"
+              alt="3D Drone Model"
+              auto-rotate
+              camera-controls
+              disable-zoom
+              environment-image="neutral"
+              exposure="1.2"
+              style="width: 180px; height: 180px; position: absolute; top: 10px; right: 10px; z-index: 10;">
+</model-viewer>
+
+
+  <h2 style="font-family: 'Poppins', sans-serif; font-size: 3rem; color: #d0d0d0; margin-bottom: 2rem;">Projects</h2>
+  
+  <div class="project-cards">
+    <div class="project-card">
+      <img src="https://via.placeholder.com/300x150.png?text=Project+1" alt="Project 1">
+      <h3>Autonomous Rover</h3>
+      <p>Designed and programmed an AI-controlled rover using ESP32 and ultrasonic sensors, controlled via web interface.</p>
+    </div>
+    <div class="project-card">
+      <img src="https://via.placeholder.com/300x150.png?text=Project+2" alt="Project 2">
+      <h3>Control & Telemetry UI</h3>
+      <p>Built a real-time telemetry dashboard for UAVs using Firebase and JSON for live 3D visualization.</p>
+    </div>
+    <div class="project-card">
+      <img src="https://via.placeholder.com/300x150.png?text=Project+3" alt="Project 3">
+      <h3>Smart Home Control</h3>
+      <p>Developed a voice and web-controlled smart home system using Arduino and Python Flask backend.</p>
+    </div>
+  </div>
+</section>
+<script>
 document.addEventListener('mousemove', (e) => {
   const bg = document.getElementById('dynamic-bg');
   const x = (e.clientX / window.innerWidth - 1) * 2;  // Range: -1 to 1
@@ -1344,5 +1560,6 @@ document.addEventListener('mouseleave', () => {
   bg.style.transform = 'scale(1.15) rotateX(0deg) rotateY(0deg)';
 });
 </script>
+
 </body>
 </html>

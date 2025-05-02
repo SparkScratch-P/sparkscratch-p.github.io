@@ -1,4 +1,4 @@
-45<!DOCTYPE html>
+<!DOCTYPE html>
 
 <html lang="en">
 <head>
@@ -6,9 +6,6 @@
 <title>Prodyumna Pal | SparkScratch-P</title>
 <script src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js" type="module"></script>
 <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&amp;family=Inter:wght@300;600&amp;display=swap" rel="stylesheet"/>
-<!-- Load model-viewer -->
-<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
-
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap');
 
@@ -1512,6 +1509,19 @@ body {
 
 <!-- Projects Section -->
 <section id="projects" style="position: relative; padding: 5vh 10vw; z-index: 2;">
+  <!-- Drone Image at Top Right -->
+
+<!-- Interactive Drone 3D Model -->
+<model-viewer src="./assets/3D/bldc.glb"
+              alt="3D Drone Model"
+              auto-rotate
+              autoplay
+              camera-controls
+              disable-zoom
+              environment-image="neutral"
+              exposure="1.2"
+              style="width: 450px; height: 880px; position: absolute; bottom: 10px; left: 10px; z-index: 10; transform: translateY(400px)">
+</model-viewer>
 
   <h2 style="font-family: 'Poppins', sans-serif; font-size: 3rem; color: #d0d0d0; margin-bottom: 2rem;">Projects</h2>
   
@@ -1532,18 +1542,6 @@ body {
       <p>Developed a voice and web-controlled smart home system using Arduino and Python Flask backend.</p>
     </div>
   </div>
-    <!-- Interactive Drone 3D Model -->
-
-<model-viewer src="./assets/3D/bldc.glb"
-              alt="3D Drone Model"
-              auto-rotate
-              autoplay
-              camera-controls
-              disable-zoom
-              environment-image="neutral"
-              exposure="1.2"
-              style="width: 350px; height: 880px; position: absolute; bottom: 10px; left: 10px; z-index: 10; transform: translateY(400px)">
-</model-viewer>
 </section>
 <script>
 document.addEventListener('mousemove', (e) => {

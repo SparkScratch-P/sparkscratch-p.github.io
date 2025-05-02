@@ -1534,14 +1534,16 @@ body {
   </div>
     <!-- Interactive Drone 3D Model -->
 
-<div style="height: 800px; overflow: hidden; position: relative;">
-<model-viewer src="./assets/3D/bicopter/scene.gltf"
-    autoplay
-    camera-controls
-    environment-image="neutral"
-    style="width: 25%; height: 1600px; position: absolute; bottom: 10px; left: 10px; z-index: 10; transform: translateY(-400px);">
-  </model-viewer>
-</div>
+<model-viewer src="./assets/3D/bicopter.gltf"
+              alt="3D Drone Model"
+              auto-rotate
+              autoplay
+              camera-controls
+              disable-zoom
+              environment-image="neutral"
+              exposure="1.2"
+              style="width: 250px; height: 180px; position: absolute; bottom: 10px; left: 10px; z-index: 10; transform: translateY(-400px);">
+</model-viewer>
 </section>
 <script>
 document.addEventListener('mousemove', (e) => {

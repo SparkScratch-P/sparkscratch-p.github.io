@@ -4,6 +4,8 @@
 <meta charset="utf-8"/>
 <title>Prodyumna Pal | SparkScratch-P</title>
 <script src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js" type="module"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
 <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&amp;family=Inter:wght@300;600&amp;display=swap" rel="stylesheet"/>
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap');
@@ -1064,50 +1066,88 @@ body {
   position: relative;
   z-index: 1;
 }
-
 .project-cards {
   display: flex;
   flex-wrap: wrap;
-  gap: 2rem;
   justify-content: center;
+  gap: 2rem;
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 .project-card {
-  width: 280px;
-  background: linear-gradient(135deg, #1b1b2f, #151528);
+  position: relative;
+  flex: 1 1 30%;
+  min-width: 320px;
+  max-width: 360px;
+  background: linear-gradient(135deg, #1e1e2f, #141421);
   border: 2px solid #a259ff;
-  border-radius: 20px;
-  padding: 1rem;
+  border-radius: 24px;
+  padding: 1.5rem;
   color: white;
-  transition: transform 0.3s, box-shadow 0.3s;
   text-align: center;
-  box-shadow: 0 10px 30px rgba(162, 89, 255, 0.2);
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+  box-shadow: 0 10px 30px rgba(162, 89, 255, 0.25);
   transform-style: preserve-3d;
+  overflow: hidden;
 }
 
 .project-card:hover {
-  transform: scale(1.05) rotateX(3deg) rotateY(3deg);
-  box-shadow: 0 20px 40px rgba(162, 89, 255, 0.4);
+  transform: scale(1.06) rotateX(5deg) rotateY(5deg);
+  box-shadow: 0 0 25px #6705d7, 0 0 50px #6b06f0;
 }
 
 .project-card img {
   width: 100%;
   height: auto;
-  border-radius: 12px;
-  margin-bottom: 1rem;
+  border-radius: 24px;
+  margin-bottom: 1.5rem;
 }
 
 .project-card h3 {
   font-family: 'Orbitron', sans-serif;
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   color: #a259ff;
+  margin-bottom: 0.5rem;
 }
 
 .project-card p {
-  font-size: 0.95rem;
+  font-size: 1rem;
   color: #ccc;
-  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+  line-height: 1.5;
 }
+
+.tech-stack {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+
+.tech-stack span {
+  font-size: 0.85rem;
+  color: #a21efa;
+}
+
+.github-icon {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  color: #fff;
+  background: #000;
+  border-radius: 50%;
+  padding: 0.5rem;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.github-icon:hover {
+  transform: scale(1.2);
+  color: #a959ff;
+}
+
 
 </style>
 <body>
@@ -1526,23 +1566,97 @@ body {
 
   <h2 style="font-family: 'Poppins', sans-serif; font-size: 3rem; color: #d0d0d0; margin-bottom: 2rem;">Projects</h2>
   
+<!-- Include Font Awesome in your <head> -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
   <div class="project-cards">
+  
     <div class="project-card">
-      <img src="https://via.placeholder.com/300x150.png?text=Project+1" alt="Project 1">
+      <a href="https://github.com/SparkScratch-P" target="_blank" class="github-icon">
+        <i class="fab fa-github fa-lg"></i>
+      </a>
+      <img src="https://avatars.githubusercontent.com/u/73777108?v=4" alt="Tekisky Mart Screenshot" />
       <h3>Autonomous Dual-Rotor Drone</h3>
-      <p>Engineered a dual-rotor drone, mechanically and electronically robust, with DIY Flight controller and an Internet-based receiver.</p>
+      <p>Engineered a dual-rotor drone, mechanically and electronically robust, with DIY flight controller and Internet-based receiver.</p>
+      <div class="tech-stack">
+        <span>#Betaflight</span>
+        <span>#ESP32</span>
+        <span>#Firebase</span>
+      </div>
     </div>
+  
     <div class="project-card">
+      <a href="https://github.com/SparkScratch-P/web-control-UEV" target="_blank" class="github-icon">
+        <i class="fab fa-github fa-lg"></i>
+      </a>
       <img src="https://via.placeholder.com/300x150.png?text=Project+2" alt="Project 2">
-      <h3>Control & Telemetry UI</h3>
-      <p>Built a real-time telemetry dashboard for UAVs using Firebase and JSON for live 3D visualization.</p>
+      <h3>Control over Internet IoT Architecture</h3>
+      <p>A software, paired with database and 4G systems that can facilitate Remote Control and Telemetry over the Internet irrespective of range.</p>
+      <div class="tech-stack">
+        <span>#Blynk</span>
+        <span>#ESP32</span>
+        <span>#Turbowarp</span>
+      </div>
     </div>
+  
     <div class="project-card">
+      <a href="https://github.com/SparkScratch-P/Electro_GPT" target="_blank" class="github-icon">
+        <i class="fab fa-github fa-lg"></i>
+      </a>
       <img src="https://via.placeholder.com/300x150.png?text=Project+3" alt="Project 3">
       <h3>Electro GPT & Deep Research AI</h3>
-      <p>Developed two AI Applications- one an Electronics Engineering expert with dynamic LLM, and the other for deep research on a topic by web-crawling.</p>
+      <p>Developed two AI applications—one an electronics engineering expert using a dynamic LLM, and another for deep research through web crawling.</p>
+      <div class="tech-stack">
+        <span>#API</span>
+        <span>#Full-Stack</span>
+        <span>#LLM & GPT</span>
+      </div>
     </div>
+  
+    <div class="project-card">
+      <a href="https://github.com/SparkScratch-P/The-Quiz-Live" target="_blank" class="github-icon">
+        <i class="fab fa-github fa-lg"></i>
+      </a>
+      <img src="https://via.placeholder.com/300x150.png?text=Project+1" alt="Project 1">
+      <h3>The Quiz Live</h3>
+      <p>A live quizzing app that lets the audience answer from their own devices in real time, while questions are centrally broadcasted.</p>
+      <div class="tech-stack">
+        <span>#Turbowarp</span>
+        <span>#Websocket</span>
+        <span>#MIT App Inventor</span>
+      </div>
+    </div>
+  
+    <div class="project-card">
+      <a href="https://github.com/SparkScratch-P/smart-traffic-junction" target="_blank" class="github-icon">
+        <i class="fab fa-github fa-lg"></i>
+      </a>
+      <img src="https://via.placeholder.com/300x150.png?text=Project+2" alt="Project 2">
+      <h3>AI Traffic Signal Systems</h3>
+      <p>A traffic control system using computer vision to read traffic crowds, with an app to trigger green corridors and access global signal data.</p>
+      <div class="tech-stack">
+        <span>#Embedded C</span>
+        <span>#Turbowarp</span>
+        <span>#Tensorflow</span>
+      </div>
+    </div>
+  
+    <div class="project-card">
+      <a href="#" target="_blank" class="github-icon">
+        <i class="fab fa-github fa-lg"></i>
+      </a>
+      <img src="https://via.placeholder.com/300x150.png?text=Project+3" alt="Project 3">
+      <h3>Railways Locomotive</h3>
+      <p>Coming soon — a tribute to GSV & DFCCIL, Indian Railways.</p>
+      <div class="tech-stack">
+        <span>#Raspberry Pi</span>
+        <span>#ESP32</span>
+        <span>#Firebase</span>
+      </div>
+    </div>
+  
   </div>
+  
 </section>
 <script>
 document.addEventListener('mousemove', (e) => {

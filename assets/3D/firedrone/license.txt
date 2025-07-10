@@ -1,0 +1,11 @@
+Model Information:
+* title:	Scifi Drone 1.1
+* source:	https://sketchfab.com/3d-models/scifi-drone-11-dd21953e81a24bd385d16eaf0c6a8ae7
+* author:	Javier Martín Hidalgo (https://sketchfab.com/Jj.Mmhh)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Scifi Drone 1.1" (https://sketchfab.com/3d-models/scifi-drone-11-dd21953e81a24bd385d16eaf0c6a8ae7) by Javier Martín Hidalgo (https://sketchfab.com/Jj.Mmhh) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
